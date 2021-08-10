@@ -1,0 +1,3001 @@
+Rank,Player,Rating,Winrate,Games,Avg.Score,HS%,Class,Region
+1,T1 curry#0000,750,57.1%,60,"5,221",25.9%,Sentinel,North America
+2,wippie#nori,744,56.4%,56,"5,072",23.5%,Duelist,North America
+3,EG Temperature#EVIL,741,51.2%,68,"5,252",25.6%,Sentinel,North America
+4,C0M#idkam,727,52.2%,47,"5,140",25.7%,Initiator,North America
+5,poiz#poiz,721,53.3%,67,"5,581",22.1%,Duelist,North America
+6,DBK#647,720,59.5%,102,"5,289",34.9%,Duelist,North America
+7,BigDcop#0000,697,54.4%,50,"5,214",18.6%,Duelist,North America
+8,NV Victor#777,683,57.8%,57,"5,514",24.3%,Duelist,North America
+9,johnqt#1337,665,59.7%,41,"5,002",26.0%,Duelist,North America
+10,Dopai#NA1,663,61.3%,66,"4,979",18.8%,Duelist,North America
+11,XSET BcJ#5FT2,658,68.1%,34,"5,140",17.5%,Initiator,North America
+12,SRN Jonaaa6#000,658,49.0%,75,"4,652",22.3%,Sentinel,North America
+13,NRG s0m#NRG,658,57.1%,69,"5,590",27.9%,Duelist,North America
+14,XSET Wedid#XSET,642,51.1%,49,"4,782",26.5%,Controller,North America
+15,ELY Campion#ESH,638,66.7%,28,"5,041",19.2%,Duelist,North America
+16,SARGE#MONKE,635,60.9%,54,"4,234",19.6%,Initiator,North America
+17,C9 leaf#XITER,633,63.1%,42,"5,763",29.6%,Controller,North America
+18,JASONR24#9498,633,57.1%,49,"4,931",18.6%,Controller,North America
+19,Gameface#NA1,631,62.3%,43,"4,606",25.5%,Sentinel,North America
+20,FaZe babybay#1313,630,54.4%,43,"5,860",22.5%,Duelist,North America
+21,BabyJ#Halo,619,55.6%,41,"4,817",23.8%,Sentinel,North America
+22,Exalt#EZ4ME,619,46.1%,58,"5,516",25.6%,Duelist,North America
+23,NRG eeiu#1945,619,57.6%,33,"5,072",25.7%,Duelist,North America
+24,V1 Zellsis#1240,618,48.1%,38,"5,485",26.1%,Duelist,North America
+25,Rise Showtime#tony,614,60.0%,33,"5,294",17.5%,Duelist,North America
+26,tech#4974,612,77.4%,27,"5,127",24.3%,Duelist,North America
+27,SS Lyk0s#420,610,54.9%,52,"4,636",18.5%,Duelist,North America
+28,Cryocells#8424,608,68.9%,30,"5,968",27.7%,Duelist,North America
+29,DIG dephh#pig,599,56.1%,36,"4,947",26.6%,Sentinel,North America
+30,100T Hiko#000,597,59.7%,37,"5,014",25.9%,Initiator,North America
+31,ELY choiboi#kev,594,59.5%,43,"4,483",24.0%,Sentinel,North America
+32,geeza#skins,587,60.0%,38,"4,924",30.4%,Sentinel,North America
+33,SEN TenZ#0505,586,63.5%,33,"6,356",21.8%,Duelist,North America
+34,COL JonahP#ttv,585,64.9%,24,"5,278",30.3%,Initiator,North America
+35,SEN zombs#naysh,585,50.8%,63,"5,027",21.0%,Controller,North America
+36,BC BDOG#92122,570,56.5%,26,"5,619",24.2%,Controller,North America
+37,Strafe#RIVER,570,55.4%,68,"5,071",24.3%,Duelist,North America
+38,100T Asuna#1111,568,58.6%,33,"5,841",20.0%,Duelist,North America
+39,SkuLLy#Jai,567,60.2%,51,"5,118",18.9%,Duelist,North America
+40,GenG Shawn#12590,566,65.0%,25,"5,708",26.7%,Sentinel,North America
+41,SRN ban#xuf,566,49.1%,79,"5,168",22.7%,Duelist,North America
+42,Bankroft#2021,564,53.6%,46,"4,917",18.7%,Duelist,North America
+43,BeforeTommorow#NA1,561,63.6%,58,"4,910",23.4%,Sentinel,North America
+44,prompt#cutie,559,53.1%,82,"4,753",29.2%,Duelist,North America
+45,NV crashies#777,558,68.6%,23,"5,379",28.6%,Initiator,North America
+46,Dynasty#LFT,556,46.9%,68,"4,304",16.6%,Sentinel,North America
+47,Playboi Joe#jvN,553,59.5%,21,"5,345",23.7%,Duelist,North America
+48,DIG rara#1945,549,53.3%,66,"5,332",36.8%,Duelist,North America
+49,Harmful#80085,548,54.8%,70,"5,468",25.0%,Duelist,North America
+50,Dark3st#7489,548,55.8%,51,"4,955",23.4%,Duelist,North America
+51,bang#iwnl,546,49.5%,50,"5,719",35.3%,Controller,North America
+52,jovahnii#3189,544,49.2%,29,"5,153",21.8%,Duelist,North America
+53,WP ROYCE#1022,544,55.7%,86,"5,016",22.4%,Duelist,North America
+54,カカシ#kaka,543,64.3%,100,"5,400",18.0%,Duelist,North America
+55,Vongzu#1738,542,52.5%,62,"4,658",25.4%,Duelist,North America
+56,diceyzx#quan,541,45.5%,46,"5,295",19.7%,Duelist,North America
+57,smokeandbeat#Smoke,541,49.6%,66,"5,014",22.6%,Controller,North America
+58,JAWGEMO#MOR,538,48.0%,62,"5,089",23.3%,Duelist,North America
+59,vEz#1337,533,57.9%,33,"4,456",24.3%,Sentinel,North America
+60,gabeler#427,532,57.0%,66,"4,514",24.7%,Controller,North America
+61,aME moony#GANJI,531,55.2%,32,"4,677",27.1%,Sentinel,North America
+62,Sympul#000,531,51.5%,54,"4,308",26.0%,Duelist,North America
+63,SEN ShahZaM#huh,531,51.2%,84,"5,262",25.3%,Duelist,North America
+64,Neon#AIMER,529,58.1%,38,"4,860",20.6%,Duelist,North America
+65,JazzyB#Singh,528,60.0%,40,"4,565",14.6%,Sentinel,North America
+66,endure#cindy,527,57.0%,51,"4,989",28.0%,Duelist,North America
+67,miniature#blokA,523,58.1%,82,"4,943",23.4%,Sentinel,North America
+68,Avexedd#1776,523,51.5%,108,"4,897",19.9%,Duelist,North America
+69,riku#goat,522,58.1%,54,"5,104",18.6%,Duelist,North America
+70,raeB#1134,521,56.1%,56,"4,416",16.6%,Duelist,North America
+71,xprt#7321,520,49.4%,85,"4,772",25.8%,Initiator,North America
+72,Brother Salami#NA1,518,57.1%,40,"4,205",23.0%,Sentinel,North America
+73,RNG CP2#123,515,52.7%,70,"4,568",28.4%,Controller,North America
+74,BruiserBoi#8973,514,64.1%,28,"5,150",24.0%,Duelist,North America
+75,SRN GLORINSZ#1616,512,56.3%,36,"4,803",22.2%,Controller,North America
+76,LG moose#E30,511,50.0%,29,"5,203",23.9%,Initiator,North America
+77,nabil#100,511,50.0%,63,"5,410",21.3%,Duelist,North America
+78,LG YaBoiDre#WEEB,509,60.6%,19,"5,471",28.3%,Duelist,North America
+79,RNG randyySAVAGE#666,508,53.5%,26,"5,368",28.2%,Sentinel,North America
+80,TSM hazed#TSM,507,42.6%,33,"4,634",28.7%,Sentinel,North America
+81,reach#00000,507,51.0%,50,"5,249",17.2%,Duelist,North America
+82,ABX mada#1945,506,61.2%,32,"4,978",29.7%,Duelist,North America
+83,roach#1240,505,67.2%,41,"5,742",21.8%,Duelist,North America
+84,ABX yay#yay,504,46.2%,38,"5,809",38.2%,Duelist,North America
+85,1two#7398,504,53.7%,36,"5,400",30.0%,Duelist,North America
+86,SS BlackMoose#LFT,502,60.0%,24,"4,882",22.0%,Initiator,North America
+87,plat1num#777,501,53.3%,27,"4,911",23.6%,Initiator,North America
+88,Shootah#9144,499,49.6%,60,"5,076",22.9%,Duelist,North America
+89,bite#300,498,53.3%,69,"4,086",27.5%,Duelist,North America
+90,Huso#0724,496,57.3%,43,"4,241",19.2%,Initiator,North America
+91,Twitch Gucc107#Sexy,496,44.4%,58,"5,119",22.9%,Duelist,North America
+92,TSM WARDELL#OPAC,495,56.8%,25,"5,640",20.7%,Duelist,North America
+93,fives#2008,494,62.8%,51,"4,816",16.8%,Initiator,North America
+94,AztKk#MEXX,493,54.2%,45,"4,330",18.4%,Initiator,North America
+95,Restoredrambo#2884,490,52.1%,104,"4,968",27.3%,Initiator,North America
+96,smart#1337,489,51.9%,67,"4,561",35.3%,Initiator,North America
+97,ELY Cade3k#gamer,489,59.5%,25,"4,655",26.2%,Controller,North America
+98,nmgreen#1211,489,61.1%,48,"5,349",25.0%,Duelist,North America
+99,Mendo#1337,488,50.3%,75,"5,049",24.1%,Duelist,North America
+100,butttpounder#NA1,487,55.6%,24,"5,274",20.0%,Sentinel,North America
+101,FG infiltrator#000,487,53.0%,91,"5,466",26.3%,Duelist,North America
+102,NOBLE Menace#awp,486,56.4%,65,"5,315",14.6%,Duelist,North America
+103,SSG Pr0phie#007,485,56.4%,31,"5,297",27.0%,Initiator,North America
+104,rice bulgogi#NA1,485,56.7%,50,"5,604",24.1%,Duelist,North America
+105,Silho#000,484,48.4%,43,"4,301",28.4%,Initiator,North America
+106,LDM XANDER#Jett,484,61.2%,29,"4,851",16.3%,Duelist,North America
+107,i love mina#weeb,482,53.2%,28,"5,236",24.1%,Duelist,North America
+108,Lear#SWING,482,55.4%,30,"4,581",25.2%,Duelist,North America
+109,PS CLINT#000,482,58.0%,28,"4,663",24.6%,Duelist,North America
+110,dizzy#5852,479,54.2%,32,"5,154",27.8%,Controller,North America
+111,BC TiGG#TiGG,479,52.0%,52,"4,937",26.6%,Duelist,North America
+112,DVS DenzJK#xxx,479,59.7%,44,"4,917",18.0%,Duelist,North America
+113,fluffyzx#idc,478,41.5%,55,"5,888",23.8%,Duelist,North America
+114,Spaz#7007,478,63.5%,48,"4,250",17.7%,Controller,North America
+115,PureVNS#RIVER,478,48.4%,89,"4,565",32.2%,Controller,North America
+116,Nara#604,477,46.2%,35,"4,682",21.8%,Duelist,North America
+117,FS w0rldw1de#001,475,60.7%,16,"4,511",28.3%,Controller,North America
+118,LG thief#0NA,475,62.5%,20,"5,208",32.9%,Duelist,North America
+119,Hima#000,475,53.8%,65,"5,200",18.0%,Duelist,North America
+120,cky#nhy,475,56.2%,71,"4,945",31.4%,Duelist,North America
+121,Sofa#000,475,44.0%,53,"4,331",21.1%,Controller,North America
+122,TTVBigPoppak#LFT,474,48.1%,86,"4,728",28.8%,Duelist,North America
+123,Rickdad#124,473,78.3%,17,"5,247",25.5%,Controller,North America
+124,SEN dapr#1of1,472,53.7%,22,"5,255",21.6%,Sentinel,North America
+125,FYB krZ#QQQ,471,61.1%,22,"4,582",28.1%,Sentinel,North America
+126,WP SoyAnthony#amy,471,54.1%,81,"5,152",23.3%,Initiator,North America
+127,PK XXiF#9146,470,51.4%,23,"5,451",31.0%,Duelist,North America
+128,Jerk#001,468,54.5%,55,"5,002",16.9%,Sentinel,North America
+129,googly#なでしこ,468,54.5%,82,"4,744",18.0%,Initiator,North America
+130,GenG gMd#1337,467,60.7%,36,"4,700",30.3%,Controller,North America
+131,ikanD#123,467,57.0%,53,"4,687",30.3%,Controller,North America
+132,Derrek#0001,467,53.9%,54,"5,202",32.0%,Initiator,North America
+133,VapeN#5771,467,57.9%,67,"4,599",24.9%,Controller,North America
+134,1337 itilacisyhP#IMBCK,466,53.7%,88,"5,156",22.1%,Duelist,North America
+135,IMT genghsta#PLLGE,465,58.3%,22,"4,904",28.7%,Initiator,North America
+136,Sloppify#1500,465,66.7%,31,"4,303",18.5%,Controller,North America
+137,IMT Kehmicals#imp,463,50.0%,21,"4,973",18.6%,Duelist,North America
+138,fiziq#SSR1,463,50.0%,41,"4,792",25.9%,Sentinel,North America
+139,aceu#vert,462,58.1%,18,"5,416",26.4%,Duelist,North America
+140,gimp#1337,462,50.5%,49,"5,574",24.6%,Duelist,North America
+141,ExP churro#ExP,461,48.4%,31,"4,555",20.2%,Duelist,North America
+142,DENYA#1 OP,461,54.2%,31,"5,052",22.4%,Duelist,North America
+143,cris#0001,461,54.7%,28,"4,634",20.4%,Sentinel,North America
+144,willard#uwu,461,51.6%,79,"4,739",25.3%,Initiator,North America
+145,RaiseorV2#NA1,460,66.7%,57,"5,660",22.8%,Duelist,North America
+146,chrollo#99999,460,59.4%,40,"3,707",20.7%,Sentinel,North America
+147,brawk#zzz,458,52.3%,68,"4,685",24.0%,Initiator,North America
+148,Tucker#Big,458,59.6%,34,"4,375",22.6%,Initiator,North America
+149,Jupiter#6878,458,54.1%,65,"4,955",19.9%,Duelist,North America
+150,Saiko#TBATE,457,60.0%,34,"4,548",26.9%,Duelist,North America
+151,Viooz#TTV,457,62.9%,39,"5,175",30.7%,Sentinel,North America
+152,ABX b0i#ftw,456,65.2%,14,"4,898",17.5%,Controller,North America
+153,Bones#445,455,57.1%,41,"5,525",24.4%,Duelist,North America
+154,TRANCE#WANCE,455,51.4%,36,"4,642",15.8%,Duelist,North America
+155,A B#ABAB,455,55.6%,24,"4,835",24.4%,Duelist,North America
+156,BcJ#5FT2,453,55.9%,18,"5,708",19.1%,Duelist,North America
+157,Dani#TTV,453,49.1%,26,"4,789",20.3%,Initiator,North America
+158,LotzPlayz#4576,453,52.1%,39,"4,101",18.8%,Initiator,North America
+159,hate#xxx,453,61.8%,41,"4,879",25.7%,Duelist,North America
+160,OTW Leviathan#Utube,452,55.5%,67,"4,778",20.0%,Initiator,North America
+161,cavern#001,452,57.3%,59,"5,175",26.7%,Duelist,North America
+162,VinhQT#1337,451,54.1%,20,"5,478",23.2%,Duelist,North America
+163,Pietrovos#menta,451,54.3%,39,"4,833",25.1%,Initiator,North America
+164,V1 effys#LBE,451,51.0%,26,"4,788",21.4%,Initiator,North America
+165,MWG TTV#803,451,50.4%,61,"5,291",22.1%,Duelist,North America
+166,ASSERT#ºrz,451,54.3%,41,"5,104",30.1%,Controller,North America
+167,FA VelocityFear#Yep,450,61.0%,24,"4,720",18.9%,Duelist,North America
+168,Kyro#kana,450,65.7%,22,"5,043",22.7%,Initiator,North America
+169,Rustun#8996,450,53.7%,23,"4,456",24.5%,Sentinel,North America
+170,sacred#7187,450,50.4%,62,"5,084",25.0%,Duelist,North America
+171,NV mummAy#OPR47,449,53.3%,17,"4,912",21.2%,Controller,North America
+172,anguish#600,449,45.5%,41,"5,106",25.0%,Duelist,North America
+173,Fundy#1337,449,52.2%,24,"4,838",20.9%,Controller,North America
+174,cheatcode#AIMER,449,52.5%,55,"5,184",34.6%,Duelist,North America
+175,cuhnor#LOL,449,48.7%,61,"4,404",16.2%,Duelist,North America
+176,NELPY#urmad,448,49.4%,86,"4,787",20.0%,Duelist,North America
+177,keruse#uwu,447,62.5%,24,"4,667",17.4%,Duelist,North America
+178,GenG HUYNH#GRACE,446,56.8%,27,"4,764",21.1%,Duelist,North America
+179,Racoone#TTV,445,46.6%,53,"4,615",9.1%,Duelist,North America
+180,brando#1337,445,53.8%,35,"4,330",16.5%,Initiator,North America
+181,swissayy#dachz,444,53.0%,61,"4,714",22.9%,Duelist,North America
+182,link#604,444,56.1%,32,"4,617",20.9%,Controller,North America
+183,RNG winsum#000,444,61.3%,39,"5,089",23.7%,Duelist,North America
+184,envys#JPN,443,52.3%,67,"4,432",28.7%,Initiator,North America
+185,Line#Nah,443,53.6%,61,"4,912",32.1%,Duelist,North America
+186,swirl#onYT,443,60.2%,49,"5,422",30.3%,Duelist,North America
+187,TAMU dam#GOAT,441,56.9%,37,"4,360",22.2%,Controller,North America
+188,Tsuya#Alice,441,54.9%,39,"5,175",16.6%,Duelist,North America
+189,NXBLE#ttv,440,53.2%,52,"5,089",20.5%,Duelist,North America
+190,DenzJK2#2001,440,60.6%,39,"5,042",20.6%,Sentinel,North America
+191,shenanigaNS#KENT,439,52.8%,27,"4,159",11.8%,Sentinel,North America
+192,valyn#GOD,438,49.1%,27,"4,971",18.6%,Duelist,North America
+193,tonyyosa#NA1,438,70.6%,23,"3,309",19.8%,Sentinel,North America
+194,zoro#BEAST,437,59.3%,63,"5,378",25.7%,Duelist,North America
+195,C9 xeta#sonny,436,54.1%,35,"4,714",21.9%,Initiator,North America
+196,sharky#nba,436,62.2%,46,"5,288",22.2%,Initiator,North America
+197,C9 Relyks#vibin,435,47.1%,18,"4,968",25.0%,Duelist,North America
+198,GenG MkaeL#bot,435,56.4%,21,"4,716",19.9%,Initiator,North America
+199,juniorZ#111,435,46.6%,33,"5,130",19.6%,Duelist,North America
+200,caders#iwnl,435,55.7%,57,"4,577",24.7%,Controller,North America
+201,1337 sae#iwnl,435,54.4%,45,"5,033",17.3%,Duelist,North America
+202,c4Lypso#Bald,434,55.4%,32,"5,733",33.3%,Sentinel,North America
+203,bobakid#1234,434,55.0%,44,"5,060",26.5%,Duelist,North America
+204,DIG makkaloff#unluc,434,63.2%,37,"5,456",26.5%,Initiator,North America
+205,ART1C#2006,433,56.6%,70,"4,218",26.1%,Sentinel,North America
+206,RNG Strong Legs#1337,432,42.9%,33,"4,660",22.8%,Initiator,North America
+207,T1 autimatic#cdnw,432,54.3%,50,"4,882",22.0%,Duelist,North America
+208,TI Kurt#000,432,54.9%,46,"4,959",22.2%,Initiator,North America
+209,FaZe Rawkus#1337,431,53.7%,31,"5,081",23.9%,Initiator,North America
+210,OK THOOMER#OKT,431,58.8%,47,"4,475",18.2%,Initiator,North America
+211,Ezire#000,431,50.0%,63,"4,729",29.5%,Sentinel,North America
+212,XSET thwifo#2628,429,57.1%,19,"4,264",28.0%,Sentinel,North America
+213,C9 Keiti#Boop,429,68.6%,23,"5,524",34.2%,Duelist,North America
+214,stifler#128,429,48.3%,16,"6,055",21.6%,Duelist,North America
+215,sugarfree#000,429,48.5%,32,"4,771",22.4%,Duelist,North America
+216,Dasnerth#5793,429,51.6%,68,"4,518",8.6%,Sentinel,North America
+217,DVS Soooooupy#xxx,428,53.6%,14,"5,053",27.7%,Sentinel,North America
+218,nillyaz#sosa,428,57.6%,18,"5,017",29.7%,Duelist,North America
+219,DYNAMITEGARRY#8700,427,64.3%,17,"4,077",23.5%,Controller,North America
+220,Moechilla#Sama,427,52.0%,69,"4,468",21.7%,Initiator,North America
+221,Yaira#1271,427,54.5%,73,"4,314",18.0%,Duelist,North America
+222,newflame#5843,427,73.0%,46,"4,946",22.1%,Duelist,North America
+223,Harmon#Nerd,426,48.3%,45,"4,419",27.9%,Initiator,North America
+224,laddermoves#1846,426,50.0%,55,"5,058",17.6%,Sentinel,North America
+225,Habib#1234,426,54.1%,49,"4,689",24.0%,Controller,North America
+226,IMPULSEdaTANK#TANKE,425,44.7%,19,"4,561",19.7%,Controller,North America
+227,Ksiaze#EZ4KZ,425,63.0%,34,"6,110",26.8%,Duelist,North America
+228,TB GMAN#0005,424,53.5%,55,"5,218",30.6%,Sentinel,North America
+229,Jeorge#5UN,424,70.6%,35,"5,176",23.6%,Duelist,North America
+230,너무 쉽다# 쉬운게임,424,64.9%,40,"5,236",23.8%,Duelist,North America
+231,OTW jcrueL#col,423,56.7%,17,"5,509",19.2%,Duelist,North America
+232,ozE#TTV,423,58.5%,37,"4,649",21.5%,Controller,North America
+233,bm1#bm1,422,48.6%,35,"4,521",24.4%,Sentinel,North America
+234,Warmest Aloha#NA1,422,56.5%,38,"4,726",17.9%,Controller,North America
+235,Hydro#Hydro,422,52.7%,40,"4,844",27.8%,Controller,North America
+236,JoshRTz#5487,422,51.8%,85,"4,828",19.1%,Controller,North America
+237,CrayCup#FTC,422,53.0%,80,"4,456",22.1%,Initiator,North America
+238,ELY HiepHop#1140,421,50.0%,17,"5,664",16.5%,Duelist,North America
+239,Codey#NA1,421,50.5%,98,"5,567",18.1%,Duelist,North America
+240,FaZe corey#1337,421,57.4%,36,"6,158",27.7%,Duelist,North America
+241,Mateo#000,421,54.3%,81,"4,549",24.2%,Duelist,North America
+242,yuuk1#xoxo,421,65.8%,27,"5,175",16.2%,Duelist,North America
+243,DIG psalm#7777,421,55.4%,37,"5,445",23.6%,Duelist,North America
+244,LG aproto#1234,420,48.8%,20,"5,198",40.0%,Duelist,North America
+245,Fortnitebabe2003#SIut,420,71.4%,19,"4,559",25.6%,Initiator,North America
+246,mikeysnipey#000,420,44.6%,29,"4,167",31.4%,Initiator,North America
+247,600#600,419,49.2%,32,"5,193",31.0%,Duelist,North America
+248,Cola#uhyuh,419,51.2%,44,"4,655",26.1%,Sentinel,North America
+249,CallMeMar#Live,419,50.7%,103,"4,605",29.2%,Duelist,North America
+250,CusWord#0420,418,58.8%,49,"4,344",18.3%,Duelist,North America
+251,Insanity#9480,417,43.7%,41,"4,355",22.4%,Controller,North America
+252,Cain#NATE,416,54.1%,32,"4,932",19.1%,Initiator,North America
+253,log2#rwnr,416,56.6%,29,"4,673",21.9%,Sentinel,North America
+254,PurePenguinz#NA1,415,70.8%,33,"5,124",26.4%,Controller,North America
+255,Jasheen#1NA,414,58.5%,75,"4,674",24.1%,Duelist,North America
+256,eli#yin,413,51.0%,25,"4,940",31.1%,Duelist,North America
+257,kal#REV,413,52.0%,66,"4,609",20.4%,Duelist,North America
+258,ozo#5399,413,61.9%,25,"3,865",31.7%,Sentinel,North America
+259,DT Lomein#NA2,413,55.1%,86,"4,871",19.1%,Duelist,North America
+260,OVERDRIVE#TTV,413,63.6%,25,"5,130",17.3%,Duelist,North America
+261,virgin#2344,413,55.6%,77,"4,803",21.5%,Controller,North America
+262,Aika#VN1,413,57.1%,50,"5,018",21.6%,Duelist,North America
+263,svL#NA1,412,56.3%,17,"5,456",23.9%,Duelist,North America
+264,eFoo#1185,412,67.3%,38,"4,175",18.4%,Duelist,North America
+265,ezpk#HMBSE,411,48.8%,62,"4,412",19.0%,Sentinel,North America
+266,ttv ShoTUPval#8842,410,51.5%,17,"6,162",23.0%,Controller,North America
+267,fdeN#1337,410,58.3%,14,"5,413",18.7%,Duelist,North America
+268,VulcaN#STK,410,59.0%,35,"5,190",21.9%,Duelist,North America
+269,twitch tdawggwow#6862,410,54.1%,90,"4,156",20.7%,Sentinel,North America
+270,Pandez#0000,410,52.4%,54,"4,808",20.1%,Duelist,North America
+271,BBG Will#000,409,59.3%,15,"5,583",19.1%,Duelist,North America
+272,NOBLE Jangler#420,409,56.0%,16,"5,154",26.1%,Controller,North America
+273,benjii#rip,409,45.3%,43,"4,803",22.8%,Duelist,North America
+274,bumpaah#bump,409,53.5%,53,"4,056",24.2%,Initiator,North America
+275,6789998212#mwah,409,71.0%,21,"5,361",23.5%,Sentinel,North America
+276,Governor#2143,408,53.7%,73,"5,235",22.7%,Duelist,North America
+277,Banana Strangler#thom,408,49.3%,72,"4,862",21.5%,Duelist,North America
+278,HavexTV#1of1,408,66.0%,32,"4,843",29.6%,Duelist,North America
+279,Vtok#231,407,59.1%,25,"4,213",18.0%,Duelist,North America
+280,LarryBanks#60Hz,406,44.6%,58,"4,856",19.0%,Duelist,North America
+281,nihhk#999,406,57.7%,30,"4,761",25.9%,Duelist,North America
+282,Ritesh13#5114,404,53.8%,45,"4,946",13.9%,Sentinel,North America
+283,Groovy#LOSE,404,54.5%,23,"4,106",20.8%,Controller,North America
+284,Nurfed#025,403,47.9%,33,"4,506",25.0%,Controller,North America
+285,jack#XXX,403,61.5%,15,"5,598",20.8%,Duelist,North America
+286,bearface#22222,403,56.6%,30,"4,480",27.1%,Initiator,North America
+287,YVRJoe#CGM,403,60.6%,19,"4,213",22.7%,Controller,North America
+288,Cosmos#01010,403,57.5%,50,"5,156",22.2%,Duelist,North America
+289,Fulwin#5200,403,64.3%,26,"5,273",20.2%,Duelist,North America
+290,RoguePringle#NA1,403,47.8%,34,"5,064",20.7%,Duelist,North America
+291,Vetreon#Raze,402,52.6%,44,"4,832",16.7%,Duelist,North America
+292,Xyph9r#Rogue,402,51.7%,30,"4,996",27.5%,Sentinel,North America
+293,atx#3465,401,55.6%,14,"5,109",30.6%,Duelist,North America
+294,OTW Virtyy#908,401,50.5%,156,"5,505",25.7%,Duelist,North America
+295,Zayy#susu,401,58.9%,32,"4,661",16.8%,Duelist,North America
+296,V1 vanity#XITER,401,52.4%,57,"5,098",19.5%,Controller,North America
+297,MICKNUTTY333#6475,401,51.6%,79,"4,579",22.2%,Controller,North America
+298,Fievel#NA0,401,53.2%,74,"4,730",27.9%,Sentinel,North America
+299,iKoniK#1of1,401,54.5%,58,"5,263",19.8%,Duelist,North America
+300,Freyholtz#NA1,401,56.6%,62,"5,313",28.5%,Initiator,North America
+301,LG stellar#9999,400,49.1%,25,"4,996",21.7%,Controller,North America
+302,ZeroData#NA1,400,50.0%,19,"5,087",29.1%,Duelist,North America
+303,AK flyuh#ktlyn,400,52.3%,44,"4,874",25.5%,Initiator,North America
+304,Schove#1323,400,46.9%,49,"4,822",18.6%,Duelist,North America
+305,smiley#csgo,400,58.3%,62,"5,066",24.0%,Duelist,North America
+306,wubby#5933,399,53.3%,25,"5,368",25.3%,Initiator,North America
+307,ADRENALINE#650,399,57.9%,23,"4,409",21.5%,Sentinel,North America
+308,sideSWIPE#1337,399,54.0%,34,"4,777",26.5%,Duelist,North America
+309,BASEDGOD#zzz,399,68.3%,46,"4,670",20.2%,Sentinel,North America
+310,BlissfulDeer#NA1,398,59.7%,37,"4,800",19.7%,Controller,North America
+311,Sink#777,398,53.7%,97,"5,472",15.4%,Duelist,North America
+312,SheeshSid#5331,398,58.6%,43,"4,871",21.4%,Duelist,North America
+313,TSM drone#teesm,397,84.6%,10,"5,460",41.0%,Initiator,North America
+314,Ryujinn#6373,397,68.2%,14,"4,028",21.9%,Controller,North America
+315,SUSAN#LFT,397,54.9%,56,"5,312",16.0%,Duelist,North America
+316,HILTON#9574,397,61.1%,33,"4,967",22.3%,Sentinel,North America
+317,KOLER#PRIME,397,52.5%,57,"5,329",31.3%,Duelist,North America
+318,quackzyy#MONKE,397,60.7%,67,"5,269",18.2%,Duelist,North America
+319,cryptX#QUIET,397,64.9%,51,"4,401",23.0%,Duelist,North America
+320,potato#9993,396,56.4%,22,"4,705",18.8%,Duelist,North America
+321,telepatia#emily,396,53.6%,62,"4,501",23.4%,Controller,North America
+322,Dubbin#ttv,396,60.0%,50,"4,210",21.9%,Initiator,North America
+323,hydra#zzz,395,49.0%,48,"4,793",22.3%,Duelist,North America
+324,astrid#111,395,59.0%,22,"5,127",25.9%,Duelist,North America
+325,crosbyCS#9894,395,58.1%,35,"4,924",26.3%,Duelist,North America
+326,nem#csgo,395,57.7%,30,"5,429",26.7%,Duelist,North America
+327,DIG ryann#lmao,394,58.2%,33,"4,719",27.4%,Controller,North America
+328,cabs#000,394,50.8%,100,"4,737",21.1%,Controller,North America
+329,Majora#9887,393,60.0%,38,"4,459",19.0%,Duelist,North America
+330,VasT#5644,393,58.3%,37,"5,134",27.4%,Duelist,North America
+331,kangM1#domo,392,48.1%,24,"4,728",23.9%,Sentinel,North America
+332,shifty#Real1,392,55.9%,21,"4,636",28.5%,Controller,North America
+333,Bradunderscore#NA1,391,51.0%,26,"4,491",8.1%,Duelist,North America
+334,joshmyg0sh#ace,391,54.0%,33,"4,488",25.4%,Controller,North America
+335,Awkua#000,391,50.0%,33,"5,256",23.4%,Duelist,North America
+336,supermonkey#1247,391,69.2%,63,"5,556",22.4%,Duelist,North America
+337,GhaziFTN#ttv,390,49.4%,42,"4,424",18.1%,Controller,North America
+338,Yong#7220,390,57.0%,44,"4,978",21.1%,Controller,North America
+339,Masaru#1532,390,50.0%,60,"4,636",18.8%,Initiator,North America
+340,DIOR#1513,390,63.6%,32,"5,317",29.0%,Duelist,North America
+341,chicago#007,389,55.0%,75,"5,180",30.4%,Duelist,North America
+342,KeenC#3780,389,52.7%,89,"5,566",20.7%,Duelist,North America
+343,FIEND#1620,389,64.4%,28,"4,803",18.1%,Duelist,North America
+344,EG Osias#EVIL,388,51.2%,21,"5,533",26.0%,Duelist,North America
+345,royaldemise#000,388,51.2%,23,"4,307",27.8%,Initiator,North America
+346,StealthyMike#NA1,387,46.8%,30,"5,330",22.6%,Duelist,North America
+347,vmoney#noob,387,50.9%,27,"4,571",19.4%,Duelist,North America
+348,eugenepizza12#gamer,387,44.6%,47,"4,598",23.1%,Duelist,North America
+349,seven#kun,386,53.8%,21,"5,110",23.8%,Controller,North America
+350,foreplay#7470,386,61.3%,19,"5,453",23.4%,Controller,North America
+351,ABG Nani#1481,386,51.3%,61,"5,488",26.6%,Duelist,North America
+352,CG Kuzi#idc,386,54.9%,44,"5,528",37.4%,Duelist,North America
+353,Nysoo#NA1,385,49.3%,36,"4,787",15.9%,Controller,North America
+354,creedunce#9898,385,54.5%,43,"4,685",26.7%,Controller,North America
+355,Kaoticcc#2477,385,47.3%,113,"4,694",20.7%,Duelist,North America
+356,RiceballiNNN#Peace,385,45.4%,115,"4,756",22.0%,Initiator,North America
+357,Fyrahh#0000,385,59.8%,61,"4,849",21.7%,Duelist,North America
+358,Boogsterrr#108,384,52.1%,38,"4,228",23.7%,Controller,North America
+359,TvPhilip#0000,384,66.0%,32,"4,678",24.6%,Initiator,North America
+360,Potatoe#0001,383,55.9%,20,"4,842",16.1%,Controller,North America
+361,Krumpaa#NA1,383,65.1%,27,"4,597",18.9%,Initiator,North America
+362,sloth#NA1,383,53.3%,61,"5,052",19.1%,Duelist,North America
+363,SippinDot#NA1,383,66.1%,43,"4,630",22.6%,Duelist,North America
+364,pissed#4675,383,56.1%,47,"4,751",22.0%,Sentinel,North America
+365,IMP Pest#Pest,383,60.4%,54,"4,476",19.2%,Sentinel,North America
+366,yaZ#Iran,383,54.9%,84,"4,151",20.7%,Initiator,North America
+367,NRG daps#daps,382,39.0%,17,"4,307",19.5%,Initiator,North America
+368,nillyaz 2#nerd,382,56.8%,22,"5,097",25.8%,Duelist,North America
+369,C9 Kat#C9W,382,55.2%,36,"3,525",28.8%,Controller,North America
+370,LeahPanda#toxic,382,50.0%,26,"3,546",15.6%,Initiator,North America
+371,Skoluh12590#1010,382,69.0%,19,"4,982",17.4%,Initiator,North America
+372,nebula#exe,382,54.2%,31,"4,281",15.0%,Controller,North America
+373,Bape#LFT,382,54.8%,65,"5,438",16.7%,Duelist,North America
+374,BoniFaci0#wing,382,53.0%,36,"5,186",20.5%,Duelist,North America
+375,tylerboy#tyyy,382,52.9%,63,"4,759",17.6%,Duelist,North America
+376,koalanoob#zzz,381,52.1%,51,"5,746",22.6%,Duelist,North America
+377,MERE#1212,381,56.6%,63,"4,708",21.0%,Duelist,North America
+378,quando#1TAP,380,63.2%,23,"4,650",19.8%,Duelist,North America
+379,ORiGAHMi#0000,380,51.6%,65,"4,630",20.9%,Initiator,North America
+380,Leanstalk#4166,380,49.2%,74,"5,019",19.9%,Initiator,North America
+381,hsetiR#8395,379,54.9%,27,"4,792",13.5%,Sentinel,North America
+382,kouhai#999,379,61.5%,25,"4,514",23.2%,Duelist,North America
+383,Kyhoe#ABG,379,51.3%,41,"4,303",24.5%,Duelist,North America
+384,WP reprive#nini,379,52.7%,137,"5,411",22.7%,Duelist,North America
+385,V0NS#BOOL,379,61.7%,49,"4,572",22.2%,Duelist,North America
+386,rob#rob1,378,60.8%,32,"5,273",21.6%,Duelist,North America
+387,Trill#RAT,378,59.1%,25,"4,836",25.3%,Controller,North America
+388,WaterToes#LFT,378,48.9%,45,"5,493",22.9%,Duelist,North America
+389,Casperr#sova,378,51.3%,59,"4,607",24.0%,Initiator,North America
+390,mesh#9745,378,53.9%,65,"4,722",15.8%,Duelist,North America
+391,EyHaz#1995,378,48.3%,56,"4,766",20.7%,Duelist,North America
+392,CG Ena#idc,378,60.3%,36,"4,785",24.1%,Duelist,North America
+393,Cornsap#NA0,378,63.5%,35,"4,840",25.5%,Duelist,North America
+394,zid#CHIN,377,54.5%,25,"4,231",20.7%,Controller,North America
+395,booN#4414,377,61.1%,33,"5,265",24.3%,Sentinel,North America
+396,orca#0000,377,49.1%,27,"4,371",18.4%,Sentinel,North America
+397,sukhdeepFPS#ttv,377,46.6%,55,"4,723",17.8%,Duelist,North America
+398,Shady#4444,377,63.6%,27,"4,429",17.1%,Controller,North America
+399,147 IQ#POOPY,377,54.4%,57,"5,542",19.4%,Duelist,North America
+400,sexgodyuri#1049,376,47.8%,33,"4,049",26.5%,Sentinel,North America
+401,k0rean#JETT,376,52.8%,95,"4,865",15.2%,Duelist,North America
+402,FG Cuz#game,376,54.4%,49,"4,742",27.1%,Initiator,North America
+403,Revolt#4601,376,54.2%,47,"4,394",18.6%,Controller,North America
+404,yNot#42069,376,62.3%,33,"4,637",21.1%,Sentinel,North America
+405,k1dd1ng#0000,376,64.2%,43,"5,324",26.2%,Duelist,North America
+406,100T nitr0#100t,375,54.2%,12,"4,425",27.3%,Initiator,North America
+407,Paincakes#1738,375,49.3%,75,"5,103",28.9%,Initiator,North America
+408,sym#xoxo,375,57.9%,36,"4,726",34.5%,Duelist,North America
+409,dom#CSGO,375,46.8%,57,"5,053",31.3%,Duelist,North America
+410,p K#Nutt,375,66.7%,27,"4,334",15.6%,Controller,North America
+411,savi0r wp#NA1,375,51.5%,86,"4,153",21.4%,Sentinel,North America
+412,VanOorschotJ#NA1,374,80.0%,11,"5,805",31.0%,Controller,North America
+413,Serving#000,374,71.4%,14,"4,728",20.0%,Duelist,North America
+414,Byakuya#アルヴィン,374,62.2%,23,"5,284",19.6%,Duelist,North America
+415,ven#1000,374,51.2%,43,"4,556",25.6%,Duelist,North America
+416,Enzo#Vince,374,47.5%,46,"4,475",20.0%,Controller,North America
+417,V1 PLAYER1#GGWP,373,61.1%,21,"5,413",23.9%,Sentinel,North America
+418,HappyCroc#NA1,373,58.0%,50,"4,118",26.8%,Controller,North America
+419,sufu#7396,373,67.9%,85,"5,246",24.7%,Sentinel,North America
+420,DFOX#LOL,372,65.4%,16,"4,453",17.6%,Controller,North America
+421,IMT jcStani#000,372,50.8%,60,"4,860",27.8%,Controller,North America
+422,Nahsie#Na1,372,48.3%,43,"4,260",21.6%,Controller,North America
+423,Modigga#Gzus,372,50.0%,83,"4,692",25.4%,Controller,North America
+424,bao#kun,372,60.8%,30,"5,002",19.6%,Duelist,North America
+425,ryu#milk,372,56.4%,34,"4,771",24.5%,Duelist,North America
+426,Cheerios1#NA1,372,60.8%,76,"5,196",22.5%,Initiator,North America
+427,supA#999,371,48.4%,93,"4,304",27.4%,Duelist,North America
+428,kima#luvsU,371,56.9%,62,"4,698",23.3%,Duelist,North America
+429,tyti#000,370,59.6%,59,"5,037",24.6%,Duelist,North America
+430,Infamous#0000,370,68.8%,21,"5,218",19.1%,Controller,North America
+431,kaz#one,370,50.0%,35,"4,602",21.4%,Sentinel,North America
+432,NV kaboose#w0w,369,64.5%,20,"5,578",25.1%,Duelist,North America
+433,reformed#5731,369,42.2%,26,"4,605",23.8%,Duelist,North America
+434,NOX tex#216,369,44.4%,20,"5,352",29.6%,Duelist,North America
+435,Shawn#3241,369,44.6%,32,"5,203",21.0%,Duelist,North America
+436,LuckyLeader#LUCKY,369,55.6%,26,"4,496",16.0%,Sentinel,North America
+437,Shisui#river,369,71.0%,21,"5,065",24.1%,Duelist,North America
+438,Tyler#2826,368,52.1%,25,"4,377",23.0%,Initiator,North America
+439,doubt#LFT,368,53.7%,28,"5,071",27.0%,Duelist,North America
+440,Sketchmatic#NA1,368,53.3%,25,"5,138",18.6%,Duelist,North America
+441,inunderjustscore#333,368,50.9%,26,"4,784",28.4%,Sentinel,North America
+442,RESHURA#AKENO,368,50.8%,60,"4,575",18.7%,Initiator,North America
+443,instuh lock#duel,368,56.3%,35,"4,792",21.7%,Duelist,North America
+444,PSR Chavez#NAE,368,55.1%,42,"4,503",20.5%,Initiator,North America
+445,spooky#tap,367,54.5%,11,"4,175",24.4%,Sentinel,North America
+446,Teddy2#tran,367,43.2%,31,"5,161",17.8%,Initiator,North America
+447,peter#UWUU,367,50.0%,31,"4,963",20.7%,Duelist,North America
+448,reedlufssilB#1234,366,52.2%,36,"5,256",22.1%,Controller,North America
+449,Teddy#Tran,366,52.9%,26,"5,594",19.1%,Duelist,North America
+450,Sh0tgunn#Waifu,366,66.7%,24,"3,955",18.6%,Duelist,North America
+451,12pk#qSAND,366,49.7%,90,"4,199",20.0%,Controller,North America
+452,Kouf#TTV,366,55.8%,48,"4,488",20.3%,Controller,North America
+453,4127985019870436#61425,366,55.8%,54,"4,910",21.1%,Controller,North America
+454,i HaZ MiCROpHonE#jkLOL,366,57.0%,81,"5,693",19.5%,Duelist,North America
+455,PHiX#GEK,366,61.4%,52,"5,459",15.3%,Duelist,North America
+456,Charley#LFTTV,365,51.8%,28,"4,222",21.8%,Controller,North America
+457,ttv mrtonyu#100t,365,51.2%,65,"4,565",23.2%,Initiator,North America
+458,justinovah#000,365,47.9%,101,"4,706",23.4%,Duelist,North America
+459,toeknee#0001,365,60.5%,22,"3,850",14.4%,Sentinel,North America
+460,GSS PapaSmurf#1407,365,49.2%,66,"4,823",21.2%,Controller,North America
+461,Elias23dk#2593,365,66.2%,49,"4,830",19.0%,Initiator,North America
+462,cutefatboy#frick,364,58.3%,35,"4,804",30.6%,Sentinel,North America
+463,fGomez#wocky,364,48.1%,77,"4,845",20.5%,Duelist,North America
+464,serge#42799,364,64.3%,26,"5,067",21.5%,Duelist,North America
+465,IMP Bougala#0000,364,60.6%,59,"5,463",28.6%,Duelist,North America
+466,hyunseo#GARBO,364,59.3%,49,"4,061",20.0%,Sentinel,North America
+467,Polo G fan#polog,364,56.8%,27,"4,971",24.6%,Duelist,North America
+468,qnzy#VSOP,363,62.2%,27,"4,530",16.3%,Duelist,North America
+469,suzyyy#baee,362,50.0%,36,"4,806",20.4%,Duelist,North America
+470,DXN#TFT,362,53.7%,28,"5,321",18.7%,Sentinel,North America
+471,alvin#2004,362,53.6%,82,"5,141",19.2%,Duelist,North America
+472,SexGodHanson#Sexy,362,59.3%,34,"4,542",17.8%,Sentinel,North America
+473,lotus#1of1,362,56.4%,43,"5,016",27.9%,Controller,North America
+474,hcu#6782,362,56.0%,57,"5,981",26.6%,Duelist,North America
+475,Poji#nom,362,48.8%,40,"4,969",22.0%,Sentinel,North America
+476,Kuny#0911,362,55.4%,50,"5,551",23.0%,Duelist,North America
+477,thiief#boop,361,52.7%,29,"5,356",29.8%,Controller,North America
+478,www0www#0000,361,57.1%,29,"5,157",26.4%,Duelist,North America
+479,Twitch StrafeVal#TTV,361,84.2%,15,"5,360",25.5%,Duelist,North America
+480,greenmcream#1026,361,63.9%,39,"5,136",25.3%,Controller,North America
+481,rivszn#who,361,56.3%,28,"5,596",20.8%,Duelist,North America
+482,a2guapo#Demon,361,50.5%,51,"4,514",23.3%,Duelist,North America
+483,LightzOut#1083,361,69.7%,22,"4,932",27.0%,Duelist,North America
+484,diaamond#iwnl,360,42.8%,61,"4,084",23.6%,Initiator,North America
+485,orion#maria,360,65.1%,28,"5,165",18.4%,Duelist,North America
+486,ilikemen11#men,359,58.8%,29,"4,446",23.1%,Sentinel,North America
+487,streets#foux,359,63.8%,29,"4,392",28.8%,Duelist,North America
+488,Effzy#8131,359,53.5%,86,"4,441",24.5%,Sentinel,North America
+489,FaZe ZachaREEE#0106,359,48.6%,33,"4,824",25.3%,Initiator,North America
+490,Elijvh#001,359,59.5%,47,"5,094",23.2%,Duelist,North America
+491,cifrar#1102,358,60.0%,15,"6,610",40.6%,Duelist,North America
+492,Kyeiou#Lag,358,53.1%,25,"5,133",19.9%,Controller,North America
+493,Vezそ#icee,358,55.1%,37,"5,704",24.2%,Initiator,North America
+494,tisunami2k#3945,358,51.3%,44,"4,655",13.0%,Sentinel,North America
+495,OmgIGotGanked#NA1,358,59.3%,34,"4,642",11.6%,Duelist,North America
+496,CaptCorona#9535,358,58.2%,37,"5,230",9.6%,Duelist,North America
+497,4str4stamleather#001,357,56.5%,12,"6,046",20.3%,Duelist,North America
+498,Neon#Neonn,357,56.6%,31,"4,520",28.2%,Initiator,North America
+499,TrustyLoL TTV#MRSHL,357,58.5%,37,"4,620",24.8%,Duelist,North America
+500,Loosh#WorId,357,69.2%,26,"4,438",27.6%,Sentinel,North America
+1,Prophecy PanNiKk#08079,879,56.3%,66,"4,761",22.2%,Duelist,Europe
+2,G2 m1xwell#SPAIN,844,60.2%,53,"5,158",22.0%,Duelist,Europe
+3,FTW Fizzy#fizz,781,59.1%,90,"5,144",23.4%,Sentinel,Europe
+4,aDd9R#2572,776,65.7%,67,"4,764",28.7%,Controller,Europe
+5,HONK Mickebwoy#iwnl,755,53.5%,78,"5,218",23.8%,Initiator,Europe
+6,ACE starxo#123,735,58.3%,43,"5,204",23.1%,Duelist,Europe
+7,VS mini#666,726,70.2%,33,"5,665",36.4%,Duelist,Europe
+8,NILLE#1995,725,56.2%,78,"5,296",24.3%,Controller,Europe
+9,BBL aimDLL#XxX,718,70.5%,44,"5,362",30.3%,Sentinel,Europe
+10,ALMO#999,718,51.5%,52,"5,011",19.1%,Duelist,Europe
+11,shhhack#6966,714,51.7%,82,"4,565",24.7%,Duelist,Europe
+12,tomaszy#xxx,712,53.3%,64,"4,863",33.3%,Duelist,Europe
+13,G2 paTiTek#0000,712,61.4%,55,"5,249",27.6%,Duelist,Europe
+14,Guild draken#2121,711,62.6%,62,"5,018",27.9%,Duelist,Europe
+15,pa1ka#awp,711,63.2%,42,"5,539",30.6%,Duelist,Europe
+16,froz#1337,699,53.0%,62,"4,774",22.2%,Duelist,Europe
+17,DH #8882,688,67.5%,27,"5,743",16.7%,Duelist,Europe
+18,TACHANKA#1942,687,53.2%,79,"4,656",24.6%,Sentinel,Europe
+19,Alliance Kada#MRS,685,75.8%,24,"5,297",30.4%,Duelist,Europe
+20,TBG ATA KAPTAN#3535,681,54.7%,51,"4,679",25.0%,Sentinel,Europe
+21,Ali Reza El Jana#5648,678,61.7%,32,"5,374",35.9%,Duelist,Europe
+22,PMC#4073,671,63.2%,36,"4,088",29.0%,Controller,Europe
+23,GAL THEFEAR#exe,669,50.5%,53,"4,608",19.1%,Sentinel,Europe
+24,Dawn#92i,668,55.3%,42,"4,453",30.2%,Controller,Europe
+25,BIG AslaN#0000,666,51.9%,55,"5,014",25.0%,Duelist,Europe
+26,derbuda1#EUW,666,63.8%,43,"4,787",25.8%,Sentinel,Europe
+27,FB bacyx#Arven,664,60.3%,35,"5,388",26.9%,Duelist,Europe
+28,farewell#RRRR,663,50.4%,65,"5,803",29.4%,Duelist,Europe
+29,RARE atabeast#1997,659,55.7%,62,"5,395",28.5%,Duelist,Europe
+30,Carter#IWNL,659,54.0%,62,"4,488",26.9%,Controller,Europe
+31,Kajuks#1337,659,58.3%,48,"4,737",24.1%,Initiator,Europe
+32,nookyyy#viper,657,52.7%,64,"4,319",24.8%,Sentinel,Europe
+33,FNATIC Mistic#SUMN,654,55.6%,30,"5,024",31.4%,Duelist,Europe
+34,BennY#0711,653,51.4%,55,"5,393",26.3%,Duelist,Europe
+35,Heretics nukkye#AAA,652,56.4%,46,"5,289",22.6%,Duelist,Europe
+36,shramez333#senju,650,55.2%,48,"4,897",27.2%,Sentinel,Europe
+37,ELQEW#001,648,55.6%,39,"4,799",21.5%,Duelist,Europe
+38,fROKIZ#1472,643,53.9%,43,"4,958",19.0%,Duelist,Europe
+39,diseased#1337,642,57.5%,49,"5,317",22.7%,Sentinel,Europe
+40,LFT Nemesis#LFT,640,48.7%,60,"4,755",34.4%,Sentinel,Europe
+41,Rebounter#3618,640,49.1%,53,"4,581",28.2%,Duelist,Europe
+42,hybrid#LFT,638,55.0%,43,"4,649",28.0%,Sentinel,Europe
+43,al1en#6969,636,57.8%,37,"4,753",20.0%,Duelist,Europe
+44,WAVE Zik#1998,632,61.2%,29,"4,614",32.8%,Sentinel,Europe
+45,BBL AsLanM4shadW#AsLan,631,53.7%,36,"6,200",30.4%,Duelist,Europe
+46,Twitter PCouisse#LFT,631,63.4%,53,"5,198",16.1%,Duelist,Europe
+47,OVA musashi#000,628,60.9%,39,"5,337",27.5%,Duelist,Europe
+48,Liquid KRYPTIX#123,627,74.2%,22,"5,016",24.2%,Initiator,Europe
+49,eXiLe moner#666,627,52.3%,45,"4,132",18.1%,Sentinel,Europe
+50,Nitro#krl,627,53.6%,44,"4,374",24.2%,Sentinel,Europe
+51,twitch DARKYGOSU#1337,627,50.6%,82,"4,671",30.6%,Controller,Europe
+52,cocoon#4255,626,55.1%,69,"5,184",17.6%,Duelist,Europe
+53,G2 zeek#0987,622,61.5%,32,"4,919",23.3%,Duelist,Europe
+54,FTW jannyXD#1337,621,54.5%,54,"5,159",25.3%,Duelist,Europe
+55,V4ran#LFT,620,55.7%,33,"4,429",17.6%,Sentinel,Europe
+56,Horcus#1995,620,52.2%,47,"4,976",19.2%,Duelist,Europe
+57,RPG Alfajer#MVP,618,49.3%,35,"5,496",29.9%,Duelist,Europe
+58,HSDIRR Supmah#ham,615,58.0%,47,"4,611",24.9%,Initiator,Europe
+59,Sonasly#awp,613,52.9%,37,"4,888",27.0%,Duelist,Europe
+60,Finest RECIDENT#0000,612,56.8%,41,"5,438",29.4%,Duelist,Europe
+61,l0udly#33333,611,47.8%,43,"4,799",25.0%,Duelist,Europe
+62,SASUKE SPIRIT#9103,611,51.3%,79,"4,138",29.0%,Sentinel,Europe
+63,LFT Woozy#5555,610,53.4%,56,"4,757",20.7%,Sentinel,Europe
+64,YellowBelko#2849,608,59.5%,70,"5,369",17.2%,Duelist,Europe
+65,G2 pyth#SWE,608,56.8%,42,"4,527",29.8%,Sentinel,Europe
+66,Chunchunmaru#Uwu,606,56.7%,50,"4,670",22.1%,Controller,Europe
+67,Incredible#6067,606,53.2%,40,"4,582",13.5%,Duelist,Europe
+68,RARE qw1#iwnl,605,59.5%,27,"5,530",23.5%,Duelist,Europe
+69,juseu#MAMOo,601,64.4%,28,"5,228",26.5%,Duelist,Europe
+70,circu#fpj,600,48.9%,45,"4,540",33.8%,Sentinel,Europe
+71,KFLR Brave#eren,600,58.4%,52,"5,300",33.8%,Duelist,Europe
+72,TBG Vee#1925,600,55.9%,37,"4,733",32.0%,Duelist,Europe
+73,kARMApangYa#1991,600,54.8%,57,"4,014",26.9%,Controller,Europe
+74,thebigfiz#tronc,599,44.7%,35,"4,486",25.0%,Controller,Europe
+75,ra1n#ra1n,599,57.5%,64,"5,178",25.2%,Duelist,Europe
+76,NASR ShawateRR#7777,598,61.1%,69,"4,930",26.3%,Duelist,Europe
+77,kaps#dprsn,597,60.7%,36,"3,942",27.8%,Controller,Europe
+78,Edelweiss#iddqd,597,51.3%,63,"4,727",25.7%,Controller,Europe
+79,MLlaxX#2106,596,52.4%,65,"4,457",28.7%,Initiator,Europe
+80,Alliance krea6oN#1337,596,54.2%,81,"5,305",25.9%,Initiator,Europe
+81,Erik#hehe,595,56.0%,41,"5,112",22.0%,Duelist,Europe
+82,10K#K01,595,54.3%,24,"4,820",25.5%,Controller,Europe
+83,xenp1o#trap,594,58.2%,39,"4,340",17.1%,Sentinel,Europe
+84,Gloomy#xxx,593,55.9%,32,"4,954",21.0%,Duelist,Europe
+85,Click#1337,593,51.5%,53,"4,354",31.8%,Duelist,Europe
+86,spetzim666666666#1111,592,47.6%,44,"4,831",18.6%,Duelist,Europe
+87,purelonely#FRD,591,52.5%,32,"4,898",20.9%,Controller,Europe
+88,wackie#420,591,53.9%,101,"5,540",20.9%,Duelist,Europe
+89,MRS Ayke#2016,591,57.5%,41,"4,369",25.1%,Initiator,Europe
+90,johnyboy#BXL,591,56.3%,62,"4,786",25.3%,Sentinel,Europe
+91,BUTCHERKnqdewL#Kun,590,49.5%,99,"5,354",23.2%,Duelist,Europe
+92,FWS DenV#fawes,590,55.9%,38,"5,339",23.0%,Controller,Europe
+93,polvi#KMS,588,64.7%,22,"4,380",20.1%,Duelist,Europe
+94,bêk0#JETT,588,49.5%,54,"5,286",20.5%,Duelist,Europe
+95,Sidivo#0808,588,67.6%,50,"4,820",35.0%,Duelist,Europe
+96,vanity#4094,588,57.5%,85,"4,431",21.9%,Duelist,Europe
+97,BJK MrFaliN#7707,586,53.6%,30,"4,800",19.1%,Initiator,Europe
+98,pr0ut player#t0p,584,46.4%,71,"4,498",27.8%,Controller,Europe
+99,Heretics AvovA#uwu,583,41.5%,27,"5,179",23.7%,Controller,Europe
+100,kodazy#1337,583,49.0%,48,"4,603",32.2%,Controller,Europe
+101,YZ blitzeN#9999,583,51.4%,74,"5,241",32.5%,Duelist,Europe
+102,dothem#7462,582,55.3%,88,"4,766",33.3%,Duelist,Europe
+103,Guild Yacine#0314,581,65.4%,33,"5,272",21.9%,Duelist,Europe
+104,AS07 Y2J#1337,581,49.4%,42,"4,497",27.0%,Sentinel,Europe
+105,andik#1509,580,48.1%,87,"4,736",21.8%,Duelist,Europe
+106,Yuna#FRA,579,59.2%,43,"4,970",19.8%,Initiator,Europe
+107,FWS BÜCÜRÜM#fawes,578,64.6%,30,"4,985",21.2%,Sentinel,Europe
+108,BTS iDex#iDex,577,53.5%,38,"4,650",28.2%,Sentinel,Europe
+109,LFT RARE#XGOD,576,51.8%,58,"5,290",19.2%,Duelist,Europe
+110,duku#2137,575,52.0%,41,"4,355",25.7%,Initiator,Europe
+111,NxT#8705,575,65.4%,33,"4,527",25.7%,Sentinel,Europe
+112,MaFiN#SKRR,574,57.1%,43,"4,633",20.4%,Duelist,Europe
+113,WESSON#7777,574,52.2%,59,"4,772",28.2%,Sentinel,Europe
+114,ZZ yankas#000,572,53.0%,34,"4,864",25.6%,Duelist,Europe
+115,Liquid soulcas#123,571,59.5%,22,"5,457",27.6%,Duelist,Europe
+116,CANAVAR DRAVEN#BEBİŞ,570,53.4%,47,"5,272",26.4%,Duelist,Europe
+117,coco#lft,570,61.0%,46,"4,583",25.0%,Sentinel,Europe
+118,Guild Sayf#FUN,569,73.1%,18,"4,988",25.1%,Duelist,Europe
+119,pirateking1#1111,569,59.7%,39,"5,011",23.5%,Controller,Europe
+120,Bizzard#1337,568,61.5%,24,"4,589",25.0%,Sentinel,Europe
+121,forZe SUYGETSU#666,567,48.8%,39,"4,941",30.0%,Sentinel,Europe
+122,Stazioo#6625,567,55.7%,43,"5,060",31.7%,Duelist,Europe
+123,OBG Lee#999,565,64.7%,21,"4,881",21.9%,Controller,Europe
+124,Vitality bramz#dehka,565,56.3%,49,"5,675",29.5%,Controller,Europe
+125,Liquid ec1s#123,562,54.2%,44,"4,785",20.0%,Controller,Europe
+126,RixGG rCk#1337,562,51.5%,68,"4,513",22.8%,Initiator,Europe
+127,Masic#3502,562,58.9%,32,"5,974",26.6%,Duelist,Europe
+128,Polly#PLY,561,64.2%,69,"5,138",21.0%,Initiator,Europe
+129,ky5 Kinguyen#SSJG,560,69.7%,22,"6,407",28.9%,Duelist,Europe
+130,BaGyZ#0001,559,51.2%,64,"4,342",25.1%,Duelist,Europe
+131,SLASH Chanformer#TTV,559,53.3%,66,"4,266",21.4%,Duelist,Europe
+132,gosaydam#676,557,51.1%,47,"4,788",20.6%,Duelist,Europe
+133,CSE Wo0t#Lax,557,54.1%,63,"5,368",28.2%,Duelist,Europe
+134,Vitality ceNder#1337,556,54.3%,37,"5,310",32.4%,Controller,Europe
+135,Touven#0000,556,50.3%,94,"4,921",27.2%,Duelist,Europe
+136,nyczu#00000,555,50.8%,63,"3,958",16.9%,Sentinel,Europe
+137,foiz#XXX,555,51.8%,43,"4,623",26.1%,Sentinel,Europe
+138,Snyler#1499,554,66.7%,20,"5,467",22.2%,Duelist,Europe
+139,AFELLAY9#alex,554,46.5%,47,"4,256",24.3%,Sentinel,Europe
+140,Jlerst#TR11,554,55.2%,58,"4,600",29.1%,Sentinel,Europe
+141,zYKK#7777,554,54.5%,53,"4,978",25.8%,Sentinel,Europe
+142,SkillG#1030,553,54.5%,60,"4,967",25.2%,Sentinel,Europe
+143,TheowVAL#000,553,54.2%,32,"5,377",24.3%,Duelist,Europe
+144,SES Slempy#垂钓者,553,51.0%,51,"5,400",23.6%,Duelist,Europe
+145,Aspire Kleimon#4945,552,44.9%,49,"5,212",27.5%,Duelist,Europe
+146,maniek#11111,551,51.3%,41,"5,614",24.8%,Duelist,Europe
+147,9 jsnnnnN#QLF,551,57.1%,65,"4,504",16.0%,Duelist,Europe
+148,SparkerCS#EUW,549,60.4%,28,"4,040",26.9%,Controller,Europe
+149,ky5 Aegis#AWP,548,65.5%,37,"5,582",24.6%,Duelist,Europe
+150,L 7#7777,548,58.1%,36,"4,889",29.2%,Duelist,Europe
+151,GabsoN#K1NG,548,53.4%,79,"5,898",27.2%,Duelist,Europe
+152,NIP chiwawa#WOW,547,49.1%,27,"6,048",28.0%,Duelist,Europe
+153,MRS kamyk#2137,546,48.3%,41,"5,004",31.5%,Duelist,Europe
+154,GSTARZZ#5879,545,58.4%,52,"4,683",19.1%,Sentinel,Europe
+155,thekAshh#0000,544,53.0%,37,"4,602",24.5%,Initiator,Europe
+156,Vitality feqew#1337,541,46.8%,30,"5,018",28.5%,Sentinel,Europe
+157,19 eXerZ#1337,541,43.4%,36,"4,735",23.1%,Sentinel,Europe
+158,vxzq#qqq,541,52.1%,38,"4,540",24.4%,Duelist,Europe
+159,ROX falltw#zyo,540,56.1%,23,"4,991",25.2%,Duelist,Europe
+160,approx#4498,540,59.5%,50,"4,455",18.1%,Controller,Europe
+161,7ssk7#777,539,54.1%,39,"5,429",37.8%,Duelist,Europe
+162,FB Deadink#1907,537,57.5%,72,"5,034",25.7%,Duelist,Europe
+163,tankzor#6666,537,53.8%,22,"4,589",34.2%,Sentinel,Europe
+164,tmhMM#7991,537,50.0%,78,"4,502",25.3%,Duelist,Europe
+165,Smuffy#AIMBT,536,53.1%,25,"5,318",40.1%,Sentinel,Europe
+166,DaviH#405,536,52.8%,27,"4,813",27.2%,Controller,Europe
+167,playboistarki#hehe,536,50.9%,56,"4,737",25.4%,Duelist,Europe
+168,Shak0w#BINKS,536,55.9%,37,"4,449",21.2%,Controller,Europe
+169,OS Muj#deLy,535,50.0%,40,"5,416",28.1%,Sentinel,Europe
+170,PhyzoN#Later,535,62.0%,30,"4,727",25.0%,Duelist,Europe
+171,tracE#old67,534,50.0%,45,"4,097",25.8%,Sentinel,Europe
+172,shalesz2#MÖ67,534,62.9%,43,"4,709",22.9%,Initiator,Europe
+173,WAVE murii#sova,533,44.4%,23,"5,038",29.4%,Initiator,Europe
+174,OS Brasco#legit,533,48.0%,35,"4,888",29.0%,Sentinel,Europe
+175,eXiLe sibeastw0w#eXiLe,532,55.9%,57,"5,222",22.3%,Duelist,Europe
+176,IdaXion#GOD,532,60.8%,32,"4,828",24.0%,Controller,Europe
+177,Liquid Jamppi#1964,532,59.8%,58,"5,498",26.1%,Duelist,Europe
+178,Katu#LFT,531,50.0%,25,"4,837",31.1%,Duelist,Europe
+179,AES lauress#lau,530,53.7%,21,"6,118",31.4%,Duelist,Europe
+180,ramz#FPS,530,47.7%,41,"4,634",22.1%,Duelist,Europe
+181,Jba#3452,529,56.3%,97,"4,543",25.2%,Duelist,Europe
+182,LLH axon#1234,528,54.3%,25,"5,226",23.7%,Duelist,Europe
+183,SpaceBud#420,528,56.0%,47,"5,174",17.4%,Duelist,Europe
+184,TBG DubzWoW#TBG,528,53.4%,38,"4,865",21.3%,Duelist,Europe
+185,criwdd#criww,527,52.0%,54,"4,668",26.1%,Sentinel,Europe
+186,bRAAHH#134,526,48.5%,33,"4,744",21.9%,Sentinel,Europe
+187,SARANOSTRA#özgür,526,60.9%,27,"4,525",31.2%,Sentinel,Europe
+188,GAL ThePrimerio#KÖNİG,526,51.7%,30,"5,722",33.4%,Duelist,Europe
+189,krocuS#JADED,526,50.4%,63,"4,285",24.4%,Controller,Europe
+190,m1KKO#iwnl,525,48.9%,22,"4,116",19.7%,Sentinel,Europe
+191,zTruth MCD#777,524,58.7%,26,"4,498",20.6%,Sentinel,Europe
+192,TC CORONEL#LEGIT,523,55.5%,65,"4,235",23.8%,Sentinel,Europe
+193,OG OniBy#appy,522,50.0%,19,"4,822",33.5%,Sentinel,Europe
+194,Ballout#EUW,522,55.3%,42,"4,587",29.1%,Sentinel,Europe
+195,Drags#117,522,53.3%,66,"4,755",22.6%,Duelist,Europe
+196,TTrh4ac#4425,521,51.9%,43,"4,551",18.8%,Sentinel,Europe
+197,Léu#EASY,520,56.7%,18,"5,074",20.8%,Duelist,Europe
+198,HulkzteN#paps,520,61.8%,33,"5,060",25.7%,Duelist,Europe
+199,Quantum#EREN,520,53.7%,77,"4,735",24.8%,Duelist,Europe
+200,matti#123,519,48.2%,54,"4,390",21.1%,Sentinel,Europe
+201,Revenge Demiurge#VAL,519,58.9%,64,"5,398",21.2%,Duelist,Europe
+202,SMP Ambi#1234,518,54.3%,19,"4,504",26.5%,Sentinel,Europe
+203,kriszgod#skrr,517,58.7%,64,"3,976",24.2%,Controller,Europe
+204,Ruxic#6060,516,54.9%,79,"4,577",20.5%,Sentinel,Europe
+205,eSuba bobys#ESUBA,515,53.2%,40,"4,760",23.5%,Duelist,Europe
+206,AUR reazyko#ABUSE,515,56.4%,45,"5,682",34.7%,Initiator,Europe
+207,3xtraM#32yo,515,62.7%,42,"5,460",20.5%,Duelist,Europe
+208,DR bksh0wz#BKS,515,55.1%,55,"4,517",24.2%,Controller,Europe
+209,emplaz#9083,515,52.2%,58,"4,372",19.6%,Duelist,Europe
+210,deeM#BRUH,515,55.4%,61,"4,228",21.0%,Duelist,Europe
+211,inZen 先生#GOD,515,54.2%,66,"4,906",17.6%,Duelist,Europe
+212,MatéliaN#0721,514,56.4%,22,"4,772",28.8%,Initiator,Europe
+213,BIG obnoks#1712,514,50.0%,21,"5,574",26.1%,Duelist,Europe
+214,19 Vasili#1234,514,52.5%,31,"4,466",20.6%,Duelist,Europe
+215,CSE Darrick#9997,514,47.3%,58,"4,638",24.1%,Sentinel,Europe
+216,cn0x#bruh,514,50.6%,41,"4,478",26.4%,Duelist,Europe
+217,DonnieDingo#EUW,513,70.0%,29,"4,710",31.7%,Initiator,Europe
+218,S2V OLIZERA#000,513,63.9%,38,"5,001",20.7%,Duelist,Europe
+219,4exe bl0cked#hltv,513,54.6%,141,"4,776",18.2%,Controller,Europe
+220,fp0#WRLD,512,54.1%,39,"4,947",30.9%,Duelist,Europe
+221,SAW dimax#111,511,55.3%,26,"4,456",25.8%,Duelist,Europe
+222,Gappy#INCRE,511,48.5%,33,"4,517",16.0%,Sentinel,Europe
+223,yAaAte#EUW,511,60.0%,30,"4,389",16.5%,Sentinel,Europe
+224,menace#1337,510,44.7%,24,"5,369",23.6%,Duelist,Europe
+225,nAhA#LFT,510,55.8%,67,"4,451",31.3%,Controller,Europe
+226,HSDIRR tabz#EPM,510,65.4%,34,"4,632",26.2%,Initiator,Europe
+227,OS TheNightChe#BEST,510,57.4%,63,"4,906",34.6%,Duelist,Europe
+228,SHN Ziko#058,509,48.9%,66,"4,880",25.5%,Duelist,Europe
+229,Extreme#LFT,509,60.3%,44,"4,909",26.6%,Duelist,Europe
+230,Seba#1337,509,56.9%,41,"3,977",22.9%,Sentinel,Europe
+231,TE Sacake#ttv,508,48.6%,54,"4,850",21.5%,Initiator,Europe
+232,amnejzillA#1105,508,51.6%,46,"4,432",20.1%,Duelist,Europe
+233,Stix#Ez,508,52.9%,45,"4,353",26.7%,Sentinel,Europe
+234,Finest MOLSI#1337,507,64.3%,18,"5,160",30.3%,Initiator,Europe
+235,S3QUUUUUUU#WAG,507,64.9%,48,"5,165",23.8%,Initiator,Europe
+236,r1ze#4310,507,64.8%,61,"5,189",22.4%,Duelist,Europe
+237,crovex#123,506,55.1%,27,"4,238",20.7%,Sentinel,Europe
+238,ARGENTfps#LFT,506,51.6%,67,"4,960",23.4%,Duelist,Europe
+239,EpicOff#4112,506,59.6%,60,"4,781",25.9%,Initiator,Europe
+240,BIG zonixx#euw,506,52.9%,32,"4,267",23.5%,Controller,Europe
+241,tecoNe#ezz,505,47.6%,39,"5,310",28.5%,Duelist,Europe
+242,LionClaw#000,505,56.9%,29,"4,150",25.4%,Sentinel,Europe
+243,Kuba#booty,505,53.6%,45,"5,294",22.4%,Duelist,Europe
+244,glovee#1337,504,44.9%,56,"4,882",27.0%,Sentinel,Europe
+245,aimlessheheTTV#LFT,504,53.3%,91,"4,730",24.3%,Duelist,Europe
+246,ruLezz#4553,504,53.4%,54,"5,052",23.7%,Duelist,Europe
+247,AUR OXMANN#0707,503,55.0%,63,"4,773",31.9%,Duelist,Europe
+248,oskarkje#3802,503,54.7%,28,"5,102",23.2%,Duelist,Europe
+249,SAW starkk#000,502,54.1%,39,"5,565",25.2%,Duelist,Europe
+250,Feeqn#uwu,501,45.8%,27,"4,636",19.9%,Sentinel,Europe
+251,GAL RAZORCONEE#kean,501,49.4%,39,"4,672",26.3%,Duelist,Europe
+252,sN1pyh#MCLUB,501,61.6%,54,"4,392",21.6%,Duelist,Europe
+253,fanboy#LFT,500,46.0%,29,"4,675",36.2%,Sentinel,Europe
+254,isa#00000,500,50.5%,47,"4,099",21.3%,Sentinel,Europe
+255,cttpckwN#LFT,499,55.0%,71,"4,531",18.9%,Sentinel,Europe
+256,6ix#GBS,499,58.1%,27,"5,213",26.8%,Duelist,Europe
+257,ColderSo#4984,499,85.7%,17,"5,539",19.6%,Duelist,Europe
+258,ПАДШИЙ ЛОРД#LORD,499,62.2%,27,"4,649",24.0%,Initiator,Europe
+259,KFLR Padisah#1903,499,62.4%,62,"4,737",27.8%,Duelist,Europe
+260,manyon#111,499,58.0%,46,"4,001",19.2%,Sentinel,Europe
+261,Wissite1#EUW,498,57.1%,28,"5,301",26.9%,Duelist,Europe
+262,Sangal lurzy0y0#Boss,498,50.3%,88,"5,741",34.2%,Duelist,Europe
+263,Mukke#1111,498,54.0%,26,"3,824",28.7%,Controller,Europe
+264,roodya#SЕЕX,498,51.2%,43,"5,209",18.2%,Duelist,Europe
+265,DALADAVVE#111,498,45.3%,79,"5,387",16.4%,Duelist,Europe
+266,JAMTER#163,498,54.1%,62,"5,065",28.5%,Duelist,Europe
+267,DEKEN#2896,497,58.1%,17,"4,530",28.4%,Duelist,Europe
+268,WAKUZ#www,497,52.7%,39,"5,320",36.8%,Duelist,Europe
+269,Guild Leo#5504,496,63.4%,26,"5,405",20.6%,Duelist,Europe
+270,ky5 NeskaaS#MVP,496,57.1%,32,"4,716",24.6%,Initiator,Europe
+271,W4siLi#er2,496,47.4%,47,"4,617",20.2%,Sentinel,Europe
+272,Darkzone#Wolf,496,52.6%,40,"3,788",23.3%,Initiator,Europe
+273,FNATIC Doma#4631,496,47.2%,41,"5,189",29.9%,Sentinel,Europe
+274,kristA#xdd,496,45.9%,52,"4,637",24.2%,Duelist,Europe
+275,carryS LFT#240hz,496,67.1%,60,"5,398",24.4%,Duelist,Europe
+276,Alliance LUCKER#RRR,495,54.7%,35,"5,465",31.4%,Sentinel,Europe
+277,Obliks3#EUW,495,44.8%,44,"4,965",15.1%,Sentinel,Europe
+278,UES xBeelzebub#zıbab,495,57.3%,58,"5,131",25.1%,Duelist,Europe
+279,NAZARD#15896,495,53.1%,70,"4,624",19.1%,Initiator,Europe
+280,eMz Neitt#1410,494,61.5%,23,"4,782",30.9%,Duelist,Europe
+281,1ndra#1443,494,51.5%,36,"5,289",21.5%,Initiator,Europe
+282,1nput#trash,493,51.0%,53,"4,900",26.2%,Duelist,Europe
+283,Sownz#EUW,493,60.5%,25,"4,953",28.5%,Duelist,Europe
+284,SES dips1#XA4,493,57.7%,44,"4,891",22.1%,Initiator,Europe
+285,Nilsson#4767,492,58.5%,39,"4,422",20.1%,Sentinel,Europe
+286,iXeonN#Xeo,492,45.5%,25,"4,450",21.1%,Duelist,Europe
+287,Just#1738,492,59.1%,54,"5,308",19.4%,Duelist,Europe
+288,Jeremiah Xopya#key,492,58.0%,53,"4,730",33.4%,Sentinel,Europe
+289,Fatiiiih#Dehka,492,61.9%,72,"4,415",26.5%,Initiator,Europe
+290,V2 WRLD#gOd,491,47.2%,63,"4,789",23.8%,Controller,Europe
+291,SEIDER#int,490,40.5%,30,"4,666",27.1%,Initiator,Europe
+292,ARC Floko#6666,490,52.8%,59,"4,783",24.8%,Duelist,Europe
+293,muthaphukkin#cccc,490,62.5%,65,"4,720",26.5%,Duelist,Europe
+294,LLH skraddykseN#glukh,490,56.4%,76,"4,533",21.2%,Controller,Europe
+295,fredD9n#100G,490,59.3%,86,"4,844",31.9%,Initiator,Europe
+296,ZeaIbiza#ZZZ,490,70.0%,48,"5,092",27.8%,Duelist,Europe
+297,ACE cNed#carry,489,50.0%,29,"4,902",28.5%,Duelist,Europe
+298,Ricksx#AWF,489,56.3%,44,"4,486",29.8%,Sentinel,Europe
+299,howellsey#EUW,489,68.3%,27,"4,705",17.1%,Sentinel,Europe
+300,RARE MACHINERIS#GOD,488,56.1%,32,"4,835",37.9%,Initiator,Europe
+301,Ego#REAL,488,60.0%,41,"4,806",22.9%,Sentinel,Europe
+302,MushroomY#187,488,55.8%,29,"3,979",14.9%,Sentinel,Europe
+303,ky5 b2#halal,488,53.6%,60,"4,631",31.7%,Controller,Europe
+304,SUPR Frenzaa#Fish,487,64.7%,34,"4,295",22.6%,Sentinel,Europe
+305,NyaRu#JP283,486,49.6%,67,"4,913",24.0%,Duelist,Europe
+306,AYB Baunte#0000,486,54.0%,73,"4,485",20.9%,Sentinel,Europe
+307,demnei#DKS,486,57.1%,28,"4,476",23.4%,Duelist,Europe
+308,Cantzer#1337,486,50.3%,82,"4,646",17.7%,Initiator,Europe
+309,Myanthia#ıvj,486,50.6%,78,"4,853",26.7%,Duelist,Europe
+310,sergbye#6922,486,52.4%,75,"4,514",28.4%,Initiator,Europe
+311,BABAZEUS#AWP,486,56.7%,58,"4,744",22.5%,Duelist,Europe
+312,Foku#BOP,485,62.2%,27,"4,643",19.8%,Initiator,Europe
+313,Nyxus#2249,485,51.2%,43,"4,147",18.4%,Duelist,Europe
+314,Prophecy Frandec#001,485,53.5%,37,"4,608",15.6%,Sentinel,Europe
+315,Kirich#sick,484,47.1%,41,"5,363",27.3%,Duelist,Europe
+316,CE PsYch0#Hntai,484,55.7%,38,"4,961",23.6%,Controller,Europe
+317,TYE SimonD4rk#Clown,484,55.1%,29,"5,863",23.9%,Duelist,Europe
+318,FNATIC Boaster#1010,482,66.7%,20,"4,409",26.7%,Controller,Europe
+319,BOT SUGABOB#SBOB,482,63.6%,21,"4,229",20.2%,Initiator,Europe
+320,miikasd#BULIL,482,56.8%,21,"4,473",20.9%,Duelist,Europe
+321,tré LFT#IGL,482,55.8%,82,"4,461",26.6%,Sentinel,Europe
+322,UES RieNs#Unity,481,46.3%,83,"5,004",24.7%,Duelist,Europe
+323,maje#HELL,481,55.1%,54,"5,408",38.2%,Duelist,Europe
+324,reyvn#21233,480,43.8%,43,"4,475",25.8%,Duelist,Europe
+325,Gabr1#VAL,480,47.4%,53,"4,600",17.7%,Sentinel,Europe
+326,CZESKA phaze#BEAST,480,60.5%,25,"4,142",22.5%,Controller,Europe
+327,ATR LaggS#2001,480,56.2%,44,"4,618",25.7%,Duelist,Europe
+328,eNN1#LFT,480,60.5%,50,"4,989",39.0%,Sentinel,Europe
+329,Razvy#toxic,480,54.4%,30,"5,406",24.8%,Duelist,Europe
+330,CC Derke#100,479,52.8%,19,"5,882",31.7%,Duelist,Europe
+331,Yukichi#6809,479,43.2%,31,"4,505",24.6%,Sentinel,Europe
+332,Davud#AIM,479,54.9%,27,"5,646",17.8%,Duelist,Europe
+333,GEARED#GOD,479,60.2%,53,"5,082",27.6%,Duelist,Europe
+334,screamy#1629,479,70.6%,24,"5,746",21.0%,Duelist,Europe
+335,CINTIX#TJAY,479,66.7%,29,"4,956",27.7%,Duelist,Europe
+336,KENZYY#AIM,478,50.0%,39,"4,400",19.6%,Sentinel,Europe
+337,AlexJJ#1337,478,51.0%,76,"4,280",30.1%,Sentinel,Europe
+338,ARC armino#BOSNA,477,41.7%,35,"4,661",36.1%,Duelist,Europe
+339,Alliance XMS51#0000,477,66.7%,17,"5,430",29.4%,Controller,Europe
+340,ZZ fred#000,477,42.1%,31,"5,815",24.3%,Duelist,Europe
+341,Noomi#5708,477,57.1%,28,"4,832",22.3%,Duelist,Europe
+342,NASR alvar#1234,477,51.0%,55,"5,118",29.5%,Duelist,Europe
+343,MJY Nartzie#TUN,477,55.4%,35,"4,791",22.0%,Duelist,Europe
+344,OG elllement#lmnt,476,48.1%,39,"5,566",25.4%,Duelist,Europe
+345,Graav#EUW,476,67.8%,39,"3,967",16.4%,Sentinel,Europe
+346,Cobras neiixzz#2020,476,53.2%,33,"5,616",36.9%,Duelist,Europe
+347,Dayos#lft,476,53.5%,75,"5,108",16.5%,Duelist,Europe
+348,LASTONE#1337,476,48.4%,45,"4,716",18.1%,Duelist,Europe
+349,GOF Capri#1303,476,62.0%,49,"5,369",19.9%,Duelist,Europe
+350,slowlyweRot#KEKW,475,61.7%,28,"4,026",22.2%,Controller,Europe
+351,gRINGOj#007,475,46.2%,29,"4,180",16.3%,Sentinel,Europe
+352,WIZ MARINOOZ#HUM,475,56.8%,43,"4,394",17.4%,Duelist,Europe
+353,Zed#TRLP,474,65.5%,38,"5,392",28.3%,Duelist,Europe
+354,NEEX#LASHE,474,57.7%,57,"5,102",21.8%,Duelist,Europe
+355,mista#0313,473,59.0%,46,"4,834",32.5%,Duelist,Europe
+356,VGIA Fit1nho#ESP,472,57.6%,19,"4,351",23.1%,Duelist,Europe
+357,BloomSBury#1971,472,62.9%,38,"4,629",31.2%,Sentinel,Europe
+358,mAruh#4333,472,55.3%,42,"5,065",23.7%,Duelist,Europe
+359,beaverrrrrrr#9036,472,51.6%,66,"4,689",31.8%,Sentinel,Europe
+360,UBITEAM CryingG#FR76,472,53.6%,44,"4,820",24.7%,Sentinel,Europe
+361,AaroN#1338,471,47.7%,23,"4,673",23.3%,Sentinel,Europe
+362,lewn#000,471,64.7%,33,"4,995",23.2%,Duelist,Europe
+363,AIM shrudi#pvio,471,55.7%,45,"4,523",25.6%,Controller,Europe
+364,Liquid ScreaM#1TAP,470,61.1%,22,"6,977",34.5%,Duelist,Europe
+365,sharkie#TR1,470,44.2%,38,"4,608",21.3%,Duelist,Europe
+366,Yage#myboi,470,50.8%,95,"4,762",25.0%,Sentinel,Europe
+367,Miracle#godík,470,58.1%,36,"4,910",26.0%,Duelist,Europe
+368,MCS LowaN#1995,469,50.0%,31,"4,789",31.5%,Sentinel,Europe
+369,KPZET#1998,468,63.0%,17,"4,305",31.8%,Sentinel,Europe
+370,123T SAFA#6065,468,41.5%,57,"4,576",15.0%,Duelist,Europe
+371,Leon#1337,468,50.5%,52,"4,395",17.3%,Duelist,Europe
+372,PH Jamie#420,468,56.5%,41,"4,672",23.4%,Controller,Europe
+373,TNR Th3o#2207,467,50.9%,29,"4,750",21.8%,Duelist,Europe
+374,LWX#7769,467,60.0%,20,"4,511",31.8%,Sentinel,Europe
+375,teyZ3#14yo,467,54.5%,42,"4,839",18.1%,Sentinel,Europe
+376,SK baha#1407,467,75.8%,25,"5,205",29.0%,Sentinel,Europe
+377,Mabel#3261,466,51.2%,44,"4,606",26.5%,Duelist,Europe
+378,Speedy#7309,466,58.7%,64,"4,917",24.2%,Initiator,Europe
+379,Knox#netic,466,48.7%,78,"5,184",26.9%,Duelist,Europe
+380,BBL LEGOO#snake,466,56.5%,47,"4,580",16.1%,Duelist,Europe
+381,RAAD DEPYRO#MANGO,466,63.1%,40,"5,783",20.0%,Duelist,Europe
+382,BBL kero#zin,465,50.0%,32,"4,805",30.5%,Initiator,Europe
+383,WerlasS#LFT,465,48.1%,40,"4,841",24.4%,Duelist,Europe
+384,Avenué#GOD,465,57.6%,33,"5,132",22.9%,Duelist,Europe
+385,AUT0SUGGEST1ON#6479,465,57.0%,44,"4,836",24.8%,Initiator,Europe
+386,knoxville#LFT,465,57.1%,55,"5,227",21.4%,Duelist,Europe
+387,teddy#LITH,464,50.6%,39,"4,326",25.4%,Controller,Europe
+388,CTL STEEVEY#0000,464,62.5%,21,"4,148",13.8%,Initiator,Europe
+389,Twitch sooftyy#Juice,464,55.7%,43,"4,610",24.0%,Duelist,Europe
+390,YANNTIERSEN#1983,464,56.4%,66,"5,505",31.2%,Duelist,Europe
+391,IW demo#akılv,463,47.4%,55,"4,821",22.2%,Sentinel,Europe
+392,obdc#0905,463,50.0%,22,"4,617",31.8%,Duelist,Europe
+393,Fiji#66666,463,52.6%,50,"4,653",18.1%,Duelist,Europe
+394,SMP Nemám vlasy#SAMPI,463,53.6%,37,"4,402",26.2%,Duelist,Europe
+395,Elysium#bot,463,48.1%,74,"4,613",23.2%,Controller,Europe
+396,s2kM#1TAP,463,67.9%,35,"5,286",34.8%,Duelist,Europe
+397,cappuccino#xxx,462,52.7%,68,"5,334",28.3%,Controller,Europe
+398,RobbieBk#7777,461,55.6%,32,"4,428",29.2%,Initiator,Europe
+399,Damagic#EUW,461,53.3%,65,"4,397",20.8%,Controller,Europe
+400,XFlow Raider#sjsj,461,62.3%,33,"5,273",26.3%,Duelist,Europe
+401,LFT SHALZ#LFT,461,51.7%,59,"4,939",20.2%,Duelist,Europe
+402,Münzi187#4304,461,72.7%,24,"4,903",15.6%,Controller,Europe
+403,Rodas#sosat,460,40.9%,40,"4,870",28.0%,Duelist,Europe
+404,EZK AM3LIE#666,460,60.5%,22,"5,097",24.2%,Duelist,Europe
+405,IW TheCady#xDD,460,46.9%,85,"5,740",30.6%,Duelist,Europe
+406,IST paRs#006,460,57.0%,53,"5,242",22.6%,Duelist,Europe
+407,CombatRy#000,460,55.1%,48,"4,731",27.7%,Controller,Europe
+408,Kuby#1Tap,460,53.7%,51,"4,785",19.5%,Duelist,Europe
+409,HeadHunter#GBS,460,53.5%,60,"4,442",25.6%,Controller,Europe
+410,sencerEZ#TR1,460,58.1%,104,"4,849",22.9%,Duelist,Europe
+411,ING Kolemins#trash,459,45.8%,44,"5,510",26.2%,Duelist,Europe
+412,OWL Favian#Light,459,53.0%,35,"5,472",31.1%,Duelist,Europe
+413,teoPXD#chelu,459,54.0%,33,"4,901",21.1%,Sentinel,Europe
+414,hay#1090,459,45.1%,56,"4,155",25.1%,Sentinel,Europe
+415,onichaan#x0x0,459,56.3%,56,"4,721",21.3%,Duelist,Europe
+416,ALBAYRAK#Boss,459,53.3%,48,"5,434",12.8%,Duelist,Europe
+417,FCG Layk#CSGO,458,50.6%,43,"4,720",28.1%,Controller,Europe
+418,zane#lord,458,50.6%,41,"4,624",21.3%,Controller,Europe
+419,MAGiK#NED,458,51.1%,23,"5,586",29.2%,Controller,Europe
+420,Madaô#14yo,458,52.1%,61,"4,908",27.7%,Controller,Europe
+421,javeliN#RFRMD,458,57.7%,56,"5,129",26.1%,Duelist,Europe
+422,Superyosh#9696,458,53.5%,47,"4,369",20.2%,Sentinel,Europe
+423,KovaQ#OffMe,458,53.6%,44,"4,807",29.9%,Sentinel,Europe
+424,Kixer1#EUW,458,48.8%,83,"4,903",17.7%,Duelist,Europe
+425,cevhbk#60fps,457,42.1%,24,"4,633",25.7%,Duelist,Europe
+426,Syratch#BXL,457,52.1%,85,"4,481",32.4%,Duelist,Europe
+427,AUR Masic#0707,457,49.3%,33,"6,068",26.5%,Duelist,Europe
+428,eRa Rzca#0000,457,60.5%,22,"4,949",39.9%,Duelist,Europe
+429,DROPZ Tag#XDXD,457,56.5%,74,"4,264",23.9%,Sentinel,Europe
+430,RedJ#smile,457,57.7%,71,"4,558",17.0%,Sentinel,Europe
+431,SWAG xazyyy#6144,457,51.2%,109,"4,655",25.4%,Controller,Europe
+432,LFT ikke#WEAK,456,48.8%,21,"4,897",19.4%,Sentinel,Europe
+433,YaLLa VIPP33R#sit,456,43.3%,29,"5,166",20.4%,Duelist,Europe
+434,Sher X#remö,456,52.0%,26,"5,603",22.0%,Initiator,Europe
+435,EPW KatilMaymun#x11x,456,54.2%,25,"4,897",13.9%,Duelist,Europe
+436,Inumo#1705,456,47.0%,54,"4,090",23.2%,Sentinel,Europe
+437,unbelievable guy#1974,456,76.6%,36,"5,164",29.6%,Sentinel,Europe
+438,19 jonba#2323,455,43.6%,23,"4,433",29.7%,Initiator,Europe
+439,GAL MerSa#GOD,455,47.5%,48,"4,287",26.8%,Initiator,Europe
+440,FronteZzZz#XC4,455,47.6%,39,"5,027",29.0%,Duelist,Europe
+441,Hollow#AYDES,455,56.3%,72,"4,460",21.6%,Sentinel,Europe
+442,Matrix#Jett,455,54.5%,58,"4,973",29.2%,Sentinel,Europe
+443,SES mandjos1k#M4N,455,55.2%,37,"4,891",29.3%,Initiator,Europe
+444,rbr#007,455,55.9%,51,"4,880",25.0%,Sentinel,Europe
+445,LFT DolpanzZ#creep,455,52.6%,50,"5,013",27.8%,Duelist,Europe
+446,seb#1983,455,56.5%,49,"4,783",24.4%,Duelist,Europe
+447,abraXas#hash,455,60.0%,48,"4,776",16.0%,Duelist,Europe
+448,OBG spellfull#7182,454,56.1%,22,"5,109",29.1%,Duelist,Europe
+449,shengel#Tarık,454,47.7%,41,"4,613",25.0%,Controller,Europe
+450,CSE Kuzuur#Carry,454,51.2%,22,"5,106",28.5%,Duelist,Europe
+451,Circonflexx#LFO,454,53.8%,28,"4,224",19.7%,Initiator,Europe
+452,puggy#666,454,47.1%,40,"4,547",26.4%,Duelist,Europe
+453,vong#1999,453,62.5%,16,"5,947",26.5%,Duelist,Europe
+454,ozzy#0002,453,55.6%,19,"5,036",21.5%,Controller,Europe
+455,FNATIC Moe40#SUMN,453,51.9%,27,"5,320",29.3%,Duelist,Europe
+456,PoPiFresH#P100D,453,57.9%,23,"5,340",21.7%,Duelist,Europe
+457,SandFish#0000,453,50.0%,91,"4,487",24.6%,Controller,Europe
+458,dAriX#7320,453,57.7%,57,"4,601",24.5%,Controller,Europe
+459,GunnyX#0101,453,52.5%,41,"5,006",23.9%,Duelist,Europe
+460,Xerwo#faust,453,64.2%,51,"4,744",15.8%,Duelist,Europe
+461,Goupo#burak,453,54.5%,54,"4,840",27.2%,Duelist,Europe
+462,HsM#fps,452,49.0%,23,"5,040",26.8%,Duelist,Europe
+463,forZe Coffee#5627,452,57.1%,24,"5,301",18.6%,Duelist,Europe
+464,al0rante#al0,452,65.2%,16,"5,708",38.9%,Initiator,Europe
+465,MNA CNKa#koko,452,49.0%,25,"5,259",27.6%,Duelist,Europe
+466,AS07 Rydell#GOD,452,54.1%,32,"4,983",28.3%,Duelist,Europe
+467,Stefaann#4491,452,54.7%,93,"4,626",20.6%,Controller,Europe
+468,bobo#111,452,54.7%,57,"4,516",15.3%,Duelist,Europe
+469,Alius#SADGE,452,55.7%,49,"4,614",23.4%,Duelist,Europe
+470,tARAUS#1995,452,58.0%,53,"4,341",19.3%,Controller,Europe
+471,Divox#2105,452,61.5%,40,"4,844",30.3%,Sentinel,Europe
+472,RoyaaaL227#EUW,451,44.3%,26,"4,357",17.4%,Sentinel,Europe
+473,Ladiff#420,451,55.5%,61,"4,887",19.1%,Duelist,Europe
+474,SAW Addicted#000,450,50.0%,18,"4,566",26.6%,Sentinel,Europe
+475,quo#2055,450,43.5%,40,"4,705",20.2%,Duelist,Europe
+476,FB cacan#1907,450,57.9%,87,"5,189",26.3%,Duelist,Europe
+477,dead plug#000,450,51.9%,43,"4,458",26.4%,Controller,Europe
+478,TE DeRR#k1nG,450,53.2%,41,"4,891",16.1%,Duelist,Europe
+479,LFT EliEsS#9870,450,54.2%,104,"4,079",14.3%,Controller,Europe
+480,fl0w1h#4081,450,67.4%,31,"4,736",24.3%,Sentinel,Europe
+481,sanchizzle#0000,450,48.1%,51,"4,627",21.5%,Initiator,Europe
+482,Nishaly#X1903,450,57.9%,55,"4,478",21.8%,Sentinel,Europe
+483,OG TviQ#tviq,449,48.8%,40,"4,124",21.7%,Controller,Europe
+484,AjMERiTO#SADGE,449,58.2%,32,"5,124",18.3%,Duelist,Europe
+485,XARZENNNNN#GOD,449,55.4%,40,"4,586",26.2%,Duelist,Europe
+486,JamMy#1601,449,52.7%,100,"4,931",20.9%,Duelist,Europe
+487,THEOX#0000,449,67.6%,25,"5,059",34.1%,Duelist,Europe
+488,forZe SmartSeven#dima,449,59.2%,47,"5,560",24.3%,Duelist,Europe
+489,NWA NowaXxZang#ZANG,448,53.3%,56,"4,405",24.0%,Controller,Europe
+490,nightmare#dead,448,56.4%,57,"4,052",22.3%,Sentinel,Europe
+491,dark0sek#1964,448,48.4%,59,"4,682",24.4%,Initiator,Europe
+492,42mcnuggets#2436,448,53.4%,70,"4,925",20.9%,Initiator,Europe
+493,Lanerinno#999,447,46.8%,44,"5,063",27.0%,Sentinel,Europe
+494,Mckonsti#4864,447,52.2%,35,"4,800",21.6%,Sentinel,Europe
+495,WAVE nico#6666,447,52.5%,20,"4,535",28.1%,Initiator,Europe
+496,UCAM kaspe#1234,447,53.8%,20,"4,767",21.5%,Duelist,Europe
+497,Filu#6832,447,53.3%,39,"4,974",31.0%,Duelist,Europe
+498,Aidan#0161,447,54.3%,43,"4,520",15.4%,Initiator,Europe
+499,iTHR Szimpli#1337,447,83.3%,19,"6,167",26.7%,Duelist,Europe
+500,5up Snaz#EST,447,61.7%,38,"4,440",21.5%,Initiator,Europe
+1,Inter#3889,542,54.3%,107,"4,799",20.3%,Sentinel,Korea
+2,순 무#OwO,531,56.6%,59,"5,725",29.9%,Duelist,Korea
+3,APE JoXJo#9999,498,55.4%,30,"5,474",22.6%,Duelist,Korea
+4,F4Q GodDead#F4QQ,496,61.0%,61,"5,840",26.3%,Duelist,Korea
+5,WGS HANN#0131,489,51.4%,72,"5,614",28.9%,Duelist,Korea
+6,APE kobra#1111,486,59.7%,45,"5,752",30.6%,Duelist,Korea
+7,Sociopath#ENTP,463,72.0%,17,"5,675",27.7%,Initiator,Korea
+8,Hate#고졸무직,454,60.4%,28,"5,553",32.3%,Sentinel,Korea
+9,Açeu#ççç,439,55.9%,32,"5,392",20.6%,Duelist,Korea
+10,TNL eKo#5252,434,58.5%,30,"5,145",24.9%,Duelist,Korea
+11,WGS Has1ra14#1111,422,52.5%,61,"5,436",26.6%,Duelist,Korea
+12,미치광이장광남#가나시,411,60.4%,58,"5,494",24.0%,Duelist,Korea
+13,Meteor#1219,400,57.4%,27,"6,110",21.9%,Duelist,Korea
+14,복숭아충fan#KR1,375,46.2%,18,"5,759",31.6%,Duelist,Korea
+15,NoX UdoTan#0510,371,52.5%,64,"4,891",22.2%,Duelist,Korea
+16,hectix#9371,364,51.4%,57,"4,544",28.0%,Initiator,Korea
+17,DK t3xture#DKWIN,358,61.4%,26,"5,774",25.2%,Duelist,Korea
+18,순풍맨#7777,351,70.8%,16,"6,185",22.4%,Duelist,Korea
+19,F4Q DoenmO#F4QQ,348,54.7%,58,"5,330",18.0%,Duelist,Korea
+20,ringring#pasha,344,46.6%,67,"4,814",24.8%,Duelist,Korea
+21,제1트#zZzZz,341,61.8%,34,"6,547",26.2%,Duelist,Korea
+22,FvW  Jjang9#FvW,336,53.0%,61,"5,142",19.7%,Duelist,Korea
+23,진 빡#9790,333,56.8%,25,"4,200",26.5%,Duelist,Korea
+24,Crow77#1234,331,58.9%,32,"5,425",28.1%,Duelist,Korea
+25,아저씨머리조심하세요#5252,328,48.1%,37,"4,789",28.0%,Controller,Korea
+26,MYH 10X#무야호,327,64.3%,18,"4,943",22.7%,Duelist,Korea
+27,TNL RyZzi#5959,326,46.4%,44,"4,866",30.4%,Duelist,Korea
+28,Ash#qds,325,53.3%,49,"4,954",22.4%,Duelist,Korea
+29,Uru#vlrt,325,53.0%,60,"4,845",26.0%,Duelist,Korea
+30,맹 1#1111,324,56.7%,59,"5,128",21.7%,Duelist,Korea
+31,SAV Wavy#SVWIN,321,62.3%,32,"4,865",21.5%,Duelist,Korea
+32,HAM Esperanza#스 팸,319,61.1%,21,"5,424",38.2%,Sentinel,Korea
+33,LDLCZ#CZ75,315,54.4%,42,"5,006",16.7%,Duelist,Korea
+34,ZFG 9room#1st,310,64.3%,17,"4,834",16.7%,Sentinel,Korea
+35,NU Suggest#PRO,307,55.0%,21,"5,319",35.4%,Duelist,Korea
+36,성원준의 운전교습#0803,307,78.3%,17,"4,586",23.1%,Sentinel,Korea
+37,Carry#APE,307,56.7%,37,"4,919",22.1%,Duelist,Korea
+38,YoungA#Rich,305,51.3%,41,"5,275",19.3%,Duelist,Korea
+39,국진97#핵쟁이,304,66.7%,17,"5,102",22.2%,Initiator,Korea
+40,BF SethaN#BFWIN,301,51.7%,60,"4,635",22.3%,Duelist,Korea
+41,날 자극해#당신조심해,300,55.6%,69,"4,547",22.7%,Duelist,Korea
+42,twoblock#9151,299,51.6%,48,"4,536",17.2%,Sentinel,Korea
+43,3000#0000,298,50.7%,35,"4,065",16.2%,Sentinel,Korea
+44,OG Enter#OGZ,297,54.8%,22,"4,680",23.8%,Sentinel,Korea
+45,GH m4hogany#GHWIN,296,61.7%,36,"4,219",24.0%,Initiator,Korea
+46,물주먹최재혁#양산시전설,294,65.6%,42,"5,133",34.9%,Initiator,Korea
+47,Chibab#치 밥,293,54.2%,13,"5,575",19.8%,Duelist,Korea
+48,k1sa#1026,292,53.1%,50,"4,844",22.3%,Duelist,Korea
+49,yurayura#1234,291,58.8%,21,"5,567",18.1%,Duelist,Korea
+50,APE Lawrence#6666,285,54.4%,42,"5,370",26.2%,Duelist,Korea
+51,GHS SGONG#GHWIN,284,54.6%,77,"4,620",26.3%,Sentinel,Korea
+52,APEX Zeus#KOREA,283,54.5%,23,"5,644",31.4%,Sentinel,Korea
+53,토리코#본계정,283,50.4%,64,"4,448",19.5%,Duelist,Korea
+54,췌뤠췌뤠뱅뱅#1234,282,72.7%,15,"4,033",21.6%,Sentinel,Korea
+55,Easy#1111,279,43.8%,21,"4,816",30.0%,Duelist,Korea
+56,트위치이코봉#유튜브구독,279,59.3%,15,"5,501",16.1%,Duelist,Korea
+57,F4Q Daa#F4QQ,279,48.4%,46,"5,790",29.6%,Duelist,Korea
+58,a fair wind#kfo,277,75.0%,14,"6,043",26.2%,Duelist,Korea
+59,어 쌔 신#AssA,276,81.3%,12,"4,913",43.4%,Duelist,Korea
+60,잠만보#1111,275,52.4%,65,"4,798",15.3%,Initiator,Korea
+61,VS Rb#1111,271,64.7%,10,"6,480",25.6%,Duelist,Korea
+62,대리는밴드팀문의#제트팀검색,270,72.0%,17,"5,218",23.7%,Duelist,Korea
+63,start up#show,269,57.9%,11,"5,435",20.2%,Duelist,Korea
+64,MADONGSU#KR1,269,54.1%,45,"4,392",18.7%,Initiator,Korea
+65,X Jin#Xer,268,58.6%,16,"6,538",24.7%,Duelist,Korea
+66,뽀송한 식빵#뽀식이,267,49.4%,39,"5,255",15.8%,Duelist,Korea
+67,APE Halbae#1111,265,55.3%,21,"4,412",26.2%,Sentinel,Korea
+68,v5 rolex#1111,265,56.3%,35,"4,800",24.3%,Sentinel,Korea
+69,Cp OMFGA#7734,264,57.5%,22,"4,918",21.3%,Duelist,Korea
+70,Eumenes#1111,262,52.5%,21,"5,592",25.5%,Duelist,Korea
+71,기 모 링#7118,261,70.2%,40,"5,552",26.2%,Duelist,Korea
+72,성 준#WIN,261,54.5%,48,"5,048",29.2%,Duelist,Korea
+73,롤 킨 #KR1,259,53.7%,50,"3,975",21.8%,Controller,Korea
+74,WGS SeolHwa#5160,257,50.0%,36,"5,582",23.7%,Duelist,Korea
+75,HAM INPA#스 팸,254,55.4%,31,"4,903",26.7%,Controller,Korea
+76,miraggi#미라끠,254,75.0%,26,"5,329",16.7%,Duelist,Korea
+77,미드 메시#KR1,253,56.8%,41,"4,726",25.1%,Duelist,Korea
+78,ZFG Sunday#1st,249,63.6%,21,"4,381",28.6%,Initiator,Korea
+79,APEX ParkJJong#KOREA,249,90.9%,9,"4,140",31.1%,Controller,Korea
+80,AV20 akaone#AVWOW,249,61.8%,20,"4,794",34.7%,Duelist,Korea
+81,HouKen#1111,248,66.7%,14,"5,155",34.0%,Duelist,Korea
+82,F4Q Bunny#F4QQ,247,58.1%,25,"5,965",17.8%,Duelist,Korea
+83,LoseT#TesoL,246,58.5%,23,"5,285",20.0%,Sentinel,Korea
+84,무스너클 15 팜#03대장,246,57.1%,12,"6,220",25.9%,Duelist,Korea
+85,제트연습계정#칼픽합니다,246,80.0%,15,"4,850",18.0%,Duelist,Korea
+86,STE SID#Jett,245,48.7%,54,"5,326",15.7%,Duelist,Korea
+87,Anna#킹석준,245,48.1%,90,"4,942",26.0%,Duelist,Korea
+88,APE Carry#0000,243,69.2%,8,"5,155",20.6%,Duelist,Korea
+89,기복 심함#미안해,243,54.7%,28,"4,302",15.6%,Controller,Korea
+90,Island#Ash,241,65.8%,24,"5,225",23.0%,Duelist,Korea
+91,inG So1o#플리즈,240,68.4%,13,"6,046",21.6%,Duelist,Korea
+92,HAM zunba#스 팸,238,50.0%,25,"5,144",26.6%,Controller,Korea
+93,Rv DeNNy#RVWIN,238,65.4%,16,"4,906",23.6%,Initiator,Korea
+94,TIM EDWIN#이게나야,238,54.1%,59,"5,291",18.6%,Duelist,Korea
+95,머리카락어디감#KR1,238,75.0%,17,"3,995",20.5%,Sentinel,Korea
+96,DK Kelly#DKWIN,237,63.9%,22,"5,500",25.1%,Duelist,Korea
+97,던파장교출신기관총사수#LSHE,237,64.7%,10,"5,298",16.9%,Controller,Korea
+98,MYH iNTRO#무야호,236,46.7%,21,"5,231",34.8%,Initiator,Korea
+99,레디수호자주스비#17살,236,57.7%,14,"4,223",22.5%,Duelist,Korea
+100,FvW Ssun#FvW,236,48.3%,43,"4,370",19.4%,Controller,Korea
+101,APEX Jeong Hi#KOREA,235,51.6%,31,"5,106",19.8%,Duelist,Korea
+102,M100 Knight#백 수,235,56.9%,36,"4,957",19.2%,Duelist,Korea
+103,Yam#6790,235,53.8%,20,"3,599",17.6%,Sentinel,Korea
+104,Delta#0909,234,58.1%,24,"3,656",16.1%,Controller,Korea
+105,SeongFil#Sgong,233,47.7%,22,"4,860",25.8%,Controller,Korea
+106,HAM C1nder#스 팸,232,51.9%,28,"4,824",22.6%,Controller,Korea
+107,GBU B1ngSu#GUWIN,232,55.6%,34,"4,686",25.9%,Duelist,Korea
+108,무직백수삼성마트#1111,228,46.2%,12,"5,101",26.8%,Duelist,Korea
+109,배터리0퍼센트#올라가는중,227,71.4%,15,"4,435",28.1%,Duelist,Korea
+110,UFO#18Y,227,63.4%,27,"3,452",17.9%,Controller,Korea
+111,길로틴초크#KR1,226,40.4%,41,"5,341",20.3%,Initiator,Korea
+112,지지고넥스트#9999,225,64.3%,8,"4,738",21.9%,Duelist,Korea
+113,브라운#라이언,225,43.3%,12,"5,495",27.7%,Controller,Korea
+114,TNL GODLIKE#777,225,54.2%,39,"4,858",25.5%,Duelist,Korea
+115,210322 입대#Maru,223,48.1%,64,"5,052",37.5%,Duelist,Korea
+116,뇽 뇽#1212,223,65.7%,22,"4,718",12.1%,Duelist,Korea
+117,UNEDUCATED KID#1111,223,52.2%,23,"5,386",19.1%,Duelist,Korea
+118,돌 풍#Arrow,221,56.5%,12,"4,504",18.9%,Duelist,Korea
+119,APEX WIX#KOREA,221,47.7%,21,"4,441",30.6%,Initiator,Korea
+120,강민수#998,221,53.2%,66,"5,559",28.6%,Duelist,Korea
+121,난 너를#죽일꺼야,220,55.2%,15,"5,519",17.0%,Duelist,Korea
+122,epicc#1234,220,57.0%,61,"5,401",23.0%,Duelist,Korea
+123,총게임슈퍼고수#v천재v,219,68.8%,10,"5,641",19.7%,Duelist,Korea
+124,escapefromtarkov#UESC,219,50.6%,39,"5,587",15.3%,Duelist,Korea
+125,깜둥이#1234,219,78.9%,14,"4,443",11.6%,Duelist,Korea
+126,독일빵집#신터미널,217,46.3%,55,"3,993",17.2%,Controller,Korea
+127,Wani#Wani,216,60.5%,23,"4,946",26.3%,Duelist,Korea
+128,STE Kimhealer#STE,215,62.7%,36,"5,229",13.4%,Duelist,Korea
+129,백호랭이#00000,215,51.9%,54,"4,456",22.2%,Controller,Korea
+130,라 미#1004,214,52.5%,53,"5,361",47.8%,Duelist,Korea
+131,Margaret#마가레트,214,48.7%,18,"4,607",23.8%,Duelist,Korea
+132,UDT seoNgyU#우동특,213,45.5%,70,"4,704",15.5%,Duelist,Korea
+133,RED ERASINGCREAM#민감성피부,213,58.5%,71,"4,393",23.9%,Initiator,Korea
+134,다시 돌아온 강민성#프로게이머,213,64.5%,19,"5,075",23.5%,Duelist,Korea
+135,KE exill#KEWIN,212,60.9%,13,"4,262",26.3%,Duelist,Korea
+136,Jerony#재롱이,212,47.8%,21,"4,785",16.0%,Duelist,Korea
+137,C2S pax#C2S,212,52.1%,100,"4,759",22.3%,Duelist,Korea
+138,無知 Mochi#無知勝,212,78.9%,14,"4,860",16.2%,Controller,Korea
+139,암패스테스퍽보이#KR1,211,76.9%,9,"5,615",32.6%,Initiator,Korea
+140,17살프로지망생#스카웃좀,210,76.0%,19,"4,876",22.0%,Duelist,Korea
+141,Cycos Psycho#싸이코,210,70.4%,18,"5,738",27.4%,Duelist,Korea
+142,ITS YOU#0105,209,77.8%,6,"4,247",19.2%,Initiator,Korea
+143,제트가져가면던짐#Af1,209,67.5%,26,"4,965",20.2%,Duelist,Korea
+144,총쏘는성태엄마#성태맘,209,54.8%,39,"5,179",24.5%,Duelist,Korea
+145,6586534534457456#53253,208,55.1%,27,"4,480",25.9%,Initiator,Korea
+146,KE BrightBlue#KEWIN,208,52.9%,26,"4,123",22.2%,Controller,Korea
+147,TDR UNI#ROVER,207,51.1%,23,"4,625",17.8%,Duelist,Korea
+148,EPA ELSE#5030,207,69.2%,8,"4,403",25.9%,Duelist,Korea
+149,High sensitivity#고감도,207,63.6%,20,"4,881",19.9%,Duelist,Korea
+150,1920 x 1080 75Hz#올높음켜짐,206,45.2%,14,"5,317",20.2%,Duelist,Korea
+151,TIA MaG#TAWIN,206,63.6%,43,"4,386",17.3%,Duelist,Korea
+152,X yoman#Xer,205,50.0%,6,"5,127",22.9%,Duelist,Korea
+153,oni#2616,205,72.7%,7,"4,774",29.9%,Duelist,Korea
+154,개인주의#1111,205,57.9%,22,"5,644",25.4%,Sentinel,Korea
+155,呂布 奉先#三國志,205,47.8%,21,"4,962",22.9%,Duelist,Korea
+156,중 독#중 독,204,73.3%,11,"4,133",16.7%,Duelist,Korea
+157,감 도#7777,204,56.7%,16,"4,970",15.2%,Duelist,Korea
+158,Cycos 머리박아라#머리박아라,204,67.9%,18,"5,161",16.0%,Controller,Korea
+159,Alley#1111,203,70.6%,11,"4,910",19.6%,Sentinel,Korea
+160,PEACEMAKER#WIN,203,56.9%,28,"5,580",27.7%,Duelist,Korea
+161,F4NNY#7507,203,73.7%,13,"5,242",17.0%,Duelist,Korea
+162,beta K4rST#beta,202,62.1%,18,"4,675",23.4%,Controller,Korea
+163,백한월#1111,202,54.3%,19,"4,100",22.9%,Controller,Korea
+164,M100 Pay#백 수,201,54.8%,33,"5,513",23.6%,Duelist,Korea
+165,神風 가미카제#1111,201,55.6%,35,"4,959",18.4%,Duelist,Korea
+166,Cp Kongchano#page,200,49.4%,44,"4,901",22.6%,Duelist,Korea
+167,AV20 afk#AVWOW,200,63.3%,18,"3,990",19.8%,Controller,Korea
+168,토요일만겜가능#기숙사달다,199,69.0%,19,"3,788",22.8%,Duelist,Korea
+169,김건호#1227,199,60.0%,20,"4,328",23.6%,Sentinel,Korea
+170,박몰빵#001,199,58.6%,18,"4,756",24.2%,Initiator,Korea
+171,TNL exy#delay,198,50.0%,13,"5,611",40.3%,Duelist,Korea
+172,제트1#개잘함,198,61.1%,44,"5,289",17.6%,Duelist,Korea
+173,지는법을까먹은남자#지까먹,198,58.8%,29,"5,338",13.5%,Duelist,Korea
+174,TDR LoNNie#ROVER,197,61.1%,11,"4,113",15.5%,Initiator,Korea
+175,KOLER#7853,197,61.3%,18,"4,768",29.5%,Sentinel,Korea
+176,SailoRmoon#프로지망생,197,66.7%,19,"4,006",15.5%,Duelist,Korea
+177,l1ll1l1#l1l1,196,71.4%,10,"4,700",21.2%,Sentinel,Korea
+178,RADΙAΝΤ#SOOK,196,50.7%,33,"4,561",25.5%,Duelist,Korea
+179,neoweak#2570,196,58.3%,20,"3,859",19.7%,Controller,Korea
+180,FiX#양픽스,195,46.9%,22,"4,970",14.9%,Sentinel,Korea
+181,NeS Ash#NSWIN,194,43.1%,28,"4,270",22.9%,Initiator,Korea
+182,Naru#0228,194,51.9%,14,"5,369",21.6%,Duelist,Korea
+183,venera#3330,193,63.6%,13,"3,895",24.7%,Initiator,Korea
+184,고도우#1007,192,56.1%,31,"5,025",21.7%,Duelist,Korea
+185,SUZURAN#7777,192,52.2%,34,"4,338",24.7%,Duelist,Korea
+186,STE Devil#STE,192,52.8%,64,"4,513",16.9%,Duelist,Korea
+187,Muzzang#XoX,191,58.3%,21,"4,812",25.9%,Initiator,Korea
+188,내가잘못했어#Airi,191,53.8%,13,"5,174",22.3%,Duelist,Korea
+189,박도비 is#free,191,57.6%,33,"4,575",15.6%,Duelist,Korea
+190,dohwa#1st,190,53.8%,28,"4,569",21.2%,Controller,Korea
+191,버나의 개#왈왈왈왈,190,50.7%,37,"5,107",19.4%,Duelist,Korea
+192,KE YeoNu#KEWIN,190,68.4%,12,"5,163",19.4%,Duelist,Korea
+193,TMNX Sain#TNWIN,190,44.6%,40,"4,955",23.3%,Initiator,Korea
+194,우 신#1234,189,52.1%,37,"3,481",14.7%,Controller,Korea
+195,GMG REV1#WAAW,189,55.0%,55,"5,262",20.8%,Duelist,Korea
+196,Raphael#라파엘,189,59.0%,22,"4,425",24.9%,Duelist,Korea
+197,열심히할게요#1111,189,58.2%,32,"4,695",17.6%,Duelist,Korea
+198,GMG nEzz#WAAW,188,48.4%,30,"5,021",23.5%,Duelist,Korea
+199,F4Q FiveK#F4QQ,187,51.3%,19,"5,649",23.2%,Duelist,Korea
+200,RvT Nova#RvWIN,187,42.2%,26,"4,474",24.8%,Duelist,Korea
+201,김철철#IRON,187,69.0%,19,"5,057",25.6%,Duelist,Korea
+202,나 토로낑 아기유튜버#구독해줘요,187,55.1%,48,"5,212",17.4%,Duelist,Korea
+203,매드무비#1577,187,57.7%,30,"3,924",16.1%,Duelist,Korea
+204,PillGi#8126,186,54.5%,23,"4,012",19.2%,Duelist,Korea
+205,가족관계증명서에엄마없으면노엄마#그건금동이,186,58.3%,13,"5,023",12.2%,Duelist,Korea
+206,bwG#갓병완,186,64.0%,15,"5,314",17.2%,Duelist,Korea
+207,かまど 네즈코#鬼滅の刃,185,62.3%,38,"4,336",15.4%,Duelist,Korea
+208,ILIB#Vow,185,48.8%,20,"4,571",22.2%,Sentinel,Korea
+209,제2트#zZzZz,184,55.0%,10,"5,532",24.3%,Duelist,Korea
+210,Cycos godzilla#000,184,55.2%,57,"4,232",20.9%,Sentinel,Korea
+211,ZFG Sylvan#1st,183,53.3%,8,"5,477",20.8%,Duelist,Korea
+212,hongLyeon#No 1,183,49.6%,68,"4,985",21.2%,Controller,Korea
+213,티레디레디#EXY,182,70.0%,13,"5,193",30.6%,Duelist,Korea
+214,上弦 三 아카자#귀멸의칼날,181,54.3%,19,"3,879",25.6%,Initiator,Korea
+215,Godblessyou#2021,179,69.6%,15,"5,414",31.3%,Sentinel,Korea
+216,Krazy Luger#KRA,179,45.9%,28,"4,559",22.2%,Duelist,Korea
+217,조하쿠텐#한텐구,179,78.6%,11,"4,585",24.8%,Duelist,Korea
+218,난몰러유 그딴거 나는잘 몰러유#머쉬베놈,179,50.0%,27,"4,483",16.4%,Duelist,Korea
+219,Hyper Voice#VGC,179,53.3%,49,"4,680",23.8%,Duelist,Korea
+220,ChanChanChan#찬찬찬,179,54.8%,33,"4,177",16.8%,Sentinel,Korea
+221,wall#3878,179,57.5%,45,"4,849",23.4%,Duelist,Korea
+222,MUYAHO#ESM,178,58.1%,24,"3,546",15.4%,Controller,Korea
+223,물방울#0000,178,54.7%,99,"4,595",13.2%,Duelist,Korea
+224,신 지#7777,177,58.8%,9,"5,332",16.1%,Sentinel,Korea
+225,HAM claris#스 팸,177,60.0%,15,"5,477",23.6%,Duelist,Korea
+226,너라서 해줄게#KR1,177,100.0%,8,"5,196",23.2%,Sentinel,Korea
+227,늙어서잘못함#1234,177,51.4%,37,"4,246",17.0%,Controller,Korea
+228,Last PatrickStar#사랑해요,177,50.0%,29,"3,965",16.6%,Initiator,Korea
+229,다와바#7260,177,68.1%,49,"5,385",25.0%,Sentinel,Korea
+230,Jerry#play,176,55.2%,15,"4,709",26.1%,Duelist,Korea
+231,코끼리교실#코끼리교실,176,65.8%,24,"5,065",11.1%,Duelist,Korea
+232,석마딕#030,176,56.3%,35,"4,469",19.8%,Controller,Korea
+233,six neck#0000,174,54.3%,18,"4,291",27.7%,Sentinel,Korea
+234,Sandy#버키ONO,174,49.1%,56,"4,959",14.9%,Duelist,Korea
+235,yeah#3333,174,47.7%,20,"4,226",21.4%,Duelist,Korea
+236,LFT Kanellow#프로지망생,174,60.9%,38,"4,617",20.1%,Duelist,Korea
+237,제트 버키#5645,174,88.9%,7,"4,021",16.0%,Duelist,Korea
+238,Jay Em#부계정,174,62.0%,48,"5,349",18.6%,Duelist,Korea
+239,신과너와나는하나#KR1,173,51.5%,17,"4,138",23.8%,Sentinel,Korea
+240,한순간이라도k1Ng이되고싶은男#오 잉,173,63.6%,7,"4,154",21.1%,Duelist,Korea
+241,R3 GilotinChok#R 3,173,55.8%,29,"5,444",22.6%,Duelist,Korea
+242,mulggogi#1111,173,46.5%,46,"4,716",18.9%,Duelist,Korea
+243,NWG Sakura#1111,173,57.1%,16,"4,909",24.8%,Duelist,Korea
+244,건들면박아욧#KR1,173,60.9%,13,"4,639",32.4%,Duelist,Korea
+245,습관성뚜렛증후군있어요#1111,173,58.3%,13,"4,907",23.6%,Duelist,Korea
+246,자몽뀨#ROKA,172,47.2%,34,"4,060",18.2%,Controller,Korea
+247,BF DiraZ#BFWIN,172,53.2%,41,"4,311",15.9%,Sentinel,Korea
+248,인천챌린저Yasuo#KR1,172,90.0%,8,"5,111",17.3%,Controller,Korea
+249,GHN saCu#GHN,171,66.7%,9,"4,676",16.3%,Duelist,Korea
+250,훈수하면 W키가 눌려요#못참지zz,171,66.7%,21,"5,481",22.7%,Initiator,Korea
+251,고독한 늑대#1111,171,52.5%,41,"4,060",16.9%,Duelist,Korea
+252,MYH GANA#무야호,170,60.0%,5,"4,628",24.1%,Controller,Korea
+253,Cycos JJaery#HEAD,170,53.7%,21,"4,863",21.3%,Duelist,Korea
+254,J1W00#1111,170,57.1%,20,"5,125",19.3%,Duelist,Korea
+255,Charlotte#0000,170,59.8%,54,"5,036",16.9%,Duelist,Korea
+256,왜 이리 시끄러운 것이냐#9712,169,70.0%,14,"5,143",12.4%,Initiator,Korea
+257,WGS iRdy#1102,169,47.1%,49,"4,808",21.8%,Controller,Korea
+258,힁중닝#힁중닝,169,76.9%,10,"4,572",11.2%,Sentinel,Korea
+259,노력을 이기는 재능은 없고 노#이창호,169,50.0%,24,"5,021",16.4%,Duelist,Korea
+260,스파이크 설치안함#0110,169,59.1%,25,"5,735",21.6%,Duelist,Korea
+261,따 권#400원,168,64.3%,9,"5,062",21.9%,Controller,Korea
+262,Rascalkorea#SOEZ,168,50.0%,15,"4,112",24.9%,Controller,Korea
+263,곽곽디라라#홀리곽,168,53.2%,24,"4,310",14.5%,Initiator,Korea
+264,야무친 샷#1111,168,51.1%,23,"4,916",22.6%,Sentinel,Korea
+265,DK Secret#DKWIN,167,51.7%,30,"5,592",17.6%,Duelist,Korea
+266,TDR LEGO#LEGO,167,53.1%,25,"4,314",12.7%,Sentinel,Korea
+267,서울소버린병원에다니는철수와영희#18살,167,52.1%,50,"4,264",19.8%,Duelist,Korea
+268,FTL ChangG1XD#Fatal,166,61.5%,23,"5,208",23.5%,Duelist,Korea
+269,신신지지아아#6205,166,63.2%,11,"4,533",21.8%,Controller,Korea
+270,무직백수일리브#1111,166,55.3%,21,"4,446",25.6%,Sentinel,Korea
+271,DK Eraser#DКWIN,166,58.6%,17,"4,404",21.7%,Initiator,Korea
+272,Lisp Lu1s#Lisp,166,54.8%,16,"4,596",15.6%,Duelist,Korea
+273,매운맛버키3#부케맞음,166,56.9%,28,"5,138",8.4%,Duelist,Korea
+274,NU Lakia#PRO,165,50.0%,4,"5,437",27.0%,Duelist,Korea
+275,F4Q Efina#F4QQ,165,42.9%,15,"4,915",22.3%,Duelist,Korea
+276,어둠슬픔우울눈물집착#3712,165,78.6%,10,"6,160",29.4%,Duelist,Korea
+277,손오반#1111,165,50.6%,79,"4,889",18.9%,Duelist,Korea
+278,고향만두#JMT,165,61.9%,26,"4,845",22.5%,Controller,Korea
+279,김만두#TV1,164,46.9%,14,"4,555",21.2%,Duelist,Korea
+280,오벨리스크 거신병#삼환신,164,48.9%,23,"4,874",29.9%,Duelist,Korea
+281,FTL Hydrangea#Fatal,164,49.6%,55,"4,204",20.6%,Initiator,Korea
+282,SonJihan#손지한,164,46.5%,39,"5,027",10.5%,Duelist,Korea
+283,S  #S1234,163,55.6%,9,"4,237",23.5%,Initiator,Korea
+284,외로운 솔랭전사#뚝심외솔전,163,54.2%,31,"3,885",21.2%,Controller,Korea
+285,불멸레디를쳐달았으면랭크값좀해라#재건이,162,47.2%,118,"4,772",22.7%,Duelist,Korea
+286,爆血 카마도 네즈코#혈귀술,162,58.3%,20,"4,411",16.2%,Sentinel,Korea
+287,곧군대간다야발련들아#사랑기계,161,62.5%,9,"4,507",18.4%,Sentinel,Korea
+288,GMG Supply#WAAW,161,61.1%,10,"5,293",25.0%,Sentinel,Korea
+289,UUS Macho#개잘해,160,100.0%,3,"4,466",14.0%,Controller,Korea
+290,징징이칼차단#5555,160,85.7%,5,"4,436",16.2%,Initiator,Korea
+291,M1shoku#1111,160,55.9%,32,"4,395",25.0%,Controller,Korea
+292,Dante#sukj,159,57.7%,14,"4,123",18.2%,Controller,Korea
+293,머리부수기#SC1,159,72.2%,12,"4,758",29.2%,Duelist,Korea
+294,프로지망은개뿔#조까는소리,159,66.7%,17,"4,126",17.1%,Duelist,Korea
+295,반오십아다#kr1,158,76.5%,12,"6,294",18.4%,Duelist,Korea
+296,밍아띠#FLux,158,54.3%,24,"5,041",23.2%,Duelist,Korea
+297,행 돌#1111,158,46.2%,67,"4,475",21.0%,Controller,Korea
+298,Secretus#iwnl,158,56.9%,37,"5,141",23.5%,Duelist,Korea
+299,Rv flever#RvWIN,158,52.8%,55,"4,795",21.8%,Duelist,Korea
+300,샤이퍼#프로지망생,158,58.6%,33,"4,381",21.0%,Sentinel,Korea
+301,DK Eugene#DKWIN,157,52.9%,8,"4,835",30.5%,Duelist,Korea
+302,U Got it#1111,157,70.8%,16,"5,089",21.8%,Duelist,Korea
+303,RAY#세컨드,157,63.2%,11,"6,036",17.1%,Duelist,Korea
+304,티어값좀해라#물레디들아,156,41.2%,6,"5,434",14.5%,Duelist,Korea
+305,givmecigarette#1111,156,53.8%,13,"4,487",21.1%,Controller,Korea
+306,FTL Benecia#Fatal,156,40.7%,37,"5,382",20.4%,Controller,Korea
+307,맥도날드케찹도둑 손희창#손희창,154,50.0%,11,"5,551",21.6%,Duelist,Korea
+308,쌕쌕오렌지#0000,154,50.0%,17,"4,477",24.2%,Duelist,Korea
+309,꼭지가이쁜그녀#KR1,154,69.6%,15,"5,036",9.7%,Duelist,Korea
+310,서울프라임병원#1111,154,57.8%,48,"3,576",14.9%,Sentinel,Korea
+311,A6aPe#0113,154,64.3%,17,"5,012",20.3%,Duelist,Korea
+312,KOESNOW#choi,154,63.9%,22,"4,549",20.1%,Duelist,Korea
+313,레이나제트레이즈박으면요루합니다#동물은욕함,154,59.5%,21,"4,890",23.7%,Duelist,Korea
+314,Ares#침대위의신,153,52.2%,12,"5,316",23.6%,Duelist,Korea
+315,SAV Cleverly#SVWIN,153,70.6%,12,"4,676",23.1%,Duelist,Korea
+316,DAEGI#190,153,57.1%,12,"4,282",31.8%,Duelist,Korea
+317,C2S GukJin97#C2S,153,55.1%,26,"5,531",17.3%,Duelist,Korea
+318,춤추는 아칼리#KR1,153,56.5%,12,"5,510",19.2%,Duelist,Korea
+319,FvW binson#FvW,153,58.3%,13,"4,862",22.0%,Duelist,Korea
+320,기분이 안좋은 남자#0502,153,55.7%,33,"4,401",15.8%,Duelist,Korea
+321,Postic#과자맛,153,54.2%,83,"4,301",14.7%,Duelist,Korea
+322,베트멍 30 팜#02대장,152,66.7%,16,"5,311",30.9%,Sentinel,Korea
+323,C1axy#baby,152,50.7%,34,"4,479",16.5%,Duelist,Korea
+324,차가운 심장을 가진남자#7495,152,54.1%,32,"4,956",16.8%,Duelist,Korea
+325,Krazy DeokGwang#KRA,152,52.5%,20,"5,305",22.1%,Duelist,Korea
+326,deadlycs#4336,152,55.2%,15,"3,993",22.0%,Controller,Korea
+327,Cloud#0913,151,65.0%,12,"3,295",16.7%,Controller,Korea
+328,ST DDcream#GGWP,151,65.2%,14,"4,361",25.7%,Controller,Korea
+329,MnW#0408,151,49.2%,32,"4,411",22.5%,Initiator,Korea
+330,무지성 제트#가버렷,151,56.7%,16,"4,817",20.8%,Duelist,Korea
+331,Taesic#VLRT,151,63.6%,20,"3,751",23.2%,Initiator,Korea
+332,매운맛버키#3891,151,57.7%,14,"4,166",9.0%,Duelist,Korea
+333,즐겜해도너네보다잘하는데#쿨병찐1따,151,62.8%,26,"5,091",21.7%,Duelist,Korea
+334,v3RRYBigSizE#거물딱대,150,66.7%,9,"5,458",19.5%,Duelist,Korea
+335,PepeKan#7777,150,49.7%,72,"4,040",21.7%,Duelist,Korea
+336,언랭부터 레디까지#8233,150,71.2%,42,"5,617",19.2%,Duelist,Korea
+337,김춘자#00000,150,64.7%,10,"3,394",14.6%,Sentinel,Korea
+338,Cycos 백호#어 흥,150,46.3%,38,"3,998",14.0%,Controller,Korea
+339,서 월#8647,149,50.0%,7,"5,534",31.0%,Duelist,Korea
+340,GH Dec1de#GHWIN,149,53.3%,23,"4,418",24.7%,Initiator,Korea
+341,DW 던파장교출신기관총사수#DWWIN,149,50.0%,21,"4,681",14.2%,Controller,Korea
+342,Challenger#111,149,63.3%,19,"4,982",30.8%,Duelist,Korea
+343,NoX Creative#0826,149,49.4%,78,"4,293",15.7%,Initiator,Korea
+344,Cycos 4ple#oooo,149,56.0%,28,"4,324",18.3%,Duelist,Korea
+345,Neddus#1532,148,61.5%,8,"5,404",22.6%,Duelist,Korea
+346,간절하니#이기고싶니,148,47.1%,7,"4,156",14.2%,Sentinel,Korea
+347,V1ossom#볼로솜,148,52.1%,37,"4,345",22.1%,Initiator,Korea
+348,에이지#Azi,148,46.6%,26,"4,618",15.1%,Controller,Korea
+349,KISSIN#Autor,148,53.6%,74,"4,021",20.3%,Controller,Korea
+350,Nnvr쑈타임#KR1,148,50.0%,32,"4,380",28.1%,Duelist,Korea
+351,Cp SonJihan#page,147,50.0%,20,"4,898",9.9%,Duelist,Korea
+352,백승아#2002,147,66.7%,7,"5,656",26.3%,Duelist,Korea
+353,뒤통수맨#1441,147,60.0%,15,"5,411",28.4%,Sentinel,Korea
+354,Develop#CSGO,147,51.6%,15,"4,374",22.7%,Controller,Korea
+355,매운맛버키2#kr1,147,51.8%,28,"4,485",8.3%,Duelist,Korea
+356,HM 부대찌개#WIN,147,60.0%,11,"5,087",19.9%,Duelist,Korea
+357,WGS JinboongE#1111,147,48.0%,59,"5,362",31.9%,Duelist,Korea
+358,S31#0318,147,65.2%,15,"4,887",24.0%,Initiator,Korea
+359,Taser#8888,146,100.0%,4,"4,901",33.2%,Controller,Korea
+360,NARAKA#AAA,146,52.9%,17,"4,692",17.0%,Controller,Korea
+361,루인처럼하고싶다#fan,146,49.4%,42,"5,135",24.3%,Duelist,Korea
+362,A  #0000,146,71.4%,9,"4,299",14.7%,Controller,Korea
+363,Jun eight#6월8일,146,61.0%,35,"4,796",18.4%,Duelist,Korea
+364,정 중#광 대,145,55.6%,19,"5,149",21.3%,Duelist,Korea
+365,Clopa#Clopa,145,45.1%,31,"4,943",23.6%,Duelist,Korea
+366,정보1#KR1,145,58.3%,13,"5,479",20.5%,Duelist,Korea
+367,아조시#3333,145,50.5%,49,"4,658",19.0%,Duelist,Korea
+368,閉關0#5787,144,69.0%,20,"5,341",22.4%,Duelist,Korea
+369,bsycial#3434,144,61.1%,21,"4,603",18.4%,Sentinel,Korea
+370,UNK Rothy#UNK,144,48.1%,38,"4,192",17.9%,Sentinel,Korea
+371,똑똑한망치#14살,144,64.3%,8,"4,424",26.3%,Duelist,Korea
+372,Star#super,144,66.7%,7,"3,907",20.6%,Sentinel,Korea
+373,ggsnext#osh,144,55.9%,18,"5,086",19.2%,Duelist,Korea
+374,Homies#001,143,61.5%,7,"4,727",16.9%,Duelist,Korea
+375,DW sk1ly#DWWIN,143,45.5%,16,"5,088",19.7%,Duelist,Korea
+376,R3 VanGogh#R 3,143,85.7%,5,"5,496",20.8%,Duelist,Korea
+377,Ereshkigal#遠坂 凛,143,78.6%,10,"5,764",23.1%,Duelist,Korea
+378,킹 상 종#킹Clan,143,48.7%,56,"4,231",24.8%,Controller,Korea
+379,SOLL4#SOLLA,143,60.0%,8,"5,640",20.4%,Duelist,Korea
+380,ACS Roel#팀구해요,143,51.7%,76,"4,498",23.4%,Duelist,Korea
+381,규현이전용계정#KR1,143,48.7%,18,"5,002",25.0%,Duelist,Korea
+382,짭 강다영#짭 강다영,143,60.9%,14,"4,858",21.2%,Duelist,Korea
+383,JSF Rella#BIWIN,142,55.6%,4,"4,856",18.0%,Duelist,Korea
+384,Destroy#1234,142,60.0%,5,"5,473",13.5%,Duelist,Korea
+385,SPG ElizaGG#SPEAR,142,64.3%,8,"5,075",30.5%,Initiator,Korea
+386,오늘도빛나는너에게#ToYou,142,45.3%,47,"4,843",28.0%,Duelist,Korea
+387,재우를좋아해#1201,142,60.7%,16,"4,384",12.6%,Duelist,Korea
+388,808 SEXYROSE#808,142,61.3%,18,"4,417",16.9%,Controller,Korea
+389,Explosive pack#4321,142,73.3%,11,"4,069",15.8%,Duelist,Korea
+390,MOM DDor0nG#r0nG,142,52.7%,28,"4,532",25.5%,Initiator,Korea
+391,Schädeltrauma#Kopf,142,65.0%,12,"4,425",21.7%,Sentinel,Korea
+392,MOM Yeomje#0810,142,62.5%,19,"3,458",12.2%,Controller,Korea
+393,C2S Sinzia#C2S,141,53.3%,8,"4,439",22.7%,Controller,Korea
+394,연아볼에뽀뽀해줘#입술도해줘,141,52.4%,10,"4,871",19.7%,Duelist,Korea
+395,z4k#No1,141,75.0%,5,"4,460",20.3%,Sentinel,Korea
+396,얼 곰#얼음곰,141,50.0%,13,"5,390",15.8%,Duelist,Korea
+397,ガンビン#ち び,141,75.0%,11,"4,641",19.0%,Duelist,Korea
+398,MOM C0 z1ng#1111,141,56.9%,28,"4,605",23.4%,Duelist,Korea
+399,Gido#7777,141,56.6%,29,"5,157",23.7%,Initiator,Korea
+400,아댜아댜하뚜업따#하뚜이따,140,50.0%,9,"4,280",20.7%,Initiator,Korea
+401,Zhwan#2003,140,44.2%,18,"4,630",16.2%,Duelist,Korea
+402,Do you Know AeDN#AeDN,140,55.6%,44,"5,056",22.5%,Duelist,Korea
+403,옷파랑색살까요#KR1,140,63.3%,18,"6,126",18.3%,Duelist,Korea
+404,Lnorqz#Lnor,140,71.4%,9,"3,815",25.0%,Controller,Korea
+405,GGWPGGWPGGWPGGWP#GGWP,140,61.7%,28,"4,771",22.6%,Duelist,Korea
+406,GHN mamba#GHN,139,71.4%,4,"5,585",22.6%,Initiator,Korea
+407,godko#godko,139,46.2%,11,"4,678",28.6%,Initiator,Korea
+408,M100 PADO#백 수,139,47.4%,18,"4,883",31.8%,Duelist,Korea
+409,LH PraY#LHW1N,139,66.7%,5,"5,127",31.1%,Sentinel,Korea
+410,조용히 게임#9864,139,63.6%,6,"4,660",29.6%,Controller,Korea
+411,Awk jun#깨달음,139,46.3%,18,"5,167",25.7%,Controller,Korea
+412,테러남 킹 밍 재#테러남밍재,139,48.7%,37,"4,472",21.3%,Duelist,Korea
+413,남탓 경직된사고#제육볶음,139,47.7%,63,"4,392",19.9%,Duelist,Korea
+414,각시탈#TAL,139,57.3%,51,"4,605",18.7%,Duelist,Korea
+415,저보다킬낮은분40살이상임#3348,138,57.1%,7,"4,371",41.2%,Initiator,Korea
+416,凸凸凸#3384,138,56.3%,9,"4,499",15.2%,Sentinel,Korea
+417,김독자#7777,138,48.9%,43,"4,048",23.1%,Sentinel,Korea
+418,NisharK#0807,138,75.0%,5,"4,185",18.6%,Duelist,Korea
+419,AIt#1234,138,50.8%,30,"4,594",27.0%,Duelist,Korea
+420,나배고프거든#8980,138,72.7%,7,"3,524",21.1%,Controller,Korea
+421,TDR MINI STOP#1123,138,64.7%,10,"5,017",11.5%,Sentinel,Korea
+422,Shirushi#シルシ,138,62.5%,35,"4,907",14.9%,Duelist,Korea
+423,KiDiV#3766,138,52.5%,41,"5,109",17.9%,Duelist,Korea
+424,캐리머신#6974,138,55.9%,37,"4,638",21.1%,Duelist,Korea
+425,이코봉#7135,137,48.6%,36,"5,122",16.8%,Duelist,Korea
+426,민열이닷#KR1,137,56.3%,9,"4,685",22.1%,Duelist,Korea
+427,습관성불딱이증후군있어요#다딱이도포,137,51.3%,19,"4,571",21.4%,Duelist,Korea
+428,뭘잘못했는데#뀨비니비니,137,77.8%,13,"3,965",15.1%,Controller,Korea
+429,차린건많지만조금만드세요#KR2,137,54.2%,57,"4,278",17.1%,Duelist,Korea
+430,크루원#이에요,136,40.7%,10,"4,404",26.1%,Duelist,Korea
+431,GD leela#나는 광대,136,46.9%,38,"4,473",17.3%,Sentinel,Korea
+432,He1ia#1111,136,75.0%,5,"4,248",28.3%,Duelist,Korea
+433,sNg ssammae#sNg7,136,53.6%,15,"4,434",17.8%,Controller,Korea
+434,이태준#0205,136,53.6%,14,"4,593",24.8%,Duelist,Korea
+435,언랭부터 레디까지#Nani,136,58.2%,32,"5,063",28.3%,Duelist,Korea
+436,노렁해골#KR1,136,59.1%,25,"4,478",19.2%,Duelist,Korea
+437,유튜브발로란트EMP#123,136,80.0%,7,"3,683",12.6%,Initiator,Korea
+438,훈수두면면상에눈뽕날림#눈조심,136,57.9%,21,"4,302",22.9%,Duelist,Korea
+439,BDZ Sergeant#s4m,136,56.3%,44,"4,870",14.8%,Duelist,Korea
+440,SL4ER#9853,135,66.7%,5,"3,396",11.5%,Initiator,Korea
+441,WHORU#who,135,61.5%,7,"4,744",27.6%,Duelist,Korea
+442,김윤준#KR1,135,60.0%,9,"4,762",16.4%,Controller,Korea
+443,연막하면 총은 못 쏴요#연막쓰레기,135,51.1%,23,"4,106",16.4%,Duelist,Korea
+444,Shurе00#0000,135,47.6%,49,"4,489",17.0%,Duelist,Korea
+445,바른수컷#KR1,135,75.0%,9,"3,851",14.9%,Duelist,Korea
+446,shuvi#1111,135,52.0%,26,"4,742",23.6%,Controller,Korea
+447,순풍맨#팬입니다,135,56.5%,34,"4,744",17.5%,Duelist,Korea
+448,XANTARES#8159,135,80.0%,7,"3,649",16.4%,Controller,Korea
+449,Sophie Marceau#avp,135,63.0%,16,"3,736",20.3%,Controller,Korea
+450,박나현#1111,135,55.7%,33,"5,065",18.9%,Duelist,Korea
+451,ShaLet#02샤렛,135,54.7%,28,"4,704",24.3%,Duelist,Korea
+452,Forky#IXKH,134,42.9%,39,"4,912",38.2%,Duelist,Korea
+453,AzKa#BAN,134,42.4%,13,"5,446",16.9%,Duelist,Korea
+454,ACS Ljy#ASWIN,134,48.4%,14,"4,507",22.3%,Duelist,Korea
+455,TI키TA카#0000,134,60.6%,20,"4,856",13.8%,Duelist,Korea
+456,鳴柱 아가츠마 젠이츠#벽력일섬,134,52.2%,71,"5,147",23.3%,Duelist,Korea
+457,별 #KR3,133,60.0%,5,"4,893",25.1%,Duelist,Korea
+458,ChristopherA#1st,133,66.7%,5,"5,396",23.1%,Initiator,Korea
+459,로스트아크#합니다,133,61.5%,15,"4,745",22.1%,Sentinel,Korea
+460,qorever#KR1,133,56.1%,22,"4,638",19.9%,Controller,Korea
+461,HM Ruins#WIN,133,51.1%,23,"4,302",19.8%,Controller,Korea
+462,트위치범법자글로리#팔로우해,133,47.5%,18,"5,817",19.3%,Duelist,Korea
+463,Never Give Up#1111,133,53.1%,17,"4,703",41.6%,Duelist,Korea
+464,Weameng#KR1,133,50.0%,17,"4,468",14.7%,Controller,Korea
+465,Violet#3042,133,51.3%,38,"4,923",19.7%,Duelist,Korea
+466,joke#001,133,55.1%,58,"3,936",11.7%,Duelist,Korea
+467,SKY#ACF0,133,58.8%,19,"3,529",17.5%,Duelist,Korea
+468,NFG ACROSS#NFWIN,133,51.3%,19,"5,154",22.8%,Duelist,Korea
+469,jjanghyeondo#best,133,64.1%,49,"4,230",11.1%,Sentinel,Korea
+470,미모의 꽃 여인#미 인,133,66.2%,44,"6,166",23.2%,Duelist,Korea
+471,IKON BBbig#IKONS,132,58.1%,18,"5,420",26.9%,Duelist,Korea
+472,응애 쮸쮸줘#응애젖줘,132,51.2%,42,"4,731",23.8%,Duelist,Korea
+473,Z#2000,132,53.4%,30,"4,893",15.0%,Duelist,Korea
+474,LAF anthurry#VGS클랜,132,60.9%,13,"3,627",28.8%,Controller,Korea
+475,초아양#KR1,132,57.1%,19,"3,944",17.4%,Initiator,Korea
+476,유남생#uk2,132,57.5%,22,"4,489",11.6%,Duelist,Korea
+477,XITAON#Ssac3,131,100.0%,2,"5,401",22.2%,Duelist,Korea
+478,Vayne대 선고학과#KR1,131,45.8%,11,"5,907",22.3%,Duelist,Korea
+479,빡겜모드강민성#인성쓰레기,131,57.4%,34,"5,113",25.0%,Duelist,Korea
+480,PLOS#7777,131,85.7%,5,"4,572",23.1%,Initiator,Korea
+481,itiswhatitis#2425,131,54.1%,20,"3,806",18.0%,Initiator,Korea
+482,이웃집 후추#KR1,131,60.0%,17,"4,668",16.8%,Sentinel,Korea
+483,Tlqkf 쳐찡찡대지마#fxck,131,72.1%,30,"3,304",17.5%,Duelist,Korea
+484,싼다하라보오지#S2X,131,54.7%,28,"4,187",16.3%,Initiator,Korea
+485,NWG Ploy#1111,130,70.0%,6,"4,867",21.6%,Duelist,Korea
+486,ACROSS#1124,130,66.7%,7,"4,856",21.0%,Duelist,Korea
+487,hyK#Korea,130,56.3%,17,"4,702",24.3%,Duelist,Korea
+488,봉인된가운데다리#4499,129,50.0%,5,"5,317",18.6%,Sentinel,Korea
+489,GH Moves#GHWIN,129,51.8%,28,"4,703",19.9%,Duelist,Korea
+490,inG K1rby#plz,129,47.2%,16,"4,867",26.7%,Duelist,Korea
+491,Endless#music,129,47.3%,43,"4,292",16.6%,Initiator,Korea
+492,Linda#vlrt,129,65.6%,20,"3,283",18.5%,Initiator,Korea
+493,팬 텀#1002,129,68.8%,10,"5,123",19.8%,Duelist,Korea
+494,Bonjour a tous#1111,129,51.4%,18,"4,794",15.1%,Duelist,Korea
+495,도깨비#6268,129,56.9%,78,"3,895",17.2%,Sentinel,Korea
+496,의정부물풍선주먹장우진#05대장,129,87.5%,7,"5,521",19.6%,Duelist,Korea
+497,방난아닙니다#1111,128,42.9%,15,"5,945",41.0%,Duelist,Korea
+498,loWel#THWIN,128,47.8%,10,"4,743",30.2%,Sentinel,Korea
+499,남탓 하지않기 유연한 사고#랄 로,128,64.3%,9,"4,008",14.8%,Duelist,Korea
+500,재 홍#Hong,128,71.4%,4,"4,168",14.7%,Sentinel,Korea
+1,aspas final boss#boss,716,54.2%,77,"5,775",27.5%,Duelist,Brazil
+2,B4 pANcada4J#bryan,646,51.9%,58,"5,339",29.5%,Sentinel,Brazil
+3,VK PryZee#1999,638,59.3%,54,"5,102",21.6%,Duelist,Brazil
+4,BD bezn1#420,637,51.4%,54,"5,410",25.2%,Duelist,Brazil
+5,FUR Khalil#2004,632,59.4%,61,"5,245",26.6%,Controller,Brazil
+6,FUR quick#qck,618,51.3%,40,"6,105",25.9%,Initiator,Brazil
+7,VKS sacy#moba,612,62.5%,39,"5,832",27.8%,Initiator,Brazil
+8,BELKY#1337,605,58.0%,89,"5,244",23.1%,Controller,Brazil
+9,HL heat#1410,592,56.0%,56,"6,115",28.7%,Duelist,Brazil
+10,esahc#NV20,592,56.1%,37,"5,579",22.4%,Duelist,Brazil
+11,mizu xD#99999,581,52.0%,79,"4,736",37.6%,Duelist,Brazil
+12,Brinkss3 j#1304,574,54.4%,43,"4,925",21.7%,Controller,Brazil
+13,CTC#ratão,570,52.4%,34,"5,144",23.2%,Initiator,Brazil
+14,Coreano#BR1,565,51.4%,74,"4,459",22.7%,Controller,Brazil
+15,ROBOTAIM zpk#z1po,558,60.2%,70,"4,528",25.0%,Initiator,Brazil
+16,ttv Revo1TzGG#LIVE,556,68.8%,32,"4,944",14.3%,Duelist,Brazil
+17,IMP tuyz#2003,553,56.7%,38,"5,149",32.1%,Sentinel,Brazil
+18,TioDoPicole1#mxm1,550,57.4%,84,"4,932",30.0%,Sentinel,Brazil
+19,HL liazzi#yolo,544,48.9%,44,"4,913",22.2%,Duelist,Brazil
+20,feveTz#fexY,539,55.6%,84,"4,876",18.2%,Duelist,Brazil
+21,GC Tisora#pudim,535,46.4%,63,"5,461",24.4%,Duelist,Brazil
+22,FUR nzr#wer,534,61.8%,33,"5,485",17.3%,Initiator,Brazil
+23,B4 v1nNy#SD9,523,55.3%,55,"4,808",27.8%,Initiator,Brazil
+24,SLK BLD#TAP,520,46.1%,54,"5,003",34.3%,Sentinel,Brazil
+25,HL shiontares#0000,519,57.5%,23,"5,616",20.8%,Initiator,Brazil
+26,JGG magic#qvS,517,66.7%,26,"6,394",25.6%,Duelist,Brazil
+27,havoc#delas,516,53.9%,61,"5,286",29.3%,Duelist,Brazil
+28,GC zakkv#BR01,509,55.6%,42,"5,257",16.3%,Duelist,Brazil
+29,skz#JEBA,506,49.1%,28,"5,335",31.1%,Duelist,Brazil
+30,fooxWETNIKVTSKNI#NTJ,505,50.9%,57,"5,101",22.1%,Duelist,Brazil
+31,nagzera#1337,503,59.1%,26,"5,511",21.8%,Duelist,Brazil
+32,Russ#Ian,501,53.7%,87,"4,941",21.3%,Duelist,Brazil
+33,driize#doR6,500,53.3%,68,"4,764",20.8%,Sentinel,Brazil
+34,PainDeViande#000,499,55.0%,58,"4,447",17.3%,Initiator,Brazil
+35,ttv HellBOYzera#ZUUUM,498,55.2%,95,"5,325",27.1%,Duelist,Brazil
+36,VKS sutecas#bagda,492,63.6%,28,"4,722",34.0%,Controller,Brazil
+37,EXZ soyer#2003,491,56.3%,74,"5,572",23.6%,Duelist,Brazil
+38,z7 m4ndzin#hate,486,55.9%,32,"4,969",23.9%,Controller,Brazil
+39,AMASSA OS PRO#DUUM,482,53.6%,94,"5,036",18.3%,Duelist,Brazil
+40,SHK denaro#1104,478,44.0%,23,"4,531",22.0%,Initiator,Brazil
+41,VKS gtnJESUS#2801,476,63.4%,25,"5,041",23.9%,Duelist,Brazil
+42,daezinhosickboy#rare,476,50.3%,85,"4,488",18.1%,Duelist,Brazil
+43,abA#Len,476,53.9%,132,"5,570",18.5%,Duelist,Brazil
+44,cdziin reformed#ntj,472,52.9%,72,"5,124",19.6%,Duelist,Brazil
+45,knw#001,470,60.0%,54,"5,038",23.9%,Sentinel,Brazil
+46,furq#br1,465,52.2%,49,"4,759",22.2%,Duelist,Brazil
+47,VK zapziN#blu,465,54.8%,26,"5,271",19.1%,Sentinel,Brazil
+48,And#1000,464,63.0%,16,"4,730",19.8%,Duelist,Brazil
+49,TWITCH FRTTT#2810,462,56.9%,28,"5,402",31.1%,Controller,Brazil
+50,artz#1991,461,54.4%,36,"5,474",20.2%,Duelist,Brazil
+51,lililipex conta3#dasay,459,71.4%,34,"5,052",19.8%,Initiator,Brazil
+52,rhz#1210,458,65.7%,44,"4,805",28.3%,Initiator,Brazil
+53,B4 dgzinXL99#dgzin,456,55.9%,92,"5,481",33.2%,Duelist,Brazil
+54,BNinjas Sttlolo#6669,454,49.5%,45,"4,808",14.7%,Sentinel,Brazil
+55,gaalindo#666,453,67.4%,30,"4,710",30.0%,Controller,Brazil
+56,GuiZinn#Dumau,448,55.2%,48,"5,103",25.4%,Duelist,Brazil
+57,f0rsaken#Demon,447,48.8%,84,"4,911",24.7%,Initiator,Brazil
+58,shootaッ#1304,446,58.7%,44,"4,557",25.2%,Initiator,Brazil
+59,nuuh tapadash#1234,445,57.1%,80,"5,428",22.1%,Duelist,Brazil
+60,Revo1Tz#7054,444,56.9%,33,"4,696",13.4%,Duelist,Brazil
+61,4DR#MYTH,443,46.7%,28,"4,489",17.9%,Initiator,Brazil
+62,winnn#2003,439,49.1%,85,"5,057",24.1%,Duelist,Brazil
+63,GL mwzera#2001,437,64.3%,17,"6,462",20.3%,Duelist,Brazil
+64,Siduzord#Rawr,436,52.9%,19,"4,718",15.3%,Sentinel,Brazil
+65,yunz#6876,436,47.8%,43,"4,836",23.3%,Duelist,Brazil
+66,Twitch ziulfps#777,432,46.3%,40,"4,975",23.6%,Initiator,Brazil
+67,Windows Down#BR1,432,59.0%,63,"5,033",9.8%,Duelist,Brazil
+68,j0iA#PGDS,432,61.2%,42,"5,147",41.5%,Initiator,Brazil
+69,mart1nz#TDL,430,47.2%,50,"4,651",25.1%,Duelist,Brazil
+70,VRX tockers#0001,428,57.8%,28,"5,053",30.9%,Controller,Brazil
+71,nytterz#1502,425,59.8%,59,"4,680",22.5%,Duelist,Brazil
+72,Tak1#1302,415,64.9%,23,"4,322",20.0%,Initiator,Brazil
+73,pollin#RAWR,414,51.7%,119,"5,087",24.8%,Controller,Brazil
+74,IMP gustt1nha#imp47,413,51.7%,16,"4,584",28.8%,Controller,Brazil
+75,MARIN#terrô,413,46.7%,61,"4,624",21.9%,Duelist,Brazil
+76,VhS#Pokas,411,57.1%,35,"4,578",19.7%,Sentinel,Brazil
+77,VKS Saadhak#2323,408,50.0%,22,"5,017",20.6%,Sentinel,Brazil
+78,ducKw0w#pato,408,54.3%,21,"4,645",21.0%,Controller,Brazil
+79,LKSHOW#6924,408,52.9%,46,"4,980",21.9%,Initiator,Brazil
+80,Mamao#aLTh,407,59.3%,67,"4,044",20.4%,Sentinel,Brazil
+81,VK lucaoAV#047,406,47.7%,53,"4,803",25.9%,Duelist,Brazil
+82,prince#ntc,403,44.1%,47,"5,015",24.3%,Duelist,Brazil
+83,jzz#FOFO,403,64.8%,70,"5,818",27.4%,Duelist,Brazil
+84,arctic#8757,403,57.0%,54,"4,743",21.1%,Duelist,Brazil
+85,shelbyN#666,401,54.8%,33,"4,239",26.9%,Controller,Brazil
+86,rhamurti#SAGAZ,400,49.3%,37,"4,850",25.3%,Sentinel,Brazil
+87,LuozOG#15y,400,59.6%,33,"5,201",28.3%,Duelist,Brazil
+88,BMP leakk0#dopug,399,50.0%,61,"5,477",24.4%,Duelist,Brazil
+89,eSn#fps,394,65.0%,26,"5,050",30.1%,Sentinel,Brazil
+90,Vapzo#013,394,58.1%,53,"4,262",21.4%,Sentinel,Brazil
+91,rpaivaisback#back,392,38.6%,34,"5,482",35.1%,Duelist,Brazil
+92,sant#28s,391,63.5%,53,"4,763",24.4%,Initiator,Brazil
+93,guiyotina#BRA,388,64.0%,15,"4,670",25.9%,Duelist,Brazil
+94,xikaz#BR1,388,59.0%,36,"4,391",24.6%,Controller,Brazil
+95,Klaus#1002,387,49.4%,38,"5,088",24.4%,Sentinel,Brazil
+96,BMP Rtxis#2829,386,49.5%,48,"4,430",24.3%,Initiator,Brazil
+97,SLK ntk#S2N,385,58.6%,17,"5,718",18.2%,Initiator,Brazil
+98,zhdNTC#FA1,385,53.0%,36,"4,779",29.3%,Duelist,Brazil
+99,ndk#valo,384,77.8%,13,"4,585",24.0%,Duelist,Brazil
+100,BIEL MAQUINISTA#VAZA,384,59.0%,46,"5,352",26.9%,Initiator,Brazil
+101,TWITCH FRTTT#4829,383,54.2%,57,"5,425",29.5%,Controller,Brazil
+102,TWITCH LUSCAAH#LIVE,383,56.5%,69,"4,937",29.3%,Duelist,Brazil
+103,keznit#1337,382,63.6%,13,"5,900",28.4%,Duelist,Brazil
+104,Ant#BR1,382,47.1%,48,"5,296",29.2%,Duelist,Brazil
+105,Jotinha#5863,381,58.5%,39,"5,540",20.8%,Duelist,Brazil
+106,BRAVOS KARIM#1996,379,66.7%,23,"5,033",22.5%,Duelist,Brazil
+107,GL daiki#666,378,58.2%,53,"5,100",29.3%,Duelist,Brazil
+108,haz#66666,374,52.7%,78,"5,052",28.9%,Duelist,Brazil
+109,VKS theo#fps,373,48.5%,33,"5,386",21.2%,Duelist,Brazil
+110,Pigh1ni#bpns,372,65.7%,23,"4,549",22.9%,Sentinel,Brazil
+111,dei#1337,372,63.8%,40,"5,756",20.3%,Duelist,Brazil
+112,mcn#irado,371,50.5%,51,"4,314",20.0%,Sentinel,Brazil
+113,STT Xezaxi#BAEA,371,54.9%,79,"5,061",14.2%,Duelist,Brazil
+114,WYG byrf4MADZ#000,370,57.1%,15,"4,369",26.8%,Initiator,Brazil
+115,GC AXEDDY#2102,370,49.4%,38,"5,150",21.0%,Duelist,Brazil
+116,Light#4625,370,54.8%,72,"5,020",26.3%,Duelist,Brazil
+117,silentzz#0000,368,52.7%,58,"5,722",30.4%,Duelist,Brazil
+118,MVG tinchoff#BRA1,367,48.0%,23,"4,285",29.8%,Sentinel,Brazil
+119,rbn#exe,367,51.2%,42,"4,566",24.7%,Initiator,Brazil
+120,koli#HYPE,367,53.5%,57,"4,913",24.3%,Duelist,Brazil
+121,apenas mais um#4get,366,55.6%,30,"4,503",21.6%,Controller,Brazil
+122,Bola#2403,366,64.3%,29,"5,620",20.8%,Duelist,Brazil
+123,cover6#777,365,63.0%,46,"4,747",20.4%,Controller,Brazil
+124,nkt 平#SMURF,365,60.0%,26,"6,052",26.0%,Duelist,Brazil
+125,Comar#5050,365,55.2%,79,"4,123",21.2%,Controller,Brazil
+126,SpaceRanger#5555,364,52.8%,94,"4,521",14.6%,Duelist,Brazil
+127,hPw dmt 天#666,363,68.2%,15,"5,271",21.7%,Initiator,Brazil
+128,SkpZ#0505,363,52.9%,44,"5,314",19.6%,Duelist,Brazil
+129,NANZIN N MACHUCA#1994,362,46.9%,75,"4,601",29.2%,Initiator,Brazil
+130,anders#Jay,362,51.7%,30,"5,038",17.8%,Duelist,Brazil
+131,lovely#1909,362,58.3%,57,"5,300",30.3%,Duelist,Brazil
+132,Rub1ka#0000,361,55.8%,28,"4,823",20.1%,Sentinel,Brazil
+133,phzin#2933,360,76.2%,15,"5,028",29.4%,Sentinel,Brazil
+134,Roquefortkäse#sssss,360,54.8%,16,"3,494",22.3%,Duelist,Brazil
+135,twitch hiccz#www,360,48.1%,117,"4,999",14.7%,Duelist,Brazil
+136,jowzikk#7557,359,52.1%,65,"5,331",30.8%,Duelist,Brazil
+137,n0ted#0000,358,56.7%,58,"5,476",20.4%,Duelist,Brazil
+138,s1mplePEEK#navi,355,46.8%,38,"5,310",22.1%,Duelist,Brazil
+139,Cebando#1313,355,52.3%,34,"4,641",25.4%,Controller,Brazil
+140,Seeker1#demon,355,52.2%,121,"4,250",24.8%,Initiator,Brazil
+141,BRNWOWZK1#ZK1,354,55.8%,53,"5,170",21.2%,Duelist,Brazil
+142,tanganeli#4get,354,56.8%,50,"5,034",21.8%,Duelist,Brazil
+143,Urango#TANGO,353,50.6%,121,"5,257",23.6%,Duelist,Brazil
+144,Bielzinho#Ben10,353,56.1%,54,"4,434",16.8%,Duelist,Brazil
+145,B4 mazin#2609,351,55.6%,49,"5,437",22.5%,Duelist,Brazil
+146,Sweepz#Gay1,351,59.0%,45,"4,381",15.1%,Sentinel,Brazil
+147,FUR Teddy#furia,349,55.8%,55,"5,052",24.1%,Sentinel,Brazil
+148,zart#8812,349,58.0%,58,"4,149",25.7%,Initiator,Brazil
+149,Ludzera#swift,348,58.6%,42,"4,667",19.7%,Controller,Brazil
+150,IDAZAAA#CRIA,348,56.5%,72,"4,909",12.8%,Sentinel,Brazil
+151,luq1w#god,347,40.7%,33,"5,131",19.1%,Duelist,Brazil
+152,JUNINHO#NOWAY,347,59.6%,34,"5,120",20.8%,Sentinel,Brazil
+153,eRa kid#7277,347,50.6%,42,"4,778",34.5%,Duelist,Brazil
+154,fod#delas,347,47.9%,57,"5,551",22.8%,Duelist,Brazil
+155,Docks#Docks,346,50.8%,29,"4,869",15.8%,Duelist,Brazil
+156,VINGUILHAMAT54CM#0000,346,51.9%,55,"4,868",24.4%,Controller,Brazil
+157,Leozin#kid,345,48.7%,96,"5,169",29.0%,Duelist,Brazil
+158,ATHZ Katojin#1812,345,48.4%,44,"5,143",17.9%,Duelist,Brazil
+159,guuih#000,344,55.3%,26,"4,689",27.7%,Sentinel,Brazil
+160,Enjoy#BR01,344,60.6%,41,"5,591",24.5%,Sentinel,Brazil
+161,Surpr1seeeeeeeee#5454,342,60.5%,23,"5,341",30.5%,Controller,Brazil
+162,píva ツ#vapo,342,56.1%,31,"5,216",22.3%,Duelist,Brazil
+163,skoolage#shis2,341,54.5%,30,"5,922",22.2%,Duelist,Brazil
+164,GjW#60Hz,341,61.1%,44,"4,140",25.4%,Initiator,Brazil
+165,Notzin#noT,341,49.0%,51,"4,741",19.7%,Sentinel,Brazil
+166,Piko#1202,340,54.9%,28,"5,048",26.4%,Duelist,Brazil
+167,haise#ZZK1,339,64.2%,51,"5,263",18.7%,Duelist,Brazil
+168,iamlucasss#rawr,338,78.3%,17,"4,057",19.1%,Controller,Brazil
+169,BD leoziN#079,338,62.9%,24,"5,625",20.9%,Duelist,Brazil
+170,VANDALTROVÃO#CHAMA,337,60.0%,34,"5,103",30.0%,Duelist,Brazil
+171,twitchBonkoski88#88888,337,72.0%,19,"3,465",16.4%,Sentinel,Brazil
+172,RMN#1234,336,46.2%,18,"4,723",24.7%,Duelist,Brazil
+173,ShutAsY#8070,336,48.6%,72,"4,469",22.8%,Controller,Brazil
+174,EL TRATORE#777,335,53.3%,16,"5,335",18.6%,Sentinel,Brazil
+175,zé roberto#kagu,335,56.3%,18,"4,708",18.9%,Controller,Brazil
+176,skni#1313,335,57.8%,59,"4,263",19.5%,Controller,Brazil
+177,1Haise#21th,335,47.8%,43,"4,423",26.0%,Sentinel,Brazil
+178,rAz1k#061,335,50.2%,106,"4,937",27.2%,Duelist,Brazil
+179,ING Pernalonga#9053,334,52.2%,13,"4,945",21.2%,Duelist,Brazil
+180,ca io #ROBOT,334,54.7%,42,"4,017",35.0%,Controller,Brazil
+181,FLUYR#6969,333,50.5%,51,"4,518",18.0%,Initiator,Brazil
+182,Lukzban#eZg,333,50.0%,46,"4,744",19.3%,Duelist,Brazil
+183,mrn#092,333,51.8%,58,"4,684",22.7%,Initiator,Brazil
+184,MvG mat1#CARP,332,50.0%,15,"4,111",27.6%,Initiator,Brazil
+185,scottzinnnnnn#1234,332,54.1%,39,"4,441",24.7%,Initiator,Brazil
+186,celestial#60hz,331,57.7%,45,"4,909",26.1%,Duelist,Brazil
+187,ciolly#brabo,331,56.5%,51,"4,429",23.3%,Sentinel,Brazil
+188,fk1#Amiir,329,57.5%,46,"4,438",20.9%,Sentinel,Brazil
+189,foxy#DAORA,329,57.0%,82,"4,818",23.9%,Duelist,Brazil
+190,HL pleets#0000,328,48.1%,26,"4,825",18.0%,Controller,Brazil
+191,Waly#2896,328,52.2%,34,"4,409",20.1%,Sentinel,Brazil
+192,utani tempo hur#tmre,327,92.9%,12,"5,217",19.2%,Sentinel,Brazil
+193,zam#zin,327,49.1%,56,"5,478",17.3%,Duelist,Brazil
+194,Gabriel Infiel#SIDA,326,55.1%,38,"5,258",29.9%,Controller,Brazil
+195,spaaayy#002,326,57.4%,34,"5,168",26.1%,Initiator,Brazil
+196,Tonelo#777pm,326,51.9%,110,"4,372",16.3%,Sentinel,Brazil
+197,L I A U M Z I N#RAW,325,54.8%,36,"5,231",26.3%,Duelist,Brazil
+198,SEED Cryy#choro,324,50.9%,58,"5,472",27.0%,Initiator,Brazil
+199,devil lover#cheat,324,71.1%,27,"5,941",24.1%,Duelist,Brazil
+200,Leox#BR0,323,51.6%,63,"4,761",19.4%,Initiator,Brazil
+201,souzA#157,323,51.4%,59,"4,402",20.1%,Duelist,Brazil
+202,TWITCH duntsfps#1010,323,56.8%,49,"4,822",16.5%,Duelist,Brazil
+203,duracel#BR1,323,56.9%,70,"4,970",36.1%,Duelist,Brazil
+204,ShoQ#Tupac,322,50.0%,31,"4,741",19.2%,Duelist,Brazil
+205,QePooy sozinho#TTV,321,52.5%,93,"4,843",13.0%,Controller,Brazil
+206,Menino NEY#1090,321,67.6%,24,"4,816",24.7%,Controller,Brazil
+207,Imaginarium#1337,320,52.6%,39,"4,246",22.7%,Controller,Brazil
+208,frik0#1997,320,53.8%,55,"5,075",21.1%,Controller,Brazil
+209,SLK DiMAS#1   1,319,43.0%,37,"4,830",25.3%,Sentinel,Brazil
+210,mdN#8612,319,53.1%,25,"4,481",23.6%,Sentinel,Brazil
+211,suttclife#god,319,52.7%,79,"4,297",16.7%,Sentinel,Brazil
+212,jubilee#jbl,318,51.1%,23,"4,117",16.7%,Sentinel,Brazil
+213,GL bstrdd#meow,318,51.7%,46,"4,363",27.4%,Sentinel,Brazil
+214,LuxXyyzx#2352,317,51.6%,31,"4,866",20.9%,Duelist,Brazil
+215,kvn#kewk,317,54.1%,39,"4,524",18.1%,Duelist,Brazil
+216,Aqui Relampágô#BR1,316,58.5%,24,"5,340",25.1%,Duelist,Brazil
+217,TODDY#SP018,316,61.2%,29,"4,530",21.1%,Controller,Brazil
+218,YoutubeFDL LUCAO#9293,316,53.4%,62,"4,838",25.7%,Duelist,Brazil
+219,cltt#3107,315,48.0%,71,"4,737",31.6%,Controller,Brazil
+220,STT Ckzeta#fraco,315,60.0%,60,"4,811",21.9%,Initiator,Brazil
+221,Atsu#2003,315,58.6%,67,"5,310",21.3%,Duelist,Brazil
+222,hPw luqz#AYO,314,48.6%,18,"5,015",35.1%,Initiator,Brazil
+223,IMP rsT#IMP,314,48.6%,34,"4,328",15.3%,Duelist,Brazil
+224,KATINHA#6597,314,58.2%,33,"5,103",27.0%,Duelist,Brazil
+225,lAvige#2108,314,57.7%,14,"4,902",16.6%,Duelist,Brazil
+226,young mixs#FreeA,314,53.7%,21,"4,494",24.2%,Initiator,Brazil
+227,hzd#2003,314,50.0%,44,"4,740",19.9%,Duelist,Brazil
+228,lerd iwnl#666,314,56.0%,76,"4,721",22.9%,Controller,Brazil
+229,roberTo#6923,313,57.1%,47,"3,855",23.8%,Controller,Brazil
+230,RES mgS#013,313,57.9%,33,"5,386",21.7%,Duelist,Brazil
+231,FAL nkz#bia,313,49.2%,62,"4,629",22.6%,Duelist,Brazil
+232,JGG sant#2000,312,46.9%,15,"4,548",24.8%,Initiator,Brazil
+233,ING jacobin#fps,312,55.6%,15,"5,094",19.2%,Sentinel,Brazil
+234,EXZ RND#2424,312,49.1%,27,"5,148",20.0%,Duelist,Brazil
+235,rcd1#7583,312,52.2%,35,"5,295",20.6%,Duelist,Brazil
+236,Noefps#3722,312,47.5%,38,"4,548",17.2%,Duelist,Brazil
+237,CALIKA#2003,312,57.0%,52,"4,754",20.1%,Sentinel,Brazil
+238,jcK#035,312,46.0%,51,"4,787",26.3%,Duelist,Brazil
+239,Guto55#BR1,312,69.4%,34,"4,725",23.3%,Duelist,Brazil
+240,Mxteuss#7578,312,52.6%,80,"4,803",23.2%,Duelist,Brazil
+241,Rappvader#Love,311,51.6%,97,"4,722",26.7%,Duelist,Brazil
+242,didi mocó#123,311,53.3%,65,"4,598",15.0%,Sentinel,Brazil
+243,Zanatsu#9958,310,53.2%,41,"4,982",21.7%,Duelist,Brazil
+244,1Worst#スティック,310,52.5%,75,"4,912",17.6%,Initiator,Brazil
+245,Verzide#300,310,67.5%,27,"5,324",23.7%,Duelist,Brazil
+246,IMP Evilkyk#fps,309,50.0%,42,"5,057",29.5%,Initiator,Brazil
+247,HTR#NTC,309,52.0%,15,"5,511",16.9%,Initiator,Brazil
+248,cheetah#cheat,309,53.7%,65,"5,192",25.8%,Duelist,Brazil
+249,GL walney reis#2001,309,60.3%,48,"5,160",26.3%,Duelist,Brazil
+250,ttv Munhoozzz#ttv,309,46.4%,72,"3,601",19.7%,Initiator,Brazil
+251,IMP gordo1st#BR01,308,48.9%,22,"4,654",17.6%,Sentinel,Brazil
+252,manol1n 泣#1533,308,52.7%,59,"4,395",22.7%,Initiator,Brazil
+253,DRAGziKW#0000,307,48.6%,72,"4,732",21.2%,Initiator,Brazil
+254,Vrido#Vidro,307,50.6%,43,"5,110",21.2%,Duelist,Brazil
+255,pgN#doka,307,50.8%,60,"4,762",14.4%,Sentinel,Brazil
+256,VINTTT#twnty,306,58.1%,18,"4,712",34.4%,Initiator,Brazil
+257,kanove#FKN,306,50.8%,31,"5,550",27.4%,Duelist,Brazil
+258,GV ryukeN#wrld,305,65.4%,17,"4,319",23.5%,Duelist,Brazil
+259,CHINA NUMBER ONE#1111,305,55.9%,20,"4,470",19.9%,Initiator,Brazil
+260,k u x i 孤独#60hz,305,63.2%,23,"3,765",20.2%,Sentinel,Brazil
+261,STZ sunsettJ#deus,304,55.6%,19,"5,020",22.8%,Duelist,Brazil
+262,BRIAN MAQUINISTA#vrum,304,62.2%,27,"4,751",16.6%,Duelist,Brazil
+263,teteuzENN#0000,304,60.5%,49,"4,739",24.1%,Duelist,Brazil
+264,tiger#XXX,304,45.7%,47,"5,228",18.6%,Duelist,Brazil
+265,GuiMa#1234,303,46.6%,27,"4,373",24.1%,Duelist,Brazil
+266,antilol#lindo,303,50.0%,44,"4,570",20.9%,Controller,Brazil
+267,FURIA BREEZE#BR2,303,50.4%,61,"5,499",30.4%,Duelist,Brazil
+268,arteezy#daboy,302,58.6%,40,"4,761",26.3%,Duelist,Brazil
+269,Karaka#Junky,302,60.6%,20,"5,191",29.5%,Sentinel,Brazil
+270,bittokA#000,302,49.2%,62,"4,842",18.7%,Duelist,Brazil
+271,dalsiN#9601,301,56.8%,24,"5,293",14.5%,Duelist,Brazil
+272,Fefejj#lvj,301,60.9%,13,"4,429",21.2%,Sentinel,Brazil
+273,nAkira#Akira,301,50.8%,61,"4,093",24.8%,Controller,Brazil
+274,RES Phobia 黒猫#nyaaa,301,56.8%,54,"4,488",24.0%,Sentinel,Brazil
+275,Mazino#cry,299,51.9%,13,"4,701",17.1%,Duelist,Brazil
+276,iB3#8904,299,63.3%,30,"5,715",17.6%,Duelist,Brazil
+277,VKS frz#2000,298,57.1%,11,"5,687",27.3%,Duelist,Brazil
+278,IMP Biscoit1n#2008,298,47.5%,29,"5,085",24.3%,Duelist,Brazil
+279,VRX dragonite#drg,297,66.7%,12,"4,405",22.4%,Sentinel,Brazil
+280,асдасдасд#асдас,297,65.7%,23,"5,023",15.3%,Duelist,Brazil
+281,duu#kenzo,297,47.5%,20,"4,830",37.5%,Duelist,Brazil
+282,maark#fps,297,64.6%,30,"5,220",28.6%,Duelist,Brazil
+283,torValma#0155,297,55.3%,80,"5,176",19.0%,Duelist,Brazil
+284,pava#1337,296,46.5%,40,"4,718",20.6%,Duelist,Brazil
+285,leoz#2704,296,53.4%,54,"5,061",19.3%,Duelist,Brazil
+286,Paradox#Dz1,296,51.4%,90,"4,758",18.2%,Duelist,Brazil
+287,LgAAA#brabo,295,48.1%,12,"4,536",19.3%,Initiator,Brazil
+288,CURRY REI DE ITU#LINDO,295,51.6%,47,"4,102",20.9%,Sentinel,Brazil
+289,VictorBrf#1999,295,49.0%,24,"4,615",20.2%,Duelist,Brazil
+290,AAdiniz#ABC,295,59.4%,18,"5,185",22.2%,Duelist,Brazil
+291,rankioshi xo#xoxo,295,71.4%,14,"4,846",13.5%,Duelist,Brazil
+292,TTv MeninoCaua#0000,295,51.8%,58,"4,586",26.3%,Initiator,Brazil
+293,uzmaki#1TAP,295,66.7%,23,"5,014",18.3%,Duelist,Brazil
+294,xlv#vlone,295,55.0%,70,"4,877",18.6%,Duelist,Brazil
+295,R FENOMENO 09#brk,294,60.0%,11,"5,308",22.4%,Duelist,Brazil
+296,s1mple#NV20,294,48.0%,24,"6,002",27.5%,Duelist,Brazil
+297,cortezia#freeA,294,50.0%,13,"5,060",22.7%,Sentinel,Brazil
+298,lu1sx#fps,294,62.8%,26,"4,823",21.3%,Duelist,Brazil
+299,ukz#PRO,293,74.3%,25,"5,236",31.2%,Sentinel,Brazil
+300,bz 神#666,292,63.8%,38,"4,411",22.2%,Sentinel,Brazil
+301,Likez#756,291,47.7%,52,"5,306",19.7%,Duelist,Brazil
+302,AAdiniz#7288,291,52.2%,34,"4,588",23.9%,Initiator,Brazil
+303,gxSKAPEI#7 7 7,291,57.0%,49,"4,761",20.6%,Duelist,Brazil
+304,deM0#3645,291,56.3%,48,"5,062",17.7%,Duelist,Brazil
+305,STT suco#BRABO,291,50.4%,67,"4,597",21.9%,Sentinel,Brazil
+306,sz falso7#2000,290,50.0%,18,"5,047",25.6%,Duelist,Brazil
+307,Riq#3188,290,57.9%,10,"4,529",19.2%,Controller,Brazil
+308,PNG ryotzz#1327,290,57.1%,19,"4,844",16.5%,Sentinel,Brazil
+309,POTIGUAR#3314,289,58.3%,60,"4,597",17.5%,Sentinel,Brazil
+310,Kuwaitzera#021,289,72.4%,21,"3,727",13.1%,Controller,Brazil
+311,Bobby Fischer#chess,288,51.7%,30,"4,658",23.8%,Duelist,Brazil
+312,Lzpo#BR1,288,53.5%,52,"4,619",12.8%,Controller,Brazil
+313,gobera#ttv,287,48.6%,35,"5,837",21.3%,Duelist,Brazil
+314,Tougzera#br1,287,44.3%,33,"4,592",27.6%,Sentinel,Brazil
+315,Jallin Habbei#Haduk,287,56.1%,22,"4,679",17.3%,Initiator,Brazil
+316,RES Guiih9 魔#0901,287,51.6%,80,"4,812",27.8%,Initiator,Brazil
+317,goNtheKING#BR2,287,54.0%,26,"5,289",18.4%,Duelist,Brazil
+318,GLX Nishida#011,287,52.4%,43,"4,521",20.3%,Controller,Brazil
+319,EXZ hyoga#123,286,61.5%,24,"4,960",21.5%,Duelist,Brazil
+320,hhalma#halma,286,51.8%,42,"3,995",21.8%,Sentinel,Brazil
+321,akemyziNho#777,286,63.8%,29,"4,820",17.7%,Initiator,Brazil
+322,ad1#1993,286,56.6%,30,"4,126",22.7%,Initiator,Brazil
+323,Riscardo#BR1,286,51.3%,39,"4,750",16.2%,Duelist,Brazil
+324,MVG KATAKUR1#666,285,55.6%,39,"4,837",22.7%,Controller,Brazil
+325,Mr HEADSHOT#1337,285,53.3%,83,"4,585",13.9%,Sentinel,Brazil
+326,SEED Less#Less,284,44.2%,19,"5,233",19.1%,Duelist,Brazil
+327,Tukay#BR1,284,55.0%,45,"4,990",13.2%,Duelist,Brazil
+328,TWITCHbaitbiceps#9309,284,51.8%,44,"4,783",14.9%,Duelist,Brazil
+329,κτx#sla,284,55.3%,79,"4,733",19.6%,Duelist,Brazil
+330,ATHZ BladeZ#sama,283,46.3%,18,"5,067",30.8%,Duelist,Brazil
+331,c0g#9202,283,65.0%,39,"4,621",18.9%,Duelist,Brazil
+332,driP#TPéN,283,58.0%,47,"3,810",24.2%,Duelist,Brazil
+333,Edudz#Edudz,282,49.3%,36,"4,612",21.4%,Duelist,Brazil
+334,STRATOZAO LEGEND#dog,282,43.3%,33,"5,004",31.2%,Duelist,Brazil
+335,MARCAOFTW#BR1,282,51.3%,80,"4,575",21.8%,Duelist,Brazil
+336,kin#desu,282,60.0%,20,"4,642",24.7%,Sentinel,Brazil
+337,neyMARC1N#FORTE,281,55.1%,70,"3,985",24.7%,Initiator,Brazil
+338,NanDim#ibz,281,49.4%,39,"4,582",14.8%,Controller,Brazil
+339,forbbiden#fps,281,52.4%,42,"4,824",18.7%,Controller,Brazil
+340,mth#brabo,280,47.6%,20,"4,760",19.3%,Duelist,Brazil
+341,MINECRAFT PLAYER#MTKK,280,55.6%,26,"4,799",22.0%,Duelist,Brazil
+342,tantannn#s222,280,49.7%,82,"4,568",31.6%,Controller,Brazil
+343,Johnz#5999,280,53.4%,108,"3,871",25.6%,Controller,Brazil
+344,pdr#1234,279,51.9%,26,"4,546",27.6%,Duelist,Brazil
+345,mch#AGG,279,44.1%,31,"4,986",21.5%,Duelist,Brazil
+346,Smurf do w0lv#w0lv,279,70.8%,16,"5,187",19.6%,Controller,Brazil
+347,Bred#lul,279,52.3%,56,"4,968",22.9%,Duelist,Brazil
+348,Muuh the prodigy#0000,279,60.0%,35,"5,749",14.6%,Duelist,Brazil
+349,KRU Leobas#skr,278,46.2%,12,"4,916",26.1%,Initiator,Brazil
+350,HL myssen#0000,278,45.5%,25,"4,601",31.6%,Duelist,Brazil
+351,FeLiPaL#3103,278,63.6%,21,"4,520",20.5%,Sentinel,Brazil
+352,bessA#2272,278,48.9%,93,"4,815",19.9%,Duelist,Brazil
+353,NitrozK#2021,278,65.6%,46,"4,653",17.7%,Duelist,Brazil
+354,VK veroneze#samba,277,35.5%,13,"5,161",27.3%,Duelist,Brazil
+355,dio9x FA#0111,277,56.7%,52,"4,936",20.8%,Duelist,Brazil
+356,TW LKSHOWfps#6924,277,65.4%,16,"5,124",25.0%,Initiator,Brazil
+357,mkC#BR1,276,53.3%,39,"5,283",21.1%,Sentinel,Brazil
+358,É O BIG BIG NOSE#anaI,276,73.7%,14,"4,913",20.8%,Duelist,Brazil
+359,RSE glym#1999,275,60.0%,11,"5,495",22.6%,Duelist,Brazil
+360,DannyJones#FORTE,275,45.6%,61,"5,172",17.4%,Duelist,Brazil
+361,lhft pronet#1337,275,62.5%,14,"6,089",22.5%,Duelist,Brazil
+362,loucura games br#games,275,45.7%,47,"4,512",26.5%,Initiator,Brazil
+363,ReaL#777,275,50.7%,71,"4,578",19.5%,Initiator,Brazil
+364,Fubuki#2607,275,56.6%,47,"4,685",23.7%,Sentinel,Brazil
+365,nobre#rei,275,60.7%,33,"4,395",17.6%,Initiator,Brazil
+366,PNG murizzz#1234,274,49.1%,28,"5,715",23.5%,Duelist,Brazil
+367,Loli Safadinha#fofa,274,50.8%,33,"4,948",31.5%,Duelist,Brazil
+368,vn 大#000,273,64.3%,8,"4,753",26.7%,Duelist,Brazil
+369,TWITCH paaink1ng#k1ng,273,53.4%,101,"4,950",21.6%,Duelist,Brazil
+370,CybinH#hunte,273,45.6%,68,"4,623",20.4%,Controller,Brazil
+371,Hoook#BR1,273,63.0%,17,"4,640",17.7%,Duelist,Brazil
+372,TTV TormentGTV#CLICA,273,49.1%,84,"5,546",23.9%,Duelist,Brazil
+373,Revoltz#Solo,273,55.7%,50,"4,594",22.8%,Initiator,Brazil
+374,Goya 水#666,273,61.2%,52,"4,868",12.2%,Sentinel,Brazil
+375,filé com fritas#BR2,272,55.0%,11,"5,347",30.6%,Duelist,Brazil
+376,FLA Riq#FLA,272,75.0%,11,"5,207",19.8%,Initiator,Brazil
+377,mdg#666,272,58.8%,20,"5,252",19.0%,Duelist,Brazil
+378,nv20 trittoj#1729,272,61.8%,20,"5,221",18.9%,Duelist,Brazil
+379,INTZ goh4N#0GGWP,272,54.0%,104,"4,904",17.2%,Controller,Brazil
+380,eNOK#ARG,271,53.2%,24,"4,376",24.3%,Initiator,Brazil
+381,agst#agst,271,47.8%,65,"3,995",24.4%,Controller,Brazil
+382,twtv raulzerafps#g0d,271,56.4%,44,"5,077",18.2%,Duelist,Brazil
+383,luqzz#AYO,270,43.8%,13,"4,680",32.1%,Initiator,Brazil
+384,magicwow1#boi,270,66.7%,7,"4,610",22.5%,Duelist,Brazil
+385,drope#1997,270,52.1%,60,"4,458",19.4%,Controller,Brazil
+386,SLK mNdS#donsa,270,50.0%,38,"4,776",25.6%,Controller,Brazil
+387,VAMO FRTTT#2159,270,75.4%,43,"7,167",33.2%,Duelist,Brazil
+388,pesadao#4273,270,65.4%,57,"6,676",23.8%,Duelist,Brazil
+389,EXZ adri#00000,269,50.0%,20,"4,387",25.3%,Duelist,Brazil
+390,FreeCodePlayer#1337S,269,56.7%,16,"4,827",15.1%,Duelist,Brazil
+391,negozin#011,268,53.1%,50,"4,399",14.5%,Controller,Brazil
+392,M4TY#god,268,59.4%,18,"5,247",28.4%,Duelist,Brazil
+393,RickFrantz#007,268,50.0%,45,"4,477",17.3%,Duelist,Brazil
+394,nktdeuS#main,267,48.3%,56,"4,809",23.2%,Initiator,Brazil
+395,FA rood#420,266,47.5%,29,"4,948",19.4%,Controller,Brazil
+396,fah1d#999,266,50.7%,34,"5,282",21.8%,Duelist,Brazil
+397,cheN#BR0,266,59.1%,25,"4,440",17.5%,Duelist,Brazil
+398,JOAOKCHORRAOAUAU#707rv,266,61.8%,20,"4,442",16.8%,Controller,Brazil
+399,JuR3g13#1313,266,52.5%,42,"5,364",23.4%,Duelist,Brazil
+400,ganem iwnl#2131,266,58.5%,55,"4,638",21.7%,Sentinel,Brazil
+401,Sergio Kitchens#Gunna,265,57.6%,37,"4,831",24.8%,Controller,Brazil
+402,1231321#22222,265,51.6%,46,"5,312",15.9%,Duelist,Brazil
+403,twitter badsitow#NAVI,264,62.1%,35,"5,321",23.2%,Duelist,Brazil
+404,FagundesRS#52895,264,54.5%,29,"3,953",17.7%,Sentinel,Brazil
+405,bruninhp#000,264,62.9%,21,"4,059",24.5%,Controller,Brazil
+406,siano tfpn#rtc,264,58.1%,24,"4,832",18.4%,Duelist,Brazil
+407,FA nioxyW#fps,264,54.7%,52,"4,698",22.0%,Duelist,Brazil
+408,ViiNN#6996,263,58.7%,27,"4,274",22.2%,Sentinel,Brazil
+409,joaogod#jgod,263,50.0%,84,"4,841",22.2%,Duelist,Brazil
+410,bruninhogameplay#game,263,50.0%,39,"4,457",26.7%,Duelist,Brazil
+411,zaxdeuS#021ZO,263,50.9%,30,"5,295",25.3%,Duelist,Brazil
+412,Brux0#NTP,262,54.4%,62,"4,326",34.9%,Initiator,Brazil
+413,Cria do BLD#KrZz,262,59.0%,35,"4,503",23.6%,Sentinel,Brazil
+414,nanah#BR1,262,51.3%,98,"3,769",19.5%,Sentinel,Brazil
+415,wAlp1#anaI,262,65.1%,27,"5,226",17.6%,Duelist,Brazil
+416,FA FATAL#XTUDO,261,54.1%,33,"4,660",24.4%,Sentinel,Brazil
+417,furlan#1017,261,67.6%,22,"5,016",18.3%,Duelist,Brazil
+418,hrkw#yolo,261,47.7%,61,"4,553",19.6%,Sentinel,Brazil
+419,motA#2212,261,50.8%,62,"4,704",15.4%,Controller,Brazil
+420,citros#6781,261,57.4%,34,"5,605",20.0%,Duelist,Brazil
+421,RoteX#mira,261,51.3%,59,"4,975",20.9%,Duelist,Brazil
+422,Sky天#2001,261,64.8%,34,"4,294",19.7%,Controller,Brazil
+423,jaozy#9272,260,55.7%,67,"5,173",24.1%,Duelist,Brazil
+424,Boschese#PLS,260,63.6%,20,"4,637",15.4%,Initiator,Brazil
+425,kffen#café,260,54.5%,35,"4,550",17.2%,Sentinel,Brazil
+426,LAIO#fps,260,72.0%,17,"4,096",18.7%,Sentinel,Brazil
+427,FA FLG1#1938,259,52.8%,28,"4,630",31.8%,Initiator,Brazil
+428,K1nhooW#rawr,259,48.8%,20,"5,062",17.6%,Initiator,Brazil
+429,Retroyd#000,259,53.6%,59,"4,767",20.7%,Duelist,Brazil
+430,H3AD HUNT3R#HS777,259,55.7%,103,"4,708",29.9%,Duelist,Brazil
+431,48kg kid sNiiKz#1TAP,259,62.7%,32,"5,353",27.0%,Sentinel,Brazil
+432,vtW#BR1,258,55.4%,41,"5,574",21.4%,Duelist,Brazil
+433,k4tz#1587,258,46.7%,56,"5,159",20.1%,Duelist,Brazil
+434,NanDim#ibz,258,49.4%,39,"4,582",14.8%,Controller,Brazil
+435,juh#1010,258,57.9%,44,"4,641",25.1%,Sentinel,Brazil
+436,lopesBoy#777,257,55.4%,31,"4,458",27.0%,Initiator,Brazil
+437,quit#poker,257,53.8%,73,"4,870",14.4%,Duelist,Brazil
+438,火ALS火#ライキリ,257,54.4%,49,"5,499",20.8%,Duelist,Brazil
+439,14y KRMith#60hz,257,53.4%,46,"4,135",21.8%,Controller,Brazil
+440,blowzzz#SAPO,257,57.1%,44,"5,078",22.1%,Duelist,Brazil
+441,SpineLfps#5754,256,55.0%,11,"4,424",23.4%,Sentinel,Brazil
+442,RBR Mats#444,256,50.0%,38,"4,718",15.2%,Duelist,Brazil
+443,WKP Medeiros#2004,256,54.5%,29,"4,533",32.1%,Duelist,Brazil
+444,Lugzin#BRABO,256,59.5%,25,"4,557",26.7%,Controller,Brazil
+445,PlaMG0D#Piety,256,64.7%,21,"4,607",18.0%,Sentinel,Brazil
+446,GV ind#DEUS,255,54.9%,40,"5,326",26.5%,Duelist,Brazil
+447,pbjr#7961,255,63.8%,36,"4,236",20.8%,Controller,Brazil
+448,twitch gzaofps#2020,255,56.8%,20,"4,870",25.6%,Duelist,Brazil
+449,mendokusai#7777,255,53.3%,48,"5,387",20.9%,Duelist,Brazil
+450,Twitter Specvlr#0 0 0,255,55.7%,39,"5,068",20.2%,Duelist,Brazil
+451,pingu#king,255,57.9%,22,"4,661",26.6%,Duelist,Brazil
+452,Mae#bença,255,51.8%,43,"3,526",18.3%,Sentinel,Brazil
+453,KiNN#144,255,70.8%,16,"5,141",23.4%,Duelist,Brazil
+454,zreactioonッ#kick,255,59.4%,41,"5,130",25.1%,Duelist,Brazil
+455,CRIMINOSO#vsf,254,54.3%,18,"4,288",23.6%,Sentinel,Brazil
+456,B4 fame#TD2,254,63.0%,17,"4,726",22.5%,Controller,Brazil
+457,shewzaoTK#2021,254,59.6%,33,"4,778",26.5%,Duelist,Brazil
+458,Holbreak#1954,254,52.1%,37,"4,749",26.6%,Initiator,Brazil
+459,rdA#1912,254,50.3%,73,"4,663",24.8%,Sentinel,Brazil
+460,Gle1n#1DEUS,254,55.4%,31,"5,204",21.9%,Initiator,Brazil
+461,sacola#react,254,51.7%,30,"4,755",22.8%,Duelist,Brazil
+462,bielmonster#15yo,254,49.4%,38,"5,723",20.1%,Duelist,Brazil
+463,crohnic#BR1,254,53.4%,30,"3,794",15.9%,Initiator,Brazil
+464,Oldy9#8829,254,57.3%,51,"5,319",27.9%,Duelist,Brazil
+465,t0d#7292,253,59.5%,27,"4,773",23.1%,Controller,Brazil
+466,Enzo#2033,253,54.9%,61,"5,221",22.6%,Duelist,Brazil
+467,Lightning Diow ツ#2512,253,54.8%,56,"4,104",20.5%,Sentinel,Brazil
+468,BD wil ミラデュラ#0802,252,50.5%,50,"4,906",29.6%,Sentinel,Brazil
+469,twz#616,252,46.1%,65,"4,947",22.8%,Duelist,Brazil
+470,luxzera#1337,252,61.1%,21,"5,218",19.9%,Initiator,Brazil
+471,nand0#dinho,252,50.0%,95,"4,705",24.7%,Controller,Brazil
+472,VKG Tk4h#topo,252,65.2%,16,"4,568",25.4%,Sentinel,Brazil
+473,Kingst4r#777,252,50.3%,76,"4,698",23.0%,Sentinel,Brazil
+474,é o basic#tilta,252,53.6%,17,"5,536",25.4%,Initiator,Brazil
+475,murilão#brabo,252,46.7%,31,"4,352",24.1%,Sentinel,Brazil
+476,LULUZINHA#walp1,252,73.7%,13,"4,913",20.8%,Duelist,Brazil
+477,titao#3697,251,54.8%,16,"4,421",21.4%,Sentinel,Brazil
+478,ramiro1#NTC,251,52.6%,73,"4,460",17.8%,Sentinel,Brazil
+479,SmOkeBS#BR1,251,47.8%,33,"4,744",20.1%,Controller,Brazil
+480,sor1nha#dog,251,60.5%,25,"4,187",17.9%,Initiator,Brazil
+481,GTH Nesquik#noob,251,58.0%,59,"4,592",19.2%,Duelist,Brazil
+482,noside#nsd,251,56.4%,62,"4,809",21.1%,Duelist,Brazil
+483,p9ss m1#0023,250,53.8%,28,"5,156",26.1%,Duelist,Brazil
+484,LOUD LZINN#XLXL,250,66.7%,13,"5,188",19.6%,Duelist,Brazil
+485,Yang#z12,250,52.5%,124,"4,287",11.2%,Sentinel,Brazil
+486,igaum#igaum,250,49.5%,45,"4,678",17.8%,Sentinel,Brazil
+487,nbkTheBeast#777,250,54.0%,81,"4,214",18.0%,Sentinel,Brazil
+488,Pato#Fera,249,81.8%,8,"5,997",21.8%,Duelist,Brazil
+489,LiNK#999,249,63.4%,27,"4,198",18.7%,Initiator,Brazil
+490,YGS Frin#4772,249,51.5%,105,"4,782",24.8%,Duelist,Brazil
+491,dodo#762,249,61.3%,18,"4,617",21.3%,Sentinel,Brazil
+492,Starkwearrer#BR1,249,51.5%,33,"4,562",16.9%,Duelist,Brazil
+493,nobody yes door#1834,249,52.0%,40,"4,212",18.5%,Sentinel,Brazil
+494,Ecard#1337,248,64.3%,8,"5,082",21.8%,Duelist,Brazil
+495,baggio#kyo,248,57.3%,43,"4,870",25.5%,Sentinel,Brazil
+496,gt0#upa,248,54.4%,31,"3,458",12.4%,Duelist,Brazil
+497,XYAMADAX#FPS,248,62.1%,18,"5,226",19.8%,Duelist,Brazil
+498,pett#2002,248,62.3%,32,"4,221",16.4%,Duelist,Brazil
+499,SAIZIKAAAAAAAAAA#MDM,247,49.0%,24,"5,016",21.6%,Initiator,Brazil
+500,twitch rodrok1ng#rawr,247,45.3%,39,"5,072",21.5%,Duelist,Brazil
+1,DKS nazek#6969,657,61.9%,51,"5,951",20.8%,Duelist,Latin America
+2,Fross#2021,616,52.9%,63,"5,156",22.8%,Duelist,Latin America
+3,DKS KNZY#1337,585,58.7%,64,"4,511",16.1%,Initiator,Latin America
+4,LucasVade#Vade,563,52.4%,33,"5,295",24.9%,Controller,Latin America
+5,9z HussaR#2525,561,64.7%,32,"5,778",23.7%,Duelist,Latin America
+6,FEINT cest#cst,538,54.2%,58,"5,943",30.6%,Duelist,Latin America
+7,WYG keznitdeuS#amasa,507,57.1%,35,"6,485",25.7%,Duelist,Latin America
+8,jvhz#9415,507,50.4%,58,"5,375",20.9%,Sentinel,Latin America
+9,STG wait#1337,505,63.3%,37,"5,183",16.6%,Sentinel,Latin America
+10,KRÜ Mazino#cry,499,58.0%,29,"5,834",19.9%,Duelist,Latin America
+11,KLG sh0twell#1234,487,59.4%,41,"5,406",22.9%,Duelist,Latin America
+12,AUS adverso#1337,473,63.8%,60,"5,538",23.9%,Duelist,Latin America
+13,ERMAAAK#1337,471,59.3%,48,"4,316",27.1%,Sentinel,Latin America
+14,STG gessito#1010,465,49.4%,43,"5,077",17.4%,Sentinel,Latin America
+15,PCY alejandrinho#14ez,459,63.8%,36,"5,341",26.2%,Duelist,Latin America
+16,Revense Invicta#VLRT,457,48.1%,50,"5,371",20.8%,Sentinel,Latin America
+17,osvaldo1#DEUS,457,42.0%,63,"5,165",18.7%,Duelist,Latin America
+18,KLG ANDREWCHL#KLG,444,51.0%,48,"5,027",29.4%,Initiator,Latin America
+19,mtzz#555,428,65.0%,25,"5,067",20.1%,Initiator,Latin America
+20,Verygoodnoob#jvhz,421,70.0%,13,"4,918",20.6%,Sentinel,Latin America
+21,STG delus1on#001,420,44.1%,25,"4,718",21.1%,Sentinel,Latin America
+22,Camil0p#60HZ,420,53.1%,51,"5,418",17.1%,Duelist,Latin America
+23,kdr#420,420,56.3%,63,"5,083",22.8%,Duelist,Latin America
+24,Revense kpx#k1ng,416,50.0%,32,"5,794",23.1%,Duelist,Latin America
+25,Liu#Matt,414,57.3%,50,"4,874",28.1%,Duelist,Latin America
+26,META bnj#ssj,412,60.7%,17,"5,348",24.8%,Initiator,Latin America
+27,mgnus#LAS,409,64.4%,28,"5,433",16.4%,Sentinel,Latin America
+28,LEV CrayZ#1337,406,64.3%,18,"5,700",13.9%,Duelist,Latin America
+29,DKS dogAO#xDe,398,75.0%,20,"5,049",19.2%,Duelist,Latin America
+30,Neto#r4sh,387,54.4%,49,"4,908",29.1%,Duelist,Latin America
+31,Εκτωρ#3000,387,61.2%,52,"5,004",23.8%,Controller,Latin America
+32,OUTLANDER#CLN,386,61.7%,29,"6,101",22.3%,Duelist,Latin America
+33,Æ celtrak#7022,385,65.4%,34,"4,542",16.0%,Duelist,Latin America
+34,carl#0000,384,66.7%,15,"4,827",27.1%,Controller,Latin America
+35,rubkkoide#mk6,382,56.3%,27,"5,071",26.7%,Duelist,Latin America
+36,janito#666,379,62.9%,44,"4,657",25.2%,Sentinel,Latin America
+37,FEINT mdl#8794,374,65.7%,23,"4,675",17.6%,Controller,Latin America
+38,KLG Hideent#1409,374,61.9%,25,"4,344",20.2%,Controller,Latin America
+39,i love youu#6969,372,63.5%,33,"5,705",25.3%,Duelist,Latin America
+40,TWITCH iamW1chi#60hzz,370,47.9%,57,"4,839",18.3%,Controller,Latin America
+41,KRÜ Leobas#skrr,370,66.7%,23,"5,954",27.5%,Initiator,Latin America
+42,DKS fenNy#1337,368,64.2%,33,"5,470",26.8%,Duelist,Latin America
+43,DBE FURY#1313,367,49.1%,56,"4,794",17.6%,Duelist,Latin America
+44,yibraN#1337,367,67.5%,26,"4,629",20.7%,Controller,Latin America
+45,Levi Ackerman#Erde,364,53.3%,49,"5,250",25.6%,Duelist,Latin America
+46,Revense Matzdell#AWP,363,51.0%,53,"5,072",21.2%,Duelist,Latin America
+47,Sayled#god,362,48.6%,52,"5,515",20.0%,Duelist,Latin America
+48,STG delz1k#lito,361,49.2%,31,"5,501",21.0%,Sentinel,Latin America
+49,META capi#6969,360,56.9%,28,"4,838",19.6%,Sentinel,Latin America
+50,Chosar#8372,360,54.2%,103,"4,907",24.0%,Sentinel,Latin America
+51,DONT JUDGE ME#SMURF,355,70.7%,28,"5,612",17.2%,Duelist,Latin America
+52,Freop#666,352,48.7%,74,"4,653",20.2%,Initiator,Latin America
+53,Soporte#LAS,350,51.9%,40,"5,167",18.5%,Duelist,Latin America
+54,SΛLVΛ oFindey#BEST,349,56.9%,57,"5,193",26.6%,Duelist,Latin America
+55,FEINT Vlokz#1337,346,48.7%,37,"4,453",18.9%,Initiator,Latin America
+56,FG Klauss#777,346,50.0%,36,"4,760",20.5%,Sentinel,Latin America
+57,kynsinho#1408,342,52.7%,58,"5,159",21.3%,Sentinel,Latin America
+58,MSG Addix#god,341,56.9%,36,"4,743",22.3%,Controller,Latin America
+59,sNiiKz#inju,339,54.7%,41,"5,201",24.8%,Duelist,Latin America
+60,Nto#333,338,54.1%,32,"5,606",24.7%,Sentinel,Latin America
+61,INF sickLy#J11,338,56.3%,26,"4,834",27.7%,Sentinel,Latin America
+62,Xeneize#1337,336,53.6%,60,"4,286",20.5%,Duelist,Latin America
+63,KZN Fablo#FREE,336,54.5%,35,"5,508",24.4%,Duelist,Latin America
+64,FG d1e#00001,335,57.9%,22,"5,431",29.0%,Sentinel,Latin America
+65,BEN Mono#2004,333,50.0%,44,"5,383",26.2%,Duelist,Latin America
+66,panchoM#ARG,331,49.6%,55,"4,960",24.4%,Sentinel,Latin America
+67,xnnamed1#1337,329,50.0%,58,"4,481",20.7%,Initiator,Latin America
+68,P4ntruuc4#PAN,325,59.8%,61,"5,052",18.1%,Duelist,Latin America
+69,pelusonxp#LAS,324,48.3%,43,"4,931",27.6%,Sentinel,Latin America
+70,KLG MEIYO#N001,324,51.5%,49,"5,431",22.2%,Duelist,Latin America
+71,PÊEK mummEy#ENTRY,323,69.0%,19,"5,674",17.2%,Duelist,Latin America
+72,BRAVE jotinha#ZZZZZ,322,54.0%,34,"4,728",28.1%,Initiator,Latin America
+73,dsn#lopin,322,61.8%,34,"5,158",22.8%,Duelist,Latin America
+74,4cces#6699,321,70.4%,19,"5,193",26.1%,Initiator,Latin America
+75,Moochy#nator,318,51.8%,28,"5,562",12.5%,Controller,Latin America
+76,zzayj3j3j3#9251,317,50.7%,107,"5,125",16.1%,Controller,Latin America
+77,S E N A X CHL#0800,316,63.5%,32,"4,100",20.5%,Controller,Latin America
+78,408films#9988,315,66.0%,32,"4,730",22.8%,Initiator,Latin America
+79,vErz#CHL,314,51.8%,86,"4,974",19.1%,Duelist,Latin America
+80,floyd#9343,313,40.7%,24,"4,951",18.9%,Duelist,Latin America
+81,uokinz#jrz,313,53.1%,42,"5,081",20.1%,Duelist,Latin America
+82,AUS Melser#dope,310,56.5%,12,"5,267",26.5%,Controller,Latin America
+83,5H1RY#5546,310,52.9%,72,"5,440",15.5%,Duelist,Latin America
+84,TKG Keanderß#zzz,309,47.7%,42,"4,555",20.5%,Initiator,Latin America
+85,brauJ#1337,309,56.8%,45,"5,354",18.0%,Controller,Latin America
+86,Newt#RCC,308,49.2%,59,"4,678",19.1%,Duelist,Latin America
+87,LNG GeneralSteak#Tasty,308,63.3%,30,"4,733",24.6%,Initiator,Latin America
+88,FIGD#1205,308,56.0%,66,"5,066",14.9%,Duelist,Latin America
+89,Midnight player#616,307,56.0%,83,"4,521",26.9%,Controller,Latin America
+90,vikt0rioso#CHL,307,61.1%,32,"5,504",19.3%,Sentinel,Latin America
+91,Alexandeh#Jett,306,51.2%,22,"5,931",36.3%,Duelist,Latin America
+92,YYYYYYYYY#YYYYY,306,55.0%,60,"5,403",19.2%,Duelist,Latin America
+93,AUS kiNgg#l33t,304,50.0%,14,"5,100",25.8%,Sentinel,Latin America
+94,TK1#2203,303,55.7%,34,"3,942",14.0%,Sentinel,Latin America
+95,Twitch socraMGG#1803,303,52.5%,30,"5,132",17.6%,Duelist,Latin America
+96,mittow#007,302,55.6%,29,"4,248",19.4%,Duelist,Latin America
+97,SMR Grd#123,301,60.0%,33,"4,511",27.6%,Sentinel,Latin America
+98,16 Shy#4340,300,53.2%,33,"4,316",19.0%,Duelist,Latin America
+99,Arcok1ng#4898,300,57.8%,25,"5,160",17.0%,Sentinel,Latin America
+100,Bundy#GOD,300,57.6%,57,"5,335",21.2%,Duelist,Latin America
+101,MvG coob#LAS1,299,72.2%,13,"5,569",14.7%,Duelist,Latin America
+102,Panki#wau,297,58.5%,48,"4,441",28.9%,Controller,Latin America
+103,AlexanderJ#2952,296,60.0%,29,"4,721",22.7%,Sentinel,Latin America
+104,PÊEK Baez#uwu,295,64.7%,32,"5,477",27.3%,Duelist,Latin America
+105,Santiiii27#27s,295,48.3%,43,"4,751",26.1%,Sentinel,Latin America
+106,kozje#DRX,293,54.6%,58,"5,044",21.1%,Sentinel,Latin America
+107,RoaN#zera,293,54.3%,38,"4,981",21.1%,Controller,Latin America
+108,FEINT nachitt#222,292,52.9%,27,"4,707",20.3%,Duelist,Latin America
+109,SH0PER s0N#LAS,292,50.0%,30,"5,532",12.8%,Duelist,Latin America
+110,Syntex#1943,291,50.5%,54,"4,301",21.3%,Initiator,Latin America
+111,FLK#60hz,289,59.4%,18,"5,546",22.1%,Duelist,Latin America
+112,Fallen R0ti#ssj,287,49.6%,62,"5,204",21.1%,Duelist,Latin America
+113,Lisaard#1105,286,56.5%,12,"4,416",16.4%,Sentinel,Latin America
+114,Jxpshh#1TAP,286,48.9%,22,"4,301",23.7%,Controller,Latin America
+115,penadeuS#pena,286,59.0%,23,"5,985",23.2%,Duelist,Latin America
+116,fntasy#YKz,283,50.0%,68,"4,733",26.8%,Initiator,Latin America
+117,CERTIFIED STEPPA#SLATT,282,60.9%,41,"4,742",20.7%,Initiator,Latin America
+118,FAP nauj#1404,282,63.0%,34,"4,713",20.3%,Initiator,Latin America
+119,BM Wyz#1999,281,55.6%,9,"6,283",26.0%,Duelist,Latin America
+120,ryzeK#1337,281,46.4%,51,"4,610",21.2%,Sentinel,Latin America
+121,Axe#Okay,281,57.9%,44,"4,896",19.0%,Sentinel,Latin America
+122,Deknar#1337,280,56.5%,12,"5,175",25.9%,Controller,Latin America
+123,PCY tehx#deuS,280,48.9%,43,"5,514",18.0%,Duelist,Latin America
+124,7even Zalt1k#GB14,280,46.7%,27,"5,127",25.2%,Duelist,Latin America
+125,equisde#3759,279,60.7%,16,"4,775",19.8%,Sentinel,Latin America
+126,Tw Buho#쉬운 쉬운,279,56.6%,56,"4,908",16.7%,Duelist,Latin America
+127,Joshe#1337,279,63.5%,60,"4,877",19.5%,Duelist,Latin America
+128,S3cret#God,279,55.4%,55,"4,322",20.8%,Duelist,Latin America
+129,PAARGOD#PTY,278,78.6%,10,"5,164",19.3%,Duelist,Latin America
+130,SrKorby#6944,278,76.0%,19,"4,525",22.2%,Sentinel,Latin America
+131,710iwnl#LAS,277,66.7%,12,"5,132",18.8%,Duelist,Latin America
+132,多么蟾蜍#999,277,49.3%,36,"4,616",21.5%,Controller,Latin America
+133,κ n a r κ a F F#nxrth,275,64.5%,20,"4,159",25.3%,Controller,Latin America
+134,qwertyper#GLHF,275,61.7%,38,"4,673",24.1%,Initiator,Latin America
+135,dison#0303,275,58.8%,39,"4,276",21.8%,Controller,Latin America
+136,VISIONARI#PGS,274,55.8%,42,"4,314",19.3%,Sentinel,Latin America
+137,diM#4470,274,56.1%,22,"4,617",16.7%,Sentinel,Latin America
+138,Tirador#miau,274,65.7%,68,"5,328",18.1%,Duelist,Latin America
+139,BM BandiCoot#4444,273,60.7%,16,"5,242",21.0%,Duelist,Latin America
+140,BRAVE mousez#2002,273,49.5%,53,"4,783",25.3%,Duelist,Latin America
+141,MatiS#3150,272,46.7%,13,"5,201",20.2%,Initiator,Latin America
+142,blqcKgg#LAS,272,46.2%,18,"5,317",24.5%,Sentinel,Latin America
+143,Magnus Carlsen#toro,272,68.6%,23,"4,742",18.8%,Duelist,Latin America
+144,Nitro#Soar,271,66.7%,19,"5,506",20.4%,Controller,Latin America
+145,yOuNgDaRhiii#1337,271,50.0%,26,"4,754",25.2%,Initiator,Latin America
+146,Æ TULI#1313,270,52.7%,48,"5,208",26.7%,Duelist,Latin America
+147,RES fitzerinho#las,269,65.4%,34,"5,094",17.8%,Sentinel,Latin America
+148,balenzera#TORO,269,58.1%,17,"4,107",24.2%,Initiator,Latin America
+149,ProdogY#3344,268,53.4%,38,"5,287",18.1%,Sentinel,Latin America
+150,Muffin#9969,267,55.6%,10,"5,301",23.5%,Duelist,Latin America
+151,LAS#5303,267,54.8%,33,"5,067",19.3%,Initiator,Latin America
+152,OS f1exz#OSG,267,56.2%,40,"4,606",22.0%,Sentinel,Latin America
+153,watafAqqqq#carp,265,72.7%,31,"4,630",22.2%,Controller,Latin America
+154,SKC jPacheco#WIRE,264,58.6%,16,"5,585",21.0%,Sentinel,Latin America
+155,TriMG Rabbino#las,264,55.7%,33,"4,478",24.0%,Duelist,Latin America
+156,rolEˆ#LAS,263,57.5%,22,"4,438",20.4%,Initiator,Latin America
+157,Benjoass#Qshn,263,44.0%,55,"5,305",23.8%,Duelist,Latin America
+158,LaraaFPS#1393,262,50.9%,29,"5,595",17.6%,Duelist,Latin America
+159,killsinho#8703,262,52.8%,38,"4,960",24.3%,Duelist,Latin America
+160,franzera420#uwu,261,56.5%,51,"5,762",25.1%,Sentinel,Latin America
+161,Thirdson#LASS,259,50.0%,32,"4,872",20.6%,Initiator,Latin America
+162,pepz3t#god,257,62.5%,20,"4,572",25.4%,Duelist,Latin America
+163,STR00Ng#LAS,256,64.6%,30,"4,752",15.3%,Duelist,Latin America
+164,STG olzerrq#xde,255,58.8%,20,"4,660",27.8%,Initiator,Latin America
+165,NiRvAnA#1993,253,61.9%,12,"4,274",17.0%,Sentinel,Latin America
+166,Culiaos Malos#las,253,54.9%,66,"5,200",16.2%,Duelist,Latin America
+167,Technique#CFES,253,56.5%,34,"4,179",17.2%,Sentinel,Latin America
+168,CT Peluche#Hot,252,57.7%,45,"4,575",16.7%,Initiator,Latin America
+169,DRENS#7887,252,61.9%,25,"4,339",14.2%,Sentinel,Latin America
+170,tekku#369,251,55.6%,19,"4,341",22.3%,Duelist,Latin America
+171,navy#20D,251,54.3%,18,"4,774",23.3%,Sentinel,Latin America
+172,420420420420420#420,250,52.6%,40,"4,835",23.2%,Duelist,Latin America
+173,kilato#1337,250,54.7%,28,"4,959",20.7%,Duelist,Latin America
+174,zacar#2224,250,55.4%,40,"4,343",24.8%,Initiator,Latin America
+175,marcelobudi#9887,250,46.1%,71,"5,571",23.9%,Duelist,Latin America
+176,zapayo#96118,249,58.3%,13,"4,359",18.9%,Duelist,Latin America
+177,Raining#LAS,249,52.0%,53,"5,091",22.6%,Controller,Latin America
+178,Kotzen#FPS6,249,57.6%,19,"4,306",32.4%,Sentinel,Latin America
+179,stigles#LAS,249,60.6%,39,"4,409",13.9%,Controller,Latin America
+180,AUS Tacolilla#Forni,247,45.3%,34,"5,141",19.0%,Duelist,Latin America
+181,sebiitaa1#GORI,245,55.2%,32,"4,507",25.3%,Sentinel,Latin America
+182,Sphinxw0w#funao,245,54.4%,56,"4,992",20.9%,Duelist,Latin America
+183,xArmorhcL Groove#2323,244,58.5%,24,"4,609",14.0%,Sentinel,Latin America
+184,Nach1nj#0101,244,62.8%,27,"5,685",15.3%,Duelist,Latin America
+185,LPV MoonFang#ENEP,243,50.0%,29,"4,403",25.3%,Duelist,Latin America
+186,BlackLøttus#LAS,242,47.3%,61,"4,983",29.0%,Duelist,Latin America
+187,Thp#LAS,242,54.1%,19,"4,315",24.2%,Sentinel,Latin America
+188,guy ritchie#77777,242,48.8%,63,"4,634",26.1%,Controller,Latin America
+189,zeK#LAS1,241,67.9%,36,"4,790",20.1%,Duelist,Latin America
+190,fadYz#3400,240,68.0%,16,"4,422",13.2%,Controller,Latin America
+191,swagg#1911,240,54.9%,27,"4,895",17.3%,Duelist,Latin America
+192,as786dyt71dh16h#h712,239,61.9%,12,"4,756",25.3%,Sentinel,Latin America
+193,URZ Doctor#URZ,239,56.3%,40,"4,823",20.7%,Initiator,Latin America
+194,OS switch#OSG,239,53.3%,32,"5,257",36.2%,Duelist,Latin America
+195,MOON#1330,238,60.0%,20,"5,375",22.8%,Sentinel,Latin America
+196,arMI#FLAME,237,63.6%,20,"4,958",16.7%,Duelist,Latin America
+197,MoistyNad#7824,237,58.3%,20,"4,174",12.6%,Controller,Latin America
+198,SMR Kodam#TORO,237,52.5%,42,"4,834",22.2%,Initiator,Latin America
+199,Facebook BanBan#Live,237,61.2%,30,"4,841",19.6%,Sentinel,Latin America
+200,Lewandowski#ykwea,236,56.9%,61,"5,005",19.1%,Duelist,Latin America
+201,Amasadu#420,235,48.0%,59,"4,554",16.2%,Duelist,Latin America
+202,TheChineseee#0220,234,52.9%,45,"5,252",21.5%,Duelist,Latin America
+203,Geja#LAS,232,72.0%,17,"4,130",17.8%,Sentinel,Latin America
+204,SimplyKyli#6644,231,82.6%,18,"5,469",24.5%,Duelist,Latin America
+205,Jeremy1447#5980,231,50.0%,63,"4,200",22.9%,Controller,Latin America
+206,Fachi#0410,231,52.8%,28,"4,571",19.1%,Initiator,Latin America
+207,STG MT1#LAS2,230,46.5%,58,"4,867",22.6%,Duelist,Latin America
+208,Lomo saltado#2001,230,51.4%,37,"3,997",21.7%,Initiator,Latin America
+209,PG WeboDeus#uwu,229,54.5%,24,"4,274",17.0%,Controller,Latin America
+210,Eirth#ez4me,229,50.8%,33,"5,134",17.7%,Duelist,Latin America
+211,zateR#1808,229,55.7%,43,"5,123",18.1%,Controller,Latin America
+212,AKV Maka#MEX,228,61.9%,12,"5,494",21.2%,Duelist,Latin America
+213,ICT Ntzzzz#2110,228,59.6%,30,"4,299",15.7%,Sentinel,Latin America
+214,Fallen coco#ccc,227,53.1%,34,"4,651",20.4%,Controller,Latin America
+215,Charlslol#Boo,227,60.5%,25,"5,150",33.1%,Duelist,Latin America
+216,AUS conir#Guau,226,51.2%,20,"5,217",20.4%,Controller,Latin America
+217,LAN IS A JOKE#Jhung,226,57.1%,23,"5,775",15.3%,Duelist,Latin America
+218,hassaNN#deuS,226,50.9%,54,"4,414",20.7%,Duelist,Latin America
+219,PHG AsrocK#COL,225,55.0%,22,"5,786",18.8%,Duelist,Latin America
+220,Royal abrhmm#vzla,225,52.8%,57,"5,309",24.2%,Duelist,Latin America
+221,mazi#1403,225,55.7%,59,"5,019",23.3%,Sentinel,Latin America
+222,s1lence#net,224,47.6%,10,"3,612",20.7%,Sentinel,Latin America
+223,MikeS#2020,224,69.0%,20,"4,668",17.2%,Sentinel,Latin America
+224,TWY#NPG,224,75.0%,14,"4,999",19.5%,Controller,Latin America
+225,Narz#1818,224,49.0%,73,"4,767",17.2%,Initiator,Latin America
+226,gat0#lmao,223,52.1%,63,"5,017",21.0%,Initiator,Latin America
+227,drekm4r#LAS,222,66.7%,25,"4,668",20.8%,Sentinel,Latin America
+228,Ragnar#6899,222,59.5%,22,"5,177",20.8%,Duelist,Latin America
+229,FlaКe#Br1,221,42.7%,35,"5,113",18.6%,Duelist,Latin America
+230,doomzera#1111,221,59.0%,23,"4,575",20.4%,Controller,Latin America
+231,eLbEbEto#vich,221,50.0%,13,"4,521",23.6%,Initiator,Latin America
+232,acidraiN#g0d,221,51.2%,21,"4,476",16.7%,Sentinel,Latin America
+233,Rodri#ODIN,221,58.2%,53,"4,498",13.1%,Sentinel,Latin America
+234,pesaadelo#CSGO,220,78.9%,15,"5,526",27.9%,Duelist,Latin America
+235,Twitch Speekth#TTV,220,44.3%,27,"5,360",17.4%,Duelist,Latin America
+236,Morts#1998,220,58.6%,40,"5,214",19.3%,Duelist,Latin America
+237,krixger#krx,219,52.4%,77,"4,798",20.9%,Controller,Latin America
+238,ItsDark20#6874,219,58.4%,45,"4,490",17.9%,Initiator,Latin America
+239,CT Losti#9043,218,53.3%,16,"4,618",23.4%,Controller,Latin America
+240,huikgX#4vah,218,54.8%,40,"5,368",17.8%,Duelist,Latin America
+241,BabyAument#Mini,218,56.1%,45,"4,518",25.1%,Duelist,Latin America
+242,Revense Shaly#duck,217,57.1%,15,"4,533",21.1%,Initiator,Latin America
+243,Buh10CAVS#1995,217,52.2%,69,"4,667",21.6%,Controller,Latin America
+244,umbrage#999,217,54.4%,42,"4,163",15.9%,Sentinel,Latin America
+245,Zeyz0#001,216,78.6%,10,"4,558",23.0%,Controller,Latin America
+246,Sendoh#3443,216,66.7%,38,"5,075",20.8%,Duelist,Latin America
+247,Arregui#LATAM,216,55.3%,20,"4,370",21.2%,Controller,Latin America
+248,Ryu Sei Ken#NoA,216,56.3%,36,"4,967",21.2%,Duelist,Latin America
+249,Gokipro#ECU,216,78.3%,17,"4,656",15.2%,Duelist,Latin America
+250,edwin#8834,215,55.9%,18,"4,060",19.6%,Sentinel,Latin America
+251,Yostin#IDK,215,44.4%,12,"5,491",17.9%,Duelist,Latin America
+252,TAN FleW1Ng#TAN,215,54.4%,56,"5,502",25.1%,Duelist,Latin America
+253,DexuzG#2005,215,56.5%,34,"4,904",25.4%,Sentinel,Latin America
+254,JokK#7830,215,52.5%,63,"4,694",25.1%,Initiator,Latin America
+255,bokisucio#xxx,215,71.0%,21,"4,855",24.7%,Duelist,Latin America
+256,HaitaM#bless,215,56.7%,38,"5,168",24.4%,Sentinel,Latin America
+257,HARD juje#7312,214,59.3%,15,"4,451",25.6%,Controller,Latin America
+258,KOBE24#24k,214,51.7%,30,"4,924",22.0%,Sentinel,Latin America
+259,sinA#Xotic,214,47.7%,61,"5,267",23.3%,Duelist,Latin America
+260,pabeL#G0D,212,52.3%,22,"4,809",17.0%,Sentinel,Latin America
+261,merkita#11111,212,51.0%,26,"5,489",21.5%,Duelist,Latin America
+262,Tobarr#7225,212,56.0%,27,"4,973",23.9%,Initiator,Latin America
+263,matu#qwx,212,52.7%,57,"4,989",20.8%,Duelist,Latin America
+264,Gugaa#0000,211,50.0%,14,"5,201",18.3%,Initiator,Latin America
+265,Malos Culiaos#0888,211,60.5%,25,"4,595",23.3%,Duelist,Latin America
+266,sid0r#AK420,211,56.3%,26,"5,423",21.0%,Duelist,Latin America
+267,plaxebo#BATSY,210,57.1%,11,"4,885",17.7%,Initiator,Latin America
+268,TheSnakeEg#LAN,210,51.7%,30,"4,931",19.6%,Duelist,Latin America
+269,Gabito#uwu,210,63.0%,16,"4,370",22.0%,Sentinel,Latin America
+270,HL Amiguito#UwU,210,60.9%,13,"4,717",18.6%,Duelist,Latin America
+271,Norris#6908,210,57.1%,15,"4,497",17.5%,Duelist,Latin America
+272,JQ #TOTO,210,53.6%,29,"4,705",15.9%,Controller,Latin America
+273,Zant1#0407,210,58.8%,40,"4,378",26.2%,Controller,Latin America
+274,nah#9071,209,47.7%,21,"4,341",27.3%,Controller,Latin America
+275,fedeX dewey#fdX,209,60.5%,22,"4,772",18.6%,Duelist,Latin America
+276,aku#4890,209,49.3%,34,"4,148",15.7%,Duelist,Latin America
+277,Chefcito#LeFes,209,62.1%,35,"4,103",22.6%,Sentinel,Latin America
+278,flying delorean#LAS,208,50.0%,46,"4,708",18.4%,Controller,Latin America
+279,DarkBug#Dark,208,46.7%,56,"4,447",18.3%,Sentinel,Latin America
+280,mlk feio#girei,207,43.1%,25,"4,622",20.2%,Duelist,Latin America
+281,rekt#00000,207,59.4%,37,"4,490",20.6%,Initiator,Latin America
+282,AKV Violence#0001,207,61.9%,12,"5,570",21.9%,Sentinel,Latin America
+283,Dakeng#LAN,207,79.5%,32,"4,588",22.1%,Duelist,Latin America
+284,nembo kl#n00b,206,63.0%,16,"5,991",25.9%,Duelist,Latin America
+285,s7even#144ez,205,51.5%,34,"5,236",11.7%,Duelist,Latin America
+286,TriMG JotaN#TMG,204,57.7%,14,"4,970",16.4%,Sentinel,Latin America
+287,dumbA#1337,204,44.2%,22,"5,206",20.5%,Duelist,Latin America
+288,Rata tan tan#Caco,204,58.6%,16,"3,759",28.0%,Controller,Latin America
+289,NRap#8455,204,50.4%,64,"5,252",20.6%,Duelist,Latin America
+290,Euphoria#Eufo,204,65.2%,14,"6,514",27.0%,Duelist,Latin America
+291,tano#1234,203,59.4%,37,"4,301",20.7%,Sentinel,Latin America
+292,BaconkPanda#MEX,203,59.2%,28,"4,397",17.5%,Initiator,Latin America
+293,1saakix#LAN,202,66.7%,13,"5,169",19.1%,Sentinel,Latin America
+294,falken#tqm,202,100.0%,8,"4,880",18.5%,Duelist,Latin America
+295,Nondrogo#pulpo,201,55.4%,31,"4,137",22.6%,Controller,Latin America
+296,MaNu#6291,201,51.3%,59,"4,632",24.5%,Initiator,Latin America
+297,kmil0f#OPA,201,54.5%,35,"4,689",24.4%,Initiator,Latin America
+298,Area1#6969,201,64.0%,32,"4,613",33.2%,Duelist,Latin America
+299,Nan#1717,201,60.0%,55,"5,227",22.0%,Duelist,Latin America
+300,FG debout#3921,200,50.9%,29,"5,677",15.5%,Duelist,Latin America
+301,utito tempo#tmre,200,75.0%,17,"6,285",24.6%,Sentinel,Latin America
+302,ikki 夢#1425,200,55.2%,37,"4,947",22.0%,Sentinel,Latin America
+303,H3RO#SOVA,200,51.1%,23,"4,443",13.8%,Initiator,Latin America
+304,auK#K1ng,200,69.7%,22,"5,814",21.0%,Duelist,Latin America
+305,chn#LAS1,200,56.9%,28,"4,242",26.2%,Sentinel,Latin America
+306,bron#666,199,45.8%,10,"4,666",16.1%,Sentinel,Latin America
+307,AsianBoyz#LAS,199,50.0%,29,"4,558",16.1%,Duelist,Latin America
+308,P1NGA#6969,199,70.0%,8,"4,871",15.1%,Duelist,Latin America
+309,bOngsito#GOD,199,59.1%,25,"4,176",27.2%,Controller,Latin America
+310,Jefrey#UUU,199,59.1%,13,"4,456",28.2%,Sentinel,Latin America
+311,HeinTwiX#carp,199,52.0%,53,"4,701",14.4%,Sentinel,Latin America
+312,bynek#LAS,199,58.3%,20,"4,253",21.5%,Sentinel,Latin America
+313,labicha#2351,199,56.9%,66,"4,375",18.6%,Sentinel,Latin America
+314,MvG HANLING#A7X,198,62.5%,5,"5,837",31.5%,Duelist,Latin America
+315,Jerry土屋#3110,198,70.0%,7,"4,313",19.9%,Sentinel,Latin America
+316,TYP vint#twnty,198,66.7%,15,"5,047",36.9%,Initiator,Latin America
+317,Nots1ck#UwU,198,58.0%,39,"4,493",19.8%,Duelist,Latin America
+318,Fallen NaNnY#arg,198,58.5%,24,"4,282",17.2%,Sentinel,Latin America
+319,Laky#UWU,197,53.7%,21,"5,303",32.7%,Duelist,Latin America
+320,giannn#666,197,53.2%,40,"5,238",26.4%,Duelist,Latin America
+321,fósteR#1997,197,47.5%,37,"4,853",17.1%,Duelist,Latin America
+322,parradura#LAS,197,53.8%,28,"4,808",22.7%,Controller,Latin America
+323,dLighT oN fLY#Ffly,197,56.2%,40,"4,453",17.0%,Duelist,Latin America
+324,QWERTY Nova#2903,197,57.9%,44,"4,670",19.9%,Controller,Latin America
+325,TaoPaiPai#adr,196,43.6%,16,"5,849",27.4%,Duelist,Latin America
+326,upk#AIM,196,50.0%,18,"4,308",24.3%,Controller,Latin America
+327,Soulmy#1904,196,58.5%,24,"4,656",19.8%,Duelist,Latin America
+328,N1 Ackerman#SNK,196,55.6%,30,"4,691",20.6%,Duelist,Latin America
+329,SP7 ChoriQuaker#SP7,196,54.0%,26,"4,384",14.7%,Duelist,Latin America
+330,K0BA#4901,196,70.6%,11,"4,983",17.0%,Controller,Latin America
+331,SＭøＫE#14yo,196,61.8%,45,"5,189",27.9%,Duelist,Latin America
+332,fedeX Reynolds#fdX,195,83.3%,9,"4,654",17.8%,Sentinel,Latin America
+333,TriMG Gavo#TMG,195,66.7%,12,"5,082",24.2%,Controller,Latin America
+334,Amazing#GOD,195,54.1%,39,"5,476",22.7%,Duelist,Latin America
+335,KAZE jot1nHa#6969,195,50.5%,55,"4,797",20.2%,Duelist,Latin America
+336,Luhmek#las,194,43.5%,39,"5,026",21.2%,Duelist,Latin America
+337,INF YOTES#GOD,194,52.4%,54,"5,080",23.1%,Controller,Latin America
+338,Newly#1309,194,47.2%,41,"4,145",21.6%,Initiator,Latin America
+339,Tazmania#1337,194,57.5%,50,"5,612",24.1%,Duelist,Latin America
+340,snakeftw#FTW,194,72.7%,15,"4,905",15.5%,Controller,Latin America
+341,panzhinoh#pnzho,194,55.0%,82,"4,933",23.1%,Duelist,Latin America
+342,T8 releted#turro,192,48.8%,21,"5,630",24.0%,Duelist,Latin America
+343,JuanitoAle7#LAS,192,54.3%,29,"4,226",21.6%,Sentinel,Latin America
+344,Yokizx#XNXX,191,54.3%,57,"5,097",24.8%,Initiator,Latin America
+345,Flick1b#WSHED,191,41.7%,29,"4,019",18.5%,Controller,Latin America
+346,16yo Maquinho#AMASA,191,48.8%,20,"4,577",26.2%,Duelist,Latin America
+347,piñita ヤクザ#1337,191,50.0%,43,"4,649",20.6%,Duelist,Latin America
+348,Kuunzera#8812,191,57.8%,37,"4,887",14.5%,Duelist,Latin America
+349,MOX alca#666,190,51.4%,17,"5,473",32.4%,Initiator,Latin America
+350,Daiki#2702,190,88.9%,7,"5,835",20.5%,Initiator,Latin America
+351,ReavenSith#2112,190,65.4%,16,"4,180",25.8%,Controller,Latin America
+352,Pipe#111,190,69.2%,26,"4,176",10.6%,Sentinel,Latin America
+353,ZnK アン#deuS,190,58.6%,16,"5,576",22.5%,Duelist,Latin America
+354,1kuzohh#420,189,37.0%,17,"5,933",25.3%,Duelist,Latin America
+355,CNG Drakk#ANA,189,57.6%,19,"5,515",19.9%,Duelist,Latin America
+356,RENATOMEISTER#7549,189,58.2%,39,"4,768",10.9%,Duelist,Latin America
+357,AAZ#1TAP,189,54.1%,19,"4,737",27.6%,Controller,Latin America
+358,hanZETCL#Las,188,46.7%,34,"4,665",18.7%,Sentinel,Latin America
+359,GS TOMMM#pro,188,53.3%,65,"5,276",21.1%,Duelist,Latin America
+360,kdsh#fsa,188,55.7%,49,"4,654",24.9%,Duelist,Latin America
+361,KeepeR#REKt,188,60.6%,20,"4,313",12.4%,Duelist,Latin America
+362,k1ngoFtr0lZz#troll,187,56.3%,44,"4,894",23.1%,Initiator,Latin America
+363,BRAVE Tu1kzz#1357,187,47.6%,40,"4,149",22.6%,Sentinel,Latin America
+364,nYFF#NIKO,187,60.8%,31,"4,447",22.5%,Sentinel,Latin America
+365,Em1fps#Emi,187,55.1%,40,"4,387",29.5%,Duelist,Latin America
+366,Nedvěd#0011,186,56.7%,17,"5,431",23.5%,Duelist,Latin America
+367,Stan#360hz,186,48.6%,17,"4,336",21.1%,Sentinel,Latin America
+368,RVN Ryu#milk,186,46.2%,21,"5,995",27.3%,Duelist,Latin America
+369,ZumoArite#222,186,66.7%,35,"5,752",19.3%,Controller,Latin America
+370,OtB RedBaron#1337,185,45.9%,28,"4,556",20.2%,Controller,Latin America
+371,Yeraxz#2021,185,50.6%,38,"4,612",27.5%,Sentinel,Latin America
+372,Alentaomc#9304,185,44.4%,56,"4,982",30.1%,Controller,Latin America
+373,TAN Smooth#TAN,185,61.0%,25,"5,808",31.6%,Duelist,Latin America
+374,Wzzy#8056,184,65.4%,18,"4,996",22.0%,Controller,Latin America
+375,LEV Kardash#9999,184,50.0%,33,"4,687",29.1%,Controller,Latin America
+376,Bullets Salty#MEX,184,48.3%,29,"5,083",22.1%,Duelist,Latin America
+377,shebi#6666,184,50.0%,22,"5,085",17.6%,Duelist,Latin America
+378,THE DUDE ABIDES#ARG,184,60.0%,18,"4,997",20.1%,Sentinel,Latin America
+379,xXpedro420Xx#malo,184,57.7%,14,"3,947",15.4%,Initiator,Latin America
+380,iamnobody#AHH,184,61.5%,17,"4,058",28.3%,Controller,Latin America
+381,Twitch mxaa#otaku,184,49.1%,31,"4,719",20.9%,Sentinel,Latin America
+382,ZzPΛИмeao#meao,184,53.9%,63,"4,719",17.8%,Duelist,Latin America
+383,ironiK#3284,183,69.2%,8,"4,691",18.0%,Sentinel,Latin America
+384,TwitchTv DreyM#TTV,183,49.1%,26,"5,344",23.9%,Duelist,Latin America
+385,MvTiP#pana,183,54.1%,22,"4,591",24.4%,Controller,Latin America
+386,Joker#BOSS,183,72.7%,17,"5,052",24.8%,Duelist,Latin America
+387,xoro dui#LAS,183,64.0%,16,"4,572",20.7%,Controller,Latin America
+388,iCrys#60hz,183,49.2%,32,"4,620",18.2%,Duelist,Latin America
+389,Fallen DanX#Seczo,182,55.3%,26,"5,438",18.6%,Duelist,Latin America
+390,EXS Aaroniero#LAS21,182,55.1%,26,"4,445",23.6%,Duelist,Latin America
+391,Stevent#0074,182,43.7%,63,"5,639",16.3%,Duelist,Latin America
+392,mk #laS,182,51.3%,19,"4,900",19.4%,Duelist,Latin America
+393,TV MirokuAzuL#Sumar,182,63.0%,29,"3,636",23.9%,Sentinel,Latin America
+394,RobZ#SMURF,182,54.0%,47,"5,332",25.1%,Duelist,Latin America
+395,AUS kalita#arg,182,57.1%,19,"5,147",25.3%,Sentinel,Latin America
+396,PCY raizeng0d#img0d,181,41.5%,17,"5,030",24.8%,Duelist,Latin America
+397,bakim#aim,181,43.6%,18,"4,364",22.3%,Sentinel,Latin America
+398,RadianteDePapel#LAN73,181,40.7%,10,"4,710",23.2%,Sentinel,Latin America
+399,syice#4131,181,65.4%,16,"5,641",21.0%,Duelist,Latin America
+400,60hz#nashi,181,60.9%,16,"4,106",17.3%,Controller,Latin America
+401,Kirov#7947,181,69.6%,15,"4,515",10.4%,Duelist,Latin America
+402,HawKmaN#NiKo,181,57.6%,34,"5,016",20.9%,Sentinel,Latin America
+403,Vun#SLV,181,51.0%,48,"4,399",18.4%,Duelist,Latin America
+404,hiiro#14yro,180,61.9%,12,"5,116",20.2%,Sentinel,Latin America
+405,ZIRØ#LAS,180,65.0%,13,"4,174",28.6%,Controller,Latin America
+406,Ikigai#2172,180,60.4%,56,"5,186",24.2%,Duelist,Latin America
+407,FELISAO#3259,180,53.8%,20,"4,664",19.7%,Initiator,Latin America
+408,Legit#GOD,180,66.0%,43,"5,191",24.8%,Controller,Latin America
+409,zoviet#619,179,50.0%,22,"4,424",17.3%,Duelist,Latin America
+410,ZRK#LAS1,179,64.7%,11,"4,414",20.7%,Sentinel,Latin America
+411,META Safiro#stomp,179,45.5%,10,"5,476",16.9%,Duelist,Latin America
+412,YoYo#4161,179,62.5%,9,"5,032",23.0%,Controller,Latin America
+413,Focho#LAS,179,44.4%,55,"5,489",17.8%,Duelist,Latin America
+414,Sunnken#3771,179,52.4%,21,"5,417",20.4%,Initiator,Latin America
+415,Ðizzy#LAS,179,64.0%,32,"4,286",23.9%,Initiator,Latin America
+416,Exterminia#0000,178,53.2%,24,"5,779",14.7%,Duelist,Latin America
+417,SG hazen#IGL,178,44.2%,23,"4,672",23.4%,Sentinel,Latin America
+418,KnosheN#weed,178,54.5%,30,"4,066",23.4%,Initiator,Latin America
+419,Gonzafuerza#LAS,178,66.7%,11,"4,687",12.0%,Sentinel,Latin America
+420,ASG n1ko#1111,178,60.5%,25,"4,515",18.7%,Controller,Latin America
+421,Friky#Col,178,55.6%,20,"4,092",14.3%,Initiator,Latin America
+422,ewk#044,178,59.3%,23,"4,120",15.7%,Sentinel,Latin America
+423,ImZ Delays#1086,177,62.5%,11,"3,733",23.2%,Sentinel,Latin America
+424,DKS Diewitro#qwx,176,58.8%,9,"5,439",15.4%,Sentinel,Latin America
+425,Juancito#Juan,176,58.1%,17,"5,379",20.7%,Duelist,Latin America
+426,Vince Carter#vant,176,72.7%,7,"5,612",34.3%,Duelist,Latin America
+427,gast1#7894,176,50.9%,27,"5,171",20.8%,Duelist,Latin America
+428,redskrux#sss,176,55.1%,26,"4,366",23.2%,Initiator,Latin America
+429,ASG Matiotas#winn,176,63.4%,27,"4,455",18.3%,Duelist,Latin America
+430,rapaziada#1884,175,36.8%,13,"5,524",18.4%,Duelist,Latin America
+431,KUSA MAHSHI#7105,175,62.5%,9,"5,351",18.8%,Duelist,Latin America
+432,Kyee#LAS,175,54.8%,50,"4,724",21.9%,Sentinel,Latin America
+433,CT Xutwell#XT1,175,45.0%,58,"5,201",29.7%,Duelist,Latin America
+434,credit#LAS,175,51.5%,35,"5,057",19.0%,Duelist,Latin America
+435,Fallen Ramzes#3327,175,56.0%,28,"4,571",21.2%,Sentinel,Latin America
+436,Lasta D Garp#mgm,175,53.8%,15,"5,048",26.7%,Sentinel,Latin America
+437,Twitch BanBanGG#Live,175,56.4%,53,"4,872",17.7%,Duelist,Latin America
+438,Pipeeh#666,175,59.3%,16,"4,532",20.7%,Sentinel,Latin America
+439,Fede#420,175,64.0%,15,"4,740",19.4%,Duelist,Latin America
+440,RΛVΞN  taaKa#dchtk,175,50.0%,51,"5,215",28.9%,Duelist,Latin America
+441,TINHAE#vac,175,58.0%,40,"4,748",18.8%,Sentinel,Latin America
+442,drew#898,174,64.7%,22,"4,640",19.3%,Sentinel,Latin America
+443,Ace#KNG,174,57.6%,19,"5,563",20.5%,Duelist,Latin America
+444,Only#KNG,174,53.5%,22,"4,727",17.9%,Duelist,Latin America
+445,drib#123,174,55.2%,47,"4,733",20.5%,Initiator,Latin America
+446,LiddeX SWAG#2424,174,47.4%,27,"4,383",18.4%,Sentinel,Latin America
+447,JAVIIERH#TTV,174,46.3%,44,"4,632",18.5%,Duelist,Latin America
+448,LoLo#8274,174,50.0%,13,"5,200",23.7%,Duelist,Latin America
+449,j i N#TSM,174,64.0%,15,"4,339",19.4%,Duelist,Latin America
+450,CEO spark1#awa,173,48.9%,72,"4,197",21.3%,Sentinel,Latin America
+451,skrrrrrrr#0800,173,63.0%,28,"4,314",22.9%,Controller,Latin America
+452,18yo washed#sxxxs,173,54.0%,47,"5,023",15.6%,Duelist,Latin America
+453,InBlack#god,173,56.8%,28,"3,966",23.0%,Sentinel,Latin America
+454,Dasurr#2222,172,53.6%,30,"4,312",27.3%,Sentinel,Latin America
+455,Koksal Baba#8576,172,55.6%,15,"4,231",30.7%,Sentinel,Latin America
+456,sukuna#xtasy,172,51.3%,39,"3,643",16.4%,Sentinel,Latin America
+457,1fbNcL#noob,172,51.3%,39,"4,784",17.2%,Controller,Latin America
+458,ICEMONKEY1337#1337,172,70.4%,18,"3,898",16.2%,Sentinel,Latin America
+459,deimis#898,172,59.5%,26,"5,539",21.1%,Sentinel,Latin America
+460,cavsc frn#riki,172,72.2%,12,"4,100",17.1%,Sentinel,Latin America
+461,KIWI#1114,172,53.5%,25,"4,279",18.3%,Sentinel,Latin America
+462,zorro#FAFA,172,58.5%,38,"5,324",16.3%,Duelist,Latin America
+463,エイムロック#8270,171,73.3%,10,"4,934",14.1%,Initiator,Latin America
+464,kENRIK#389,170,60.0%,5,"5,256",21.7%,Duelist,Latin America
+465,BEN Profile#CHILE,170,48.5%,16,"4,539",20.0%,Sentinel,Latin America
+466,IC3 PEAK#1312,170,46.2%,14,"4,433",27.9%,Controller,Latin America
+467,Jose#LAS,170,63.2%,11,"5,391",21.8%,Sentinel,Latin America
+468,KZN SkuLLL#0000,170,50.0%,8,"4,102",24.4%,Initiator,Latin America
+469,gust1#1997,170,53.7%,21,"4,037",15.6%,Controller,Latin America
+470,bAby#sin,170,81.8%,8,"4,845",24.1%,Duelist,Latin America
+471,stayl#최종적으로,170,54.3%,21,"4,495",13.8%,Duelist,Latin America
+472,GS AxelPY#GOD,170,53.6%,14,"4,206",17.9%,Controller,Latin America
+473,St1k#1995,170,53.6%,14,"5,163",21.4%,Duelist,Latin America
+474,Gansito#uwu,170,54.0%,34,"4,619",23.7%,Controller,Latin America
+475,66 Russzinho#B0AA,170,56.8%,24,"4,143",25.7%,Duelist,Latin America
+476,m4ur1c10#2545,170,60.4%,32,"4,302",14.8%,Duelist,Latin America
+477,CØMETA#CELE,170,47.6%,40,"5,308",17.6%,Duelist,Latin America
+478,aesthetic#trap,169,54.4%,37,"5,139",22.6%,Duelist,Latin America
+479,R4IG0N#C11,169,75.0%,12,"4,280",24.8%,Sentinel,Latin America
+480,xde#ido,169,69.2%,8,"4,416",13.8%,Duelist,Latin America
+481,mercedes#1x1x1,169,70.8%,17,"4,818",23.2%,Duelist,Latin America
+482,NicoMachine#LAS,169,48.8%,42,"4,926",22.6%,Duelist,Latin America
+483,JNS ezznap#GGWP,168,60.0%,11,"5,512",17.8%,Duelist,Latin America
+484,Arcane#Hits,168,50.0%,34,"4,552",16.5%,Duelist,Latin America
+485,CNG Darker#Lan,168,51.9%,31,"5,076",27.8%,Controller,Latin America
+486,Iguana#420,168,52.4%,33,"4,079",13.0%,Initiator,Latin America
+487,CALFUPAN#1996,168,60.0%,27,"4,187",15.5%,Sentinel,Latin America
+488,SrCalbo#3676,168,49.3%,76,"4,338",18.4%,Controller,Latin America
+489,MOX vaiZ#CARTI,167,46.9%,23,"5,065",20.0%,Duelist,Latin America
+490,MOX ligasa09#UG96,167,50.6%,41,"5,291",32.6%,Duelist,Latin America
+491,l4rry#god,167,53.5%,48,"4,712",18.3%,Controller,Latin America
+492,pesaadelo#Devil,167,62.5%,15,"4,424",26.4%,Duelist,Latin America
+493,Pblto xD#LATAM,167,62.7%,40,"4,753",22.2%,Duelist,Latin America
+494,RLZ Tengo Novia#0018,166,50.0%,17,"4,102",24.4%,Controller,Latin America
+495,Novus Eiby#0310,166,55.6%,10,"5,177",29.3%,Duelist,Latin America
+496,уuu#002,166,63.6%,7,"5,128",20.4%,Duelist,Latin America
+497,deiZk#CHL,166,54.5%,18,"5,076",22.9%,Duelist,Latin America
+498,EL TULON#5404,166,85.7%,5,"6,017",29.5%,Duelist,Latin America
+499,rdrg#LAS,166,52.4%,11,"4,056",17.8%,Duelist,Latin America
+500,FAP dr1#1337,166,47.6%,50,"4,441",20.1%,Sentinel,Latin America
+1,PRX f0rsakeN#Smile,844,55.6%,90,"6,141",21.9%,Duelist,Asia Pacific
+2,J9Superfast#Cool,809,55.3%,79,"5,416",25.0%,Duelist,Asia Pacific
+3,NikoSUPERFASTasf#inwyo,739,63.7%,58,"5,389",21.3%,Duelist,Asia Pacific
+4,PRX d4v41#556,693,54.3%,49,"5,570",28.4%,Duelist,Asia Pacific
+5,斗鱼Yoru3019021#yoru,681,56.5%,110,"5,091",21.6%,Duelist,Asia Pacific
+6,NG JohnOlsen#1TAP,647,47.2%,54,"5,634",32.2%,Duelist,Asia Pacific
+7,rawfiul 神#0000,647,56.4%,64,"5,170",30.9%,Controller,Asia Pacific
+8,AE BerserX#SSS,619,53.3%,63,"5,391",24.2%,Duelist,Asia Pacific
+9,KX cxy0714#0714,614,60.3%,46,"5,191",30.6%,Duelist,Asia Pacific
+10,FS theeluvfamily#666,605,54.8%,50,"4,915",23.5%,Sentinel,Asia Pacific
+11,SE Kakarot#ATL,602,57.7%,44,"5,030",21.4%,Duelist,Asia Pacific
+12,FS theeluvfamily#jubuๆ,596,62.9%,38,"4,556",23.7%,Sentinel,Asia Pacific
+13,FS Patiphan#daprW,594,48.7%,37,"5,461",25.5%,Duelist,Asia Pacific
+14,NG ChAlalala#BLACK,577,53.2%,46,"5,347",20.4%,Sentinel,Asia Pacific
+15,Nth Seoldam#397,572,57.8%,73,"6,462",23.4%,Duelist,Asia Pacific
+16,mickeymouse#mouse,571,50.0%,89,"4,813",21.4%,Duelist,Asia Pacific
+17,NXLG budimeisteR#EBS,561,55.1%,49,"5,064",21.1%,Controller,Asia Pacific
+18,FS AloNeFillz#poom,555,48.0%,48,"4,686",19.3%,Initiator,Asia Pacific
+19,SNM Kylee#OJR,555,55.4%,86,"4,993",28.9%,Duelist,Asia Pacific
+20,AEC Trinity#AEEC,553,50.0%,56,"5,264",26.6%,Initiator,Asia Pacific
+21,juicy on alt#kelly,553,63.0%,46,"6,376",30.1%,Duelist,Asia Pacific
+22,Huya BAIQIYYY#121,552,63.7%,71,"5,601",14.8%,Duelist,Asia Pacific
+23,FRC Jerry#N1NJA,552,62.7%,73,"4,548",20.3%,Initiator,Asia Pacific
+24,AE Lmemore#rice,550,60.3%,34,"5,203",34.4%,Initiator,Asia Pacific
+25,年轻人We1Yu#0815,548,64.8%,46,"4,937",20.3%,Duelist,Asia Pacific
+26,Totoro HeiBAOooo#TTG,546,58.7%,36,"5,280",26.1%,Duelist,Asia Pacific
+27,Jinggg#Jing,544,54.8%,33,"5,658",19.8%,Duelist,Asia Pacific
+28,AE FrizzNatsz#SSS,540,56.3%,55,"5,117",27.6%,Initiator,Asia Pacific
+29,ONIC Monyet#3rg,539,50.8%,32,"5,768",27.0%,Duelist,Asia Pacific
+30,BTR Cud#DaNCN,538,52.9%,36,"4,962",28.3%,Duelist,Asia Pacific
+31,Totoro Goyimiii3#TTG,536,58.9%,33,"4,961",33.9%,Sentinel,Asia Pacific
+32,fluffy#kie,535,52.6%,110,"5,645",24.3%,Duelist,Asia Pacific
+33,G2112#SAF,533,62.1%,59,"5,428",19.2%,Duelist,Asia Pacific
+34,pinoy jett#AWP,531,60.5%,27,"5,852",24.1%,Duelist,Asia Pacific
+35,DXG gin#0310,528,52.9%,54,"5,311",27.1%,Duelist,Asia Pacific
+36,NuanX#1211,526,72.2%,38,"6,038",19.5%,Duelist,Asia Pacific
+37,Salvestro#Jay,525,57.3%,63,"5,141",22.6%,Duelist,Asia Pacific
+38,BOOM adrnking#nv ln,524,70.6%,23,"4,843",29.3%,Duelist,Asia Pacific
+39,SE Yoshi#ATL,522,54.8%,22,"4,819",24.3%,Duelist,Asia Pacific
+40,AAAAY#anG,522,58.8%,57,"5,151",27.3%,Duelist,Asia Pacific
+41,NaughtyPig#2357,517,53.5%,22,"4,718",24.7%,Initiator,Asia Pacific
+42,kimmy#quit,517,53.8%,41,"5,389",27.9%,Duelist,Asia Pacific
+43,Little Buffalo#HUYA,513,72.5%,28,"4,361",22.1%,Controller,Asia Pacific
+44,EJAY#1337,511,56.9%,42,"6,061",24.9%,Duelist,Asia Pacific
+45,ONIC heyNF#n F,509,53.7%,29,"5,380",26.1%,Duelist,Asia Pacific
+46,bel#ian,506,59.6%,56,"5,838",19.0%,Duelist,Asia Pacific
+47,FA Defectio#iwnl,504,53.8%,29,"5,477",22.4%,Duelist,Asia Pacific
+48,FL justbiew#闪亮的月亮,503,51.2%,43,"5,715",12.6%,Duelist,Asia Pacific
+49,GXR Ching#Kolin,497,58.2%,63,"5,545",25.5%,Duelist,Asia Pacific
+50,Jwck#0718,496,60.9%,83,"3,709",18.8%,Duelist,Asia Pacific
+51,X10 sushiboys#X10,495,55.2%,37,"5,066",23.2%,Duelist,Asia Pacific
+52,k1ngkappa#baby,494,49.2%,31,"5,009",20.1%,Duelist,Asia Pacific
+53,NG LAMMYSN4X d#black,491,56.7%,33,"5,519",28.0%,Initiator,Asia Pacific
+54,Veynox#7635,489,50.8%,29,"4,955",38.1%,Sentinel,Asia Pacific
+55,xcn sam#frzs,488,55.6%,19,"4,615",24.1%,Initiator,Asia Pacific
+56,SHIFT Onecuber#2108,488,68.2%,29,"4,563",25.7%,Sentinel,Asia Pacific
+57,NVG Aletheia#0328,486,51.5%,68,"5,264",25.5%,Duelist,Asia Pacific
+58,GHN superzombie#6974,485,67.7%,41,"5,740",15.8%,Duelist,Asia Pacific
+59,H3201#SAF,484,61.4%,43,"5,381",27.2%,Duelist,Asia Pacific
+60,FrostyZ#SPEED,484,53.3%,31,"4,948",23.9%,Duelist,Asia Pacific
+61,GBP RyanSanity#666,480,57.8%,52,"4,614",28.1%,Duelist,Asia Pacific
+62,spunch bop#JayH,479,58.9%,33,"4,412",20.6%,Initiator,Asia Pacific
+63,KX MidnighT#dad,478,47.2%,25,"5,208",28.0%,Duelist,Asia Pacific
+64,GXR Georggyyy#Cute,478,47.7%,51,"5,969",23.8%,Duelist,Asia Pacific
+65,SHIFT beo#3008,478,58.8%,56,"5,562",25.0%,Duelist,Asia Pacific
+66,Ackerman#2000,476,58.2%,39,"5,184",21.4%,Controller,Asia Pacific
+67,tosaky no cap#1999,476,59.3%,67,"4,790",20.9%,Duelist,Asia Pacific
+68,ORDER Texta#1595,475,50.0%,27,"5,421",22.6%,Controller,Asia Pacific
+69,BB NDG#3240,473,51.0%,125,"4,980",21.1%,Duelist,Asia Pacific
+70,たかしbot#2428,472,47.2%,33,"5,144",18.0%,Duelist,Asia Pacific
+71,jason8OYZ#LCT,471,61.1%,22,"4,921",30.5%,Duelist,Asia Pacific
+72,ARC CC#exe,471,61.1%,32,"5,313",17.7%,Duelist,Asia Pacific
+73,SN bodyNine#1104,470,57.5%,23,"4,735",29.3%,Initiator,Asia Pacific
+74,MF skrawl#oce,470,59.0%,23,"5,210",24.7%,Initiator,Asia Pacific
+75,xhum0n#8888,470,51.6%,95,"5,139",17.3%,Duelist,Asia Pacific
+76,SNM Zennn#OJR,469,53.2%,65,"5,707",26.3%,Duelist,Asia Pacific
+77,BRN BORKUM#1202,468,47.8%,31,"4,789",18.8%,Sentinel,Asia Pacific
+78,FG bazz#6676,468,50.0%,40,"5,153",20.8%,Duelist,Asia Pacific
+79,333star#kpop,467,64.9%,36,"6,515",24.3%,Duelist,Asia Pacific
+80,LFT GangPin#iwnl,467,50.0%,70,"5,578",28.4%,Duelist,Asia Pacific
+81,LFT HeeChang#Busan,467,59.3%,34,"5,789",22.3%,Duelist,Asia Pacific
+82,BOOM NcSlasher#BWL,466,51.7%,29,"5,022",25.4%,Duelist,Asia Pacific
+83,FXG PPOverdose#168xx,466,47.7%,53,"4,890",18.9%,Controller,Asia Pacific
+84,JustGoNext#Throw,465,52.8%,19,"5,495",26.4%,Duelist,Asia Pacific
+85,FS newgen#Jing,465,46.0%,56,"5,150",26.0%,Duelist,Asia Pacific
+86,Not Daicuteee#Daiii,465,60.0%,38,"5,491",25.2%,Duelist,Asia Pacific
+87,Yifang#GRIEF,465,59.2%,41,"5,286",24.8%,Duelist,Asia Pacific
+88,CES Kishi#sup,464,64.3%,26,"5,346",29.6%,Initiator,Asia Pacific
+89,HX Shuzz#ACE,463,64.1%,25,"5,978",27.4%,Duelist,Asia Pacific
+90,Mortdecai#y mad,461,52.4%,54,"4,766",24.9%,Duelist,Asia Pacific
+91,sigma#OCE,457,53.7%,57,"4,930",25.7%,Sentinel,Asia Pacific
+92,BRN JessieVash#1030,456,45.7%,64,"4,385",25.8%,Initiator,Asia Pacific
+93,Tommy斗鱼5176269#666,456,56.7%,72,"4,605",20.6%,Duelist,Asia Pacific
+94,zenk0k0#ovo,454,56.9%,32,"4,686",21.7%,Controller,Asia Pacific
+95,BondF#8940,454,57.7%,44,"4,657",29.7%,Sentinel,Asia Pacific
+96,RLX 侵略者#463,453,49.7%,74,"4,337",14.8%,Sentinel,Asia Pacific
+97,ESC Aowha#Hamak,452,52.5%,20,"5,891",23.2%,Duelist,Asia Pacific
+98,Teng#Teng,452,66.7%,31,"4,862",21.5%,Initiator,Asia Pacific
+99,Tzuyu#Cent,451,58.6%,58,"4,565",24.3%,Initiator,Asia Pacific
+100,Weibo Smoggy#zzzzz,449,50.0%,31,"5,599",34.6%,Duelist,Asia Pacific
+101,SeeMyTry104#1HP,447,61.7%,37,"5,222",27.1%,Duelist,Asia Pacific
+102,Chilean El Dios#1010,447,50.0%,51,"5,094",17.4%,Duelist,Asia Pacific
+103,SXG Black Bexxx#hkx,444,58.2%,38,"4,302",24.2%,Sentinel,Asia Pacific
+104,LYX maitee#777,443,54.8%,46,"5,318",20.1%,Initiator,Asia Pacific
+105,ARC Raigard#1243,443,52.5%,72,"5,095",18.9%,Duelist,Asia Pacific
+106,Gura#1567,442,53.9%,144,"4,726",21.7%,Duelist,Asia Pacific
+107,TFO Marky#87000,441,49.7%,73,"5,512",23.8%,Duelist,Asia Pacific
+108,888海日人 1st#Queen,441,66.4%,75,"5,837",13.5%,Duelist,Asia Pacific
+109,I am yours#jan,440,69.6%,15,"5,858",20.7%,Initiator,Asia Pacific
+110,MERjiesofranyyyy#00000,440,52.8%,56,"4,828",20.6%,Controller,Asia Pacific
+111,MyMint#1111,439,52.9%,73,"5,375",31.4%,Sentinel,Asia Pacific
+112,LVR bryce#0000,438,56.3%,35,"4,564",23.9%,Sentinel,Asia Pacific
+113,Abongcs#2311,437,51.7%,63,"4,402",23.0%,Sentinel,Asia Pacific
+114,ULVL tesseract#god,436,53.0%,63,"4,641",20.2%,Sentinel,Asia Pacific
+115,ABATMAN#KDLMN,435,44.9%,43,"5,488",20.3%,Duelist,Asia Pacific
+116,RC NoriseN#000,435,55.1%,26,"4,649",23.1%,Sentinel,Asia Pacific
+117,TODAK subbey#TODAK,435,71.0%,21,"5,057",31.3%,Initiator,Asia Pacific
+118,xavi8k#xav,435,55.0%,21,"5,502",16.7%,Duelist,Asia Pacific
+119,JitBøy#Josh,435,58.1%,35,"4,896",25.1%,Duelist,Asia Pacific
+120,Nozz#999,433,59.1%,52,"4,576",24.4%,Controller,Asia Pacific
+121,LP maou#SILVA,433,52.7%,38,"4,795",20.7%,Initiator,Asia Pacific
+122,KX LuoK1ng#Luo,432,59.7%,36,"4,834",28.5%,Duelist,Asia Pacific
+123,百花繚乱#hatto,432,55.7%,63,"4,930",20.1%,Duelist,Asia Pacific
+124,8eightt#eyes,431,59.5%,49,"4,849",22.2%,Sentinel,Asia Pacific
+125,DLT#OCE,431,63.8%,51,"5,695",22.2%,Duelist,Asia Pacific
+126,DXG YESicaN#사랑해,430,53.1%,26,"4,768",18.7%,Sentinel,Asia Pacific
+127,ChuZhong#0766,430,63.3%,30,"4,465",19.0%,Initiator,Asia Pacific
+128,NEB dragoN#404,429,53.0%,70,"5,660",27.1%,Duelist,Asia Pacific
+129,Vincenzo#Cool,429,75.0%,27,"5,393",21.8%,Duelist,Asia Pacific
+130,Brxndon#0512,428,53.5%,38,"5,357",21.1%,Duelist,Asia Pacific
+131,reagzY#iwnl,428,60.9%,27,"5,735",19.4%,Duelist,Asia Pacific
+132,reN#PEEP,428,53.6%,36,"4,675",29.6%,Initiator,Asia Pacific
+133,Soyeon#minty,428,55.0%,43,"4,216",20.8%,Duelist,Asia Pacific
+134,OOW tacklegod#2712,427,56.9%,57,"4,957",26.4%,Duelist,Asia Pacific
+135,FXG wannafly#foxy,426,64.0%,16,"4,703",22.2%,Sentinel,Asia Pacific
+136,CBT Iyo#0000,426,55.8%,28,"4,928",21.4%,Duelist,Asia Pacific
+137,theDoctorr#0000,426,49.1%,84,"4,607",25.2%,Initiator,Asia Pacific
+138,Ai San#Hyper,424,59.3%,50,"4,491",18.3%,Sentinel,Asia Pacific
+139,虎牙雪乃荔荔枝#nnzz,423,50.4%,62,"4,598",24.4%,Duelist,Asia Pacific
+140,i stan Rosé 로제#BLINK,422,45.7%,20,"6,262",29.1%,Duelist,Asia Pacific
+141,eezyfps#TTV,422,59.1%,26,"4,898",17.3%,Initiator,Asia Pacific
+142,Lieu#KEK,421,47.4%,37,"5,362",30.0%,Controller,Asia Pacific
+143,SE Timm#ATL,421,56.8%,43,"4,566",22.8%,Controller,Asia Pacific
+144,stevekb#AGG,418,56.1%,23,"5,374",27.1%,Duelist,Asia Pacific
+145,KGM zeeq#Kings,418,67.9%,18,"4,925",25.2%,Sentinel,Asia Pacific
+146,KlockzyyY#8985,418,50.7%,34,"5,376",23.6%,Duelist,Asia Pacific
+147,這遊戲好難#2457,417,52.3%,22,"5,188",26.3%,Duelist,Asia Pacific
+148,alvyn#KEKW,417,54.9%,49,"4,894",27.0%,Sentinel,Asia Pacific
+149,한국최고#king,417,57.3%,55,"5,208",17.5%,Duelist,Asia Pacific
+150,uG BenJ 锦#ZeGG,417,51.3%,58,"3,611",21.4%,Sentinel,Asia Pacific
+151,uG Kucf#7124,416,54.3%,56,"4,579",20.9%,Controller,Asia Pacific
+152,Killa#111,415,80.8%,20,"6,642",28.6%,Duelist,Asia Pacific
+153,NTER AC#6604,414,58.8%,19,"5,625",21.0%,Duelist,Asia Pacific
+154,ynitSed#3121,414,52.2%,23,"6,116",23.9%,Duelist,Asia Pacific
+155,AE naTzuoKa#XXY,414,52.9%,73,"4,756",25.0%,Initiator,Asia Pacific
+156,Noobster#esic,414,53.8%,70,"5,329",33.2%,Sentinel,Asia Pacific
+157,Shiroo#Pog,413,60.0%,21,"5,701",25.1%,Duelist,Asia Pacific
+158,LT yzaK#LTW,413,50.5%,50,"5,072",18.6%,Duelist,Asia Pacific
+159,MiTH PTC#Odin,412,50.0%,20,"5,450",24.9%,Duelist,Asia Pacific
+160,SiN 希望#STEF,412,71.4%,34,"4,713",22.0%,Initiator,Asia Pacific
+161,kzr#OCE,411,62.5%,44,"6,154",26.0%,Duelist,Asia Pacific
+162,ValdyN#BENLA,411,50.9%,58,"5,167",20.9%,Duelist,Asia Pacific
+163,ulteaR#0506,410,60.0%,29,"5,826",30.6%,Duelist,Asia Pacific
+164,INT PxieJesus#jezus,410,70.4%,18,"5,332",27.1%,Duelist,Asia Pacific
+165,SST Skyfull#8984,410,45.9%,34,"5,070",20.0%,Sentinel,Asia Pacific
+166,PRX mindfreak#1010,410,69.6%,15,"4,900",23.0%,Duelist,Asia Pacific
+167,Rumours#2201,409,56.7%,58,"4,528",13.3%,Sentinel,Asia Pacific
+168,落落是You和Chloe的爹#Luo,408,88.2%,14,"3,843",19.8%,Sentinel,Asia Pacific
+169,TimeterdoU#99999,408,64.1%,24,"4,374",19.3%,Duelist,Asia Pacific
+170,ESC Gen9#999,408,57.4%,53,"5,017",21.6%,Duelist,Asia Pacific
+171,benaf#kekw,407,49.0%,23,"4,932",21.9%,Sentinel,Asia Pacific
+172,SE Bry#ATL,407,51.8%,43,"5,327",22.0%,Duelist,Asia Pacific
+173,xnfri#003,406,52.2%,23,"5,098",26.7%,Initiator,Asia Pacific
+174,MORPH Moji#ADN,405,55.0%,32,"5,010",25.5%,Initiator,Asia Pacific
+175,Erz4h#2018,405,60.0%,30,"5,331",26.8%,Duelist,Asia Pacific
+176,tm1#1140,405,68.2%,29,"5,632",25.2%,Duelist,Asia Pacific
+177,DXG Huyz#Quynh,404,54.5%,29,"4,667",22.1%,Sentinel,Asia Pacific
+178,DR kellyS#MJC,404,57.9%,54,"5,521",18.8%,Duelist,Asia Pacific
+179,deegz#degen,404,58.0%,58,"4,871",21.3%,Duelist,Asia Pacific
+180,Jacob#lft,403,54.8%,68,"5,334",23.3%,Duelist,Asia Pacific
+181,lorenzo#7577,402,50.0%,47,"4,223",20.3%,Controller,Asia Pacific
+182,DOINKMACHINE97#DOINK,401,60.4%,31,"5,933",18.4%,Initiator,Asia Pacific
+183,ezzzyyyxD#1080,401,61.0%,25,"4,949",19.7%,Duelist,Asia Pacific
+184,KimSena#E21,401,57.6%,33,"5,875",26.5%,Duelist,Asia Pacific
+185,SK kuro#962,401,57.3%,46,"4,698",18.2%,Duelist,Asia Pacific
+186,Lunar#SSS,401,55.4%,35,"4,907",18.5%,Duelist,Asia Pacific
+187,SP aLerT#9983,400,62.1%,17,"4,927",23.3%,Controller,Asia Pacific
+188,Pecal#Lany,400,60.6%,62,"4,282",18.7%,Initiator,Asia Pacific
+189,IceCoffee#8797,400,56.6%,29,"5,621",18.2%,Duelist,Asia Pacific
+190,ducT#DNA,400,47.6%,59,"4,493",22.0%,Initiator,Asia Pacific
+191,Nation#zzzz,400,54.0%,26,"4,693",21.3%,Sentinel,Asia Pacific
+192,Totoro yAoJu ovo#TTG,399,53.8%,13,"4,870",27.3%,Initiator,Asia Pacific
+193,RECCA reinhardt#610,399,55.6%,25,"5,063",36.0%,Sentinel,Asia Pacific
+194,VNDT Realist#Alyn,399,45.3%,33,"4,285",18.8%,Sentinel,Asia Pacific
+195,SOYBAD#FHY,399,54.7%,47,"5,123",21.9%,Duelist,Asia Pacific
+196,KDM Yanagi#STR,399,52.6%,31,"5,194",19.0%,Sentinel,Asia Pacific
+197,ĐxN#0303,399,47.0%,54,"5,442",14.3%,Duelist,Asia Pacific
+198,NickPan#0516,399,54.3%,43,"4,978",24.9%,Sentinel,Asia Pacific
+199,ichigo#TODAK,398,62.5%,15,"4,877",19.4%,Initiator,Asia Pacific
+200,EinRetterKline#no58,398,72.7%,16,"4,930",18.3%,Sentinel,Asia Pacific
+201,BlackWiz#0619,398,50.3%,73,"4,462",32.1%,Controller,Asia Pacific
+202,OPtimistic头痛#2405,398,60.3%,43,"4,766",25.2%,Duelist,Asia Pacific
+203,密封巴斯#JUJU,398,57.1%,64,"5,065",17.5%,Initiator,Asia Pacific
+204,FS Jdaii#JRM,396,65.0%,13,"5,021",30.5%,Duelist,Asia Pacific
+205,X10 foxz#LUL,396,48.7%,37,"5,062",22.2%,Controller,Asia Pacific
+206,KX HangHang#1230,396,51.9%,41,"5,310",16.4%,Duelist,Asia Pacific
+207,EDG L1nk#10086,395,59.0%,48,"5,055",30.6%,Duelist,Asia Pacific
+208,HSR invy#sibol,395,51.1%,47,"5,110",28.6%,Duelist,Asia Pacific
+209,HLG EmiRR#clown,395,50.4%,67,"4,285",22.5%,Sentinel,Asia Pacific
+210,Psycho#Panda,394,60.6%,44,"5,186",17.7%,Duelist,Asia Pacific
+211,CHADO#aom,393,50.6%,38,"4,644",24.4%,Duelist,Asia Pacific
+212,August#0108,393,56.5%,40,"4,040",26.7%,Controller,Asia Pacific
+213,YHchen#1231,392,48.7%,57,"4,270",24.6%,Initiator,Asia Pacific
+214,not real dep#RCfan,391,65.0%,12,"5,319",24.8%,Initiator,Asia Pacific
+215,primmie#primm,391,47.6%,22,"5,090",35.2%,Duelist,Asia Pacific
+216,ABC NoMan#Wazoo,391,51.8%,58,"4,950",27.3%,Initiator,Asia Pacific
+217,LT Physecks#LTW,391,48.1%,49,"4,793",27.7%,Controller,Asia Pacific
+218,MeaGOD#mee,391,54.1%,73,"5,580",21.1%,Duelist,Asia Pacific
+219,germsg#444,391,48.6%,35,"3,978",18.1%,Controller,Asia Pacific
+220,Freyrero#dmgb,390,52.1%,24,"5,493",20.6%,Duelist,Asia Pacific
+221,GTS hiroronnsann#sann,389,55.6%,19,"5,178",27.8%,Duelist,Asia Pacific
+222,zey#YAWA,389,52.3%,67,"5,092",28.7%,Duelist,Asia Pacific
+223,LionOnslaughttt#666,389,48.1%,75,"5,068",18.6%,Sentinel,Asia Pacific
+224,Wassap#kappa,389,52.6%,59,"4,417",19.8%,Controller,Asia Pacific
+225,BOLDLY#0 7,389,46.2%,48,"5,347",22.2%,Duelist,Asia Pacific
+226,KS Arixa#KNH,388,72.2%,12,"5,223",23.3%,Controller,Asia Pacific
+227,ONIC severiNe#zirca,388,57.5%,22,"4,779",17.8%,Controller,Asia Pacific
+228,LP Aclx#7414,388,50.0%,47,"4,785",18.2%,Duelist,Asia Pacific
+229,Totoro 认真男人#TTG,387,53.2%,33,"4,851",25.9%,Duelist,Asia Pacific
+230,LT Axilus#LTW,387,47.6%,80,"4,704",22.9%,Duelist,Asia Pacific
+231,高橋和寿#123,386,70.4%,18,"5,066",21.9%,Sentinel,Asia Pacific
+232,xCube#1872,384,59.0%,35,"6,194",26.4%,Duelist,Asia Pacific
+233,MiTC neociagA#LDLC,384,57.5%,45,"5,570",22.8%,Duelist,Asia Pacific
+234,Champion#B2P,383,61.7%,36,"5,597",46.2%,Duelist,Asia Pacific
+235,LFT ЯIA#DMplz,382,49.6%,67,"4,988",14.1%,Duelist,Asia Pacific
+236,RL Brozey#GOD,381,54.8%,51,"4,850",16.3%,Duelist,Asia Pacific
+237,Hotchelli#SOVA,381,54.9%,49,"4,757",17.5%,Initiator,Asia Pacific
+238,FMC flex#016,381,58.9%,75,"4,767",14.4%,Duelist,Asia Pacific
+239,LG FleX#2fast,381,54.7%,57,"5,207",19.6%,Duelist,Asia Pacific
+240,Lizhi 龙日一#0401,380,69.2%,19,"4,671",20.7%,Duelist,Asia Pacific
+241,zoon#7280,380,50.7%,36,"4,251",27.6%,Duelist,Asia Pacific
+242,MAX C0z1#000,380,60.8%,30,"5,217",28.1%,Duelist,Asia Pacific
+243,sora#8767,380,46.5%,39,"4,722",19.3%,Duelist,Asia Pacific
+244,NVG K4MURO#SSS,379,58.2%,32,"4,714",20.8%,Sentinel,Asia Pacific
+245,BazRy#9882,378,46.9%,67,"4,657",15.0%,Duelist,Asia Pacific
+246,Zvyest#OCE,378,63.3%,31,"4,989",14.5%,Duelist,Asia Pacific
+247,AE xeravSSS#adnid,377,47.1%,47,"5,575",27.9%,Duelist,Asia Pacific
+248,shiba#999,377,50.6%,39,"4,447",26.6%,Initiator,Asia Pacific
+249,luvzee#111,377,52.7%,48,"4,906",23.6%,Duelist,Asia Pacific
+250,iNS asa#444,376,56.9%,32,"5,372",27.5%,Sentinel,Asia Pacific
+251,興奮な怒りと悲しみのCutalo#本当の正体,376,57.5%,60,"4,955",11.3%,Duelist,Asia Pacific
+252,pйcžх ツ#crazy,376,64.8%,34,"5,645",18.4%,Duelist,Asia Pacific
+253,gilga#2000,376,52.9%,83,"4,766",18.3%,Sentinel,Asia Pacific
+254,EDG YorkMonster#1224,374,70.0%,13,"4,976",21.6%,Initiator,Asia Pacific
+255,UnderDog Miracle#und,374,69.7%,23,"4,842",32.5%,Initiator,Asia Pacific
+256,Addyceigns#7469,374,54.4%,43,"4,285",25.8%,Duelist,Asia Pacific
+257,MQ JL#0211,374,70.4%,18,"5,532",18.6%,Duelist,Asia Pacific
+258,EDG Pikachu#5216,374,51.8%,57,"5,050",26.3%,Duelist,Asia Pacific
+259,Ra1s0n#jerd,374,57.9%,33,"4,668",24.5%,Duelist,Asia Pacific
+260,EAID BENNETT#TGM,373,56.1%,45,"4,374",23.0%,Controller,Asia Pacific
+261,FTG Prec1sion#MNPR,373,50.7%,147,"4,914",23.6%,Duelist,Asia Pacific
+262,XcN Flynch#SinB,372,57.5%,23,"4,909",21.2%,Sentinel,Asia Pacific
+263,qwertyuiop1234#4169,372,66.7%,15,"6,176",26.4%,Initiator,Asia Pacific
+264,CRノZepher#0908,372,55.8%,29,"5,238",22.0%,Duelist,Asia Pacific
+265,Urusai#2546,372,53.0%,35,"4,975",21.5%,Duelist,Asia Pacific
+266,M1ck#Fear,372,62.3%,32,"5,041",21.3%,Duelist,Asia Pacific
+267,SoCoolSoDa#soda,372,58.6%,41,"4,672",26.2%,Initiator,Asia Pacific
+268,Kpee21#7067,372,73.0%,26,"4,685",23.1%,Sentinel,Asia Pacific
+269,SMG LEXY#4288,371,53.2%,24,"5,292",17.6%,Duelist,Asia Pacific
+270,LVR RedKoh#donut,371,46.7%,36,"5,496",22.1%,Duelist,Asia Pacific
+271,FAV Fisker#0120,371,47.1%,41,"5,893",31.2%,Duelist,Asia Pacific
+272,kebs#6969,371,65.6%,20,"4,755",22.5%,Duelist,Asia Pacific
+273,Yahjra#PH1,371,60.4%,60,"5,725",23.8%,Duelist,Asia Pacific
+274,DNG mystic#TK4x,370,76.2%,15,"4,764",35.5%,Initiator,Asia Pacific
+275,LT Kiuuuu#LTW,370,51.1%,44,"4,902",31.9%,Sentinel,Asia Pacific
+276,Tenma#Solo,370,50.0%,58,"5,067",21.1%,Duelist,Asia Pacific
+277,ezpz lemon nizzy#nizzy,369,46.3%,25,"5,633",32.2%,Duelist,Asia Pacific
+278,Maple#7635,369,66.7%,21,"5,673",17.5%,Duelist,Asia Pacific
+279,M4sh#0021,369,60.0%,42,"5,363",20.6%,Duelist,Asia Pacific
+280,蒽酱Love#1337,368,57.5%,22,"4,428",23.7%,Duelist,Asia Pacific
+281,SMG falfalfal#0000,368,60.4%,31,"4,501",31.2%,Duelist,Asia Pacific
+282,blurred#pit,368,56.6%,43,"5,013",20.0%,Duelist,Asia Pacific
+283,Asitte#0004,368,53.5%,90,"4,831",21.1%,Duelist,Asia Pacific
+284,ONIC Rapheleen#khw,367,52.3%,34,"4,542",15.2%,Controller,Asia Pacific
+285,CR rion#tuyu,367,53.4%,30,"4,955",32.2%,Initiator,Asia Pacific
+286,TMG Kairo#FML,367,58.3%,28,"5,003",29.2%,Duelist,Asia Pacific
+287,Artex#DOINK,367,62.9%,21,"4,598",23.7%,Controller,Asia Pacific
+288,washed negur#black,367,50.9%,61,"5,267",22.2%,Duelist,Asia Pacific
+289,MJC yfoopSSS#0507,367,53.3%,113,"5,044",26.8%,Duelist,Asia Pacific
+290,thàng map #OCE,366,60.0%,30,"4,361",18.7%,Sentinel,Asia Pacific
+291,LAG RoBeeee#7777,366,59.5%,24,"4,474",21.1%,Initiator,Asia Pacific
+292,Lynx#69420,366,56.3%,35,"4,953",17.5%,Duelist,Asia Pacific
+293,KoNan#eRong,365,58.1%,24,"5,292",16.8%,Duelist,Asia Pacific
+294,SXG Aka少华#儒雅随和,365,51.0%,52,"4,816",17.3%,Initiator,Asia Pacific
+295,NVG rez1v#1123,365,56.8%,21,"4,696",23.4%,Controller,Asia Pacific
+296,unk0wn#000,365,52.4%,54,"4,913",30.7%,Duelist,Asia Pacific
+297,Eeyore PREDATOR#uWu,364,57.1%,15,"4,883",22.3%,Sentinel,Asia Pacific
+298,DTN KLM#6109,364,62.1%,17,"5,549",22.0%,Duelist,Asia Pacific
+299,斗鱼啊杰love奇奇#0815,364,58.3%,62,"5,164",28.4%,Duelist,Asia Pacific
+300,MF WAT#1045,364,58.3%,21,"4,841",30.6%,Duelist,Asia Pacific
+301,diick#OCE,364,58.5%,38,"4,898",24.9%,Duelist,Asia Pacific
+302,DR Fission#6080,363,52.9%,18,"5,006",24.8%,Duelist,Asia Pacific
+303,SP b3ta#4059,363,56.0%,27,"5,015",25.7%,Initiator,Asia Pacific
+304,LYX NZNR#N888,363,49.6%,69,"4,846",12.5%,Duelist,Asia Pacific
+305,Ex1le#1219,362,60.0%,28,"4,468",17.7%,Initiator,Asia Pacific
+306,Killer#ACE,362,51.0%,25,"4,986",20.9%,Duelist,Asia Pacific
+307,Ъεατêг#SKNхA,361,63.2%,12,"4,188",20.5%,Initiator,Asia Pacific
+308,A100 Mitsuki#6112,361,60.3%,44,"4,995",22.3%,Duelist,Asia Pacific
+309,Nhatthong2k#9730,361,51.0%,100,"5,537",20.2%,Duelist,Asia Pacific
+310,grevilles#4853,361,56.7%,51,"5,766",26.6%,Duelist,Asia Pacific
+311,visquin#nikol,361,56.2%,78,"4,931",19.8%,Duelist,Asia Pacific
+312,ralphlauren#7X7,360,74.2%,22,"6,154",30.4%,Duelist,Asia Pacific
+313,Mofukar1y#BOT,360,66.7%,17,"4,364",17.8%,Duelist,Asia Pacific
+314,NW S1XKY#6666,360,59.5%,49,"5,456",22.3%,Duelist,Asia Pacific
+315,Evi#Evi,360,53.4%,62,"5,323",24.4%,Duelist,Asia Pacific
+316,MORPH WeKa#Style,359,55.9%,51,"5,253",18.7%,Duelist,Asia Pacific
+317,ENCODE steroid#EnCd,359,60.7%,17,"5,654",21.0%,Duelist,Asia Pacific
+318,Nth SugarZ3ro#0905,359,60.0%,17,"5,048",25.3%,Controller,Asia Pacific
+319,LFT Code S#super,359,54.1%,59,"5,179",26.1%,Duelist,Asia Pacific
+320,TENATHAje#m1lf,359,56.1%,22,"5,162",20.2%,Duelist,Asia Pacific
+321,MashMello#3820,359,76.0%,18,"4,805",18.5%,Initiator,Asia Pacific
+322,dizzyLife#OCE,358,56.7%,16,"5,550",17.5%,Duelist,Asia Pacific
+323,ARC Laz#Ktkw,358,64.0%,31,"4,732",18.7%,Duelist,Asia Pacific
+324,MOC Miyu#AAJMM,358,77.8%,20,"5,380",19.0%,Duelist,Asia Pacific
+325,ESC Nicotine#Fxh,358,56.8%,42,"5,219",24.1%,Sentinel,Asia Pacific
+326,Jelly D#0690,358,65.1%,27,"4,760",19.3%,Duelist,Asia Pacific
+327,NRX Pixel#PIXOL,358,64.8%,46,"5,068",21.2%,Duelist,Asia Pacific
+328,BRN dispenser#1337,357,59.1%,13,"5,743",21.3%,Duelist,Asia Pacific
+329,God Bless You#STFU,357,65.6%,21,"5,194",25.6%,Duelist,Asia Pacific
+330,on the dark ME#212,357,50.9%,26,"5,892",21.6%,Duelist,Asia Pacific
+331,WeiBo Happy ICE#0401,357,52.9%,54,"4,780",26.3%,Duelist,Asia Pacific
+332,Xeuss 1TAP#indo,357,51.8%,72,"5,052",10.5%,Duelist,Asia Pacific
+333,ONIC Shiro#PogU,356,54.1%,19,"5,172",22.6%,Initiator,Asia Pacific
+334,Grossof#fv1,356,54.1%,40,"5,236",18.5%,Duelist,Asia Pacific
+335,WRONSKI#000,355,53.8%,20,"5,741",25.2%,Duelist,Asia Pacific
+336,CAG GON#CARRY,355,50.0%,20,"4,774",23.7%,Controller,Asia Pacific
+337,Gunnr#999,355,62.2%,27,"5,004",31.2%,Duelist,Asia Pacific
+338,TuliTuli#69GOD,355,68.0%,16,"4,659",20.1%,Duelist,Asia Pacific
+339,Cobrajo#1911,355,65.6%,42,"6,256",30.2%,Duelist,Asia Pacific
+340,JobFastestfinger#IBP,355,49.2%,59,"4,502",17.3%,Duelist,Asia Pacific
+341,GBP Mazkara#Ced,355,54.5%,53,"4,491",18.7%,Duelist,Asia Pacific
+342,WP  rTd神#ERICK,354,51.6%,16,"4,766",16.2%,Duelist,Asia Pacific
+343,YAKUZA#soju,354,54.5%,17,"5,687",33.5%,Duelist,Asia Pacific
+344,NW Delend#6999,354,49.0%,23,"4,161",20.8%,Initiator,Asia Pacific
+345,ERRRRA#2337,354,52.1%,24,"4,889",27.1%,Duelist,Asia Pacific
+346,FG Anthem#666,354,49.1%,53,"5,763",24.2%,Duelist,Asia Pacific
+347,AG B站 wudiYuChEn#1101,353,60.0%,20,"4,768",23.8%,Duelist,Asia Pacific
+348,Nth Astell#397,353,53.3%,39,"4,861",22.2%,Sentinel,Asia Pacific
+349,Ka4 Tuboshu#1020,353,62.5%,40,"4,913",14.7%,Duelist,Asia Pacific
+350,kayxx#xxx,352,52.4%,42,"4,888",20.7%,Duelist,Asia Pacific
+351,exotic#daddy,352,49.4%,37,"4,905",24.4%,Duelist,Asia Pacific
+352,pHXM#12123,352,60.5%,22,"5,078",20.1%,Controller,Asia Pacific
+353,Acenet#0910,351,50.8%,31,"4,773",32.7%,Duelist,Asia Pacific
+354,TM Vibhor#420,351,53.8%,35,"4,622",26.1%,Sentinel,Asia Pacific
+355,SZ Npoint#2337,351,52.6%,29,"4,503",13.4%,Sentinel,Asia Pacific
+356,aabbcc#1997,351,71.4%,19,"5,176",27.9%,Duelist,Asia Pacific
+357,maestr0#0000,351,54.4%,36,"4,639",17.3%,Duelist,Asia Pacific
+358,AFN Utahachi#Elian,350,56.5%,25,"4,285",24.0%,Controller,Asia Pacific
+359,DO NOT TOUCH#sNb,350,52.2%,34,"4,519",18.2%,Duelist,Asia Pacific
+360,Xors#4143,350,67.5%,26,"4,922",16.8%,Initiator,Asia Pacific
+361,FAV Minty#001,349,45.8%,27,"6,113",23.7%,Duelist,Asia Pacific
+362,kazzoo#1212,349,63.0%,17,"4,670",19.9%,Duelist,Asia Pacific
+363,Myth#gvng,349,56.5%,25,"5,102",21.3%,Initiator,Asia Pacific
+364,Mikaミク#WIDB,349,53.2%,57,"4,984",22.3%,Duelist,Asia Pacific
+365,tomandjerrys#nocap,348,48.1%,26,"4,719",24.4%,Duelist,Asia Pacific
+366,SAITAMAMCGREGOR#3150,348,55.6%,19,"4,978",24.0%,Duelist,Asia Pacific
+367,74 Piglet#123,348,56.1%,31,"4,593",17.6%,Sentinel,Asia Pacific
+368,yCw的亲爹#jwLL,348,50.6%,38,"5,066",26.5%,Duelist,Asia Pacific
+369,marb1n#mada,348,67.5%,27,"4,097",22.0%,Sentinel,Asia Pacific
+370,NF Phyorite#31337,348,55.8%,107,"4,518",20.5%,Initiator,Asia Pacific
+371,WeChat#jiaWX,347,57.5%,23,"5,825",19.1%,Duelist,Asia Pacific
+372,X10 Crws#1515,347,44.9%,21,"5,122",20.2%,Duelist,Asia Pacific
+373,gosukeith#Tecno,347,52.4%,21,"4,684",16.5%,Duelist,Asia Pacific
+374,BOG Juan#Juan,347,55.2%,36,"4,907",25.7%,Duelist,Asia Pacific
+375,Mira#4575,347,50.7%,70,"5,217",26.8%,Duelist,Asia Pacific
+376,SixTyNineYY#6969,347,51.9%,41,"4,120",20.8%,Controller,Asia Pacific
+377,F4Q 5K#4qwin,347,62.1%,36,"5,061",18.1%,Controller,Asia Pacific
+378,CLT Intro#CLT,347,56.6%,63,"5,747",20.5%,Duelist,Asia Pacific
+379,sarawut#11111,347,53.8%,83,"4,180",18.6%,Initiator,Asia Pacific
+380,GTS snoo#000,346,53.4%,31,"4,517",17.4%,Sentinel,Asia Pacific
+381,Yondaime#keNj,346,62.2%,27,"4,899",21.3%,Duelist,Asia Pacific
+382,XF slophire#FORCE,346,58.7%,36,"4,761",23.2%,Duelist,Asia Pacific
+383,kobihin#JP1,346,56.9%,32,"4,520",26.6%,Sentinel,Asia Pacific
+384,Maxx#ENZO,346,47.6%,88,"4,474",19.2%,Duelist,Asia Pacific
+385,lenne#1311,345,53.8%,21,"4,752",20.5%,Initiator,Asia Pacific
+386,Totoro one1#TTG,345,69.7%,22,"4,903",26.8%,Sentinel,Asia Pacific
+387,bad consz#LFT,345,50.5%,49,"4,776",24.1%,Duelist,Asia Pacific
+388,DrinSanity#FEC,344,65.7%,23,"5,084",23.3%,Controller,Asia Pacific
+389,XII#1996,344,51.1%,48,"5,001",20.9%,Duelist,Asia Pacific
+390,Xeraphy#1120,344,60.5%,25,"3,685",13.0%,Sentinel,Asia Pacific
+391,ZiGGYSH00TS#8666,344,60.2%,49,"4,815",16.7%,Sentinel,Asia Pacific
+392,WAFFLE crew#9156,344,63.6%,27,"5,435",17.8%,Sentinel,Asia Pacific
+393,RNG ZmjjKK 彤#zht,343,43.1%,52,"5,721",25.5%,Duelist,Asia Pacific
+394,oreobrown1e#Bniey,343,50.0%,52,"4,569",25.8%,Initiator,Asia Pacific
+395,Hoax#7970,343,49.2%,63,"4,474",15.3%,Duelist,Asia Pacific
+396,Sharingan#DTL,343,66.7%,21,"5,649",24.4%,Duelist,Asia Pacific
+397,Jimmy#5269,343,56.0%,27,"5,275",18.7%,Duelist,Asia Pacific
+398,Cloud#0214,343,61.8%,47,"4,692",26.3%,Duelist,Asia Pacific
+399,Ignacio#9516,343,65.9%,54,"4,504",21.2%,Controller,Asia Pacific
+400,SZ ade#LAZY,342,64.5%,21,"5,041",27.2%,Controller,Asia Pacific
+401,LFT SepiaMars#CSGO,342,54.5%,30,"4,526",21.6%,Duelist,Asia Pacific
+402,BE GabbyDiz#BSTL,342,57.0%,56,"4,565",25.5%,Duelist,Asia Pacific
+403,Will carry you#101,342,62.5%,24,"5,452",24.5%,Duelist,Asia Pacific
+404,FRC Danwoooo#4oooo,342,56.7%,71,"4,168",19.9%,Controller,Asia Pacific
+405,coN#tile,342,57.0%,48,"4,945",18.1%,Duelist,Asia Pacific
+406,MOC Antan1a#52AK,341,57.5%,23,"5,485",18.1%,Duelist,Asia Pacific
+407,deLb 星#CUPU,341,52.6%,30,"4,952",26.0%,Duelist,Asia Pacific
+408,JDM Kalashnikkov#FD2R,341,57.5%,23,"4,075",15.2%,Sentinel,Asia Pacific
+409,69 NAom#moAN,341,50.0%,31,"4,348",22.7%,Initiator,Asia Pacific
+410,Eriel#6942,341,62.1%,35,"4,757",23.3%,Initiator,Asia Pacific
+411,CES Suka#0810,340,50.6%,43,"4,866",21.7%,Duelist,Asia Pacific
+412,KS Luii#KNH,340,55.1%,27,"4,675",27.1%,Duelist,Asia Pacific
+413,Ohama#sdmn,340,59.4%,19,"5,357",22.5%,Controller,Asia Pacific
+414,OT Brannn#kwan,340,49.8%,107,"5,601",23.9%,Duelist,Asia Pacific
+415,ZS Blaize#1412,340,55.1%,38,"4,482",16.3%,Duelist,Asia Pacific
+416,QianYawns#1912,340,57.9%,54,"4,680",14.3%,Sentinel,Asia Pacific
+417,ragnos#666,340,50.0%,62,"4,776",19.6%,Duelist,Asia Pacific
+418,sir girth 339541#girth,340,65.9%,27,"4,671",20.3%,Controller,Asia Pacific
+419,BRN DubsteP#kitti,339,45.6%,46,"5,190",23.3%,Duelist,Asia Pacific
+420,Le4K#0417,339,57.7%,40,"4,667",21.6%,Duelist,Asia Pacific
+421,SYG P1nA2k4#3112,339,50.5%,54,"4,752",31.8%,Sentinel,Asia Pacific
+422,CHAENG#1762,339,62.2%,22,"5,065",16.5%,Sentinel,Asia Pacific
+423,Kaka#S3X9,339,59.1%,25,"4,998",20.9%,Duelist,Asia Pacific
+424,mc #levi,339,69.8%,30,"5,628",18.6%,Duelist,Asia Pacific
+425,FEL Art#茨城忍者,338,60.9%,13,"5,830",12.4%,Sentinel,Asia Pacific
+426,PIRATES FireSyjN#6045,338,57.7%,14,"4,989",25.2%,Duelist,Asia Pacific
+427,zerixk1ng#ZRXKG,338,58.8%,20,"6,199",20.2%,Initiator,Asia Pacific
+428,EGZ ende ツ#Skye,338,62.5%,19,"5,030",31.7%,Controller,Asia Pacific
+429,PIRATES 2ge#6045,338,52.7%,77,"5,331",21.1%,Duelist,Asia Pacific
+430,WC Karmzy#B23,338,56.2%,40,"4,241",22.5%,Controller,Asia Pacific
+431,rìÇe#OCE,338,57.5%,45,"4,730",16.3%,Duelist,Asia Pacific
+432,KANGA koroツ#777,337,42.0%,21,"5,394",24.3%,Duelist,Asia Pacific
+433,TM excali 释放#6969,337,53.8%,41,"4,955",25.5%,Duelist,Asia Pacific
+434,SG Merieux#3892,337,46.5%,48,"4,748",20.1%,Controller,Asia Pacific
+435,LittleNippleS#DAMN,337,60.7%,16,"5,270",17.6%,Duelist,Asia Pacific
+436,Lyf#2805,337,53.2%,32,"4,561",17.5%,Initiator,Asia Pacific
+437,AING DHITO#0701,337,42.2%,37,"4,827",23.1%,Initiator,Asia Pacific
+438,AE Tarathiel#CLST,337,44.7%,67,"4,305",22.1%,Sentinel,Asia Pacific
+439,taxx#4233,337,54.3%,24,"6,195",30.5%,Duelist,Asia Pacific
+440,R1x 사랑#111,337,48.1%,38,"4,680",22.9%,Duelist,Asia Pacific
+441,FA Tfy#7751,337,52.7%,68,"5,781",18.5%,Duelist,Asia Pacific
+442,GXR Emman#FBGG,337,53.8%,50,"5,525",29.8%,Duelist,Asia Pacific
+443,KNT Jaeku#shwty,337,51.8%,42,"4,313",12.6%,Sentinel,Asia Pacific
+444,dewa kipas#EuE,337,55.2%,36,"4,998",23.4%,Initiator,Asia Pacific
+445,pinkskies#xoxos,337,62.1%,43,"5,024",26.2%,Duelist,Asia Pacific
+446,RZK#why,336,51.5%,17,"4,767",15.3%,Sentinel,Asia Pacific
+447,Marlboro#ILUVU,336,57.1%,20,"4,925",17.2%,Duelist,Asia Pacific
+448,SZ marin#linho,336,55.6%,19,"5,391",18.5%,Duelist,Asia Pacific
+449,FXG Acetics#EIEI,336,55.3%,21,"4,762",28.8%,Initiator,Asia Pacific
+450,IG FFs#L3ong,336,68.2%,14,"5,167",20.3%,Initiator,Asia Pacific
+451,乌拉乌拉#925TN,336,53.4%,62,"4,922",16.7%,Duelist,Asia Pacific
+452,Lehgzy#4619,336,70.8%,16,"5,043",29.8%,Sentinel,Asia Pacific
+453,MirzAA#1942,336,55.8%,58,"5,004",26.6%,Controller,Asia Pacific
+454,ASE Orange#绝世好菜,336,53.4%,39,"5,051",33.4%,Duelist,Asia Pacific
+455,犯罪人#9053,336,52.2%,47,"4,609",13.8%,Controller,Asia Pacific
+456,zxervv#1360,336,53.2%,49,"4,577",26.7%,Duelist,Asia Pacific
+457,Mysecret#troll,335,53.6%,15,"5,125",27.7%,Duelist,Asia Pacific
+458,NR JUIJUIS#jmjm,335,53.5%,23,"4,940",23.5%,Duelist,Asia Pacific
+459,SilKanoN#9572,335,62.5%,25,"4,731",19.7%,Sentinel,Asia Pacific
+460,EXA artxsy#RTZ,335,60.6%,19,"4,691",16.8%,Sentinel,Asia Pacific
+461,yvonderkid#TTV,335,54.8%,23,"4,807",17.9%,Initiator,Asia Pacific
+462,74 NOBITA#001,335,47.4%,65,"5,134",20.2%,Initiator,Asia Pacific
+463,misterpoop#1559,335,48.6%,36,"4,028",19.0%,Sentinel,Asia Pacific
+464,m1KK#999,335,48.1%,37,"4,150",26.3%,Controller,Asia Pacific
+465,RNP#6237,335,53.6%,45,"4,369",21.4%,Controller,Asia Pacific
+466,Red#2109,335,60.9%,41,"4,999",14.9%,Duelist,Asia Pacific
+467,malibu#188,335,62.5%,29,"4,498",22.2%,Duelist,Asia Pacific
+468,L0B#L0B,334,62.5%,9,"6,034",21.9%,Duelist,Asia Pacific
+469,PepeLaugh#6264,334,48.6%,17,"4,837",16.2%,Initiator,Asia Pacific
+470,抱歉你頭有點大#1027,334,60.9%,14,"5,313",28.8%,Duelist,Asia Pacific
+471,ZS dodonut#REDKH,334,60.6%,19,"4,663",19.3%,Sentinel,Asia Pacific
+472,LFS PPDBJ#LFS,334,53.3%,24,"4,994",29.3%,Controller,Asia Pacific
+473,SNM GsN#OJR,334,54.9%,28,"4,065",32.8%,Sentinel,Asia Pacific
+474,XIAO ZenS#8786,334,54.3%,37,"4,672",26.2%,Controller,Asia Pacific
+475,Axilus#hei,334,50.8%,32,"5,082",22.2%,Duelist,Asia Pacific
+476,Enigma Ghost#1738,334,57.1%,48,"4,589",29.7%,Duelist,Asia Pacific
+477,NXS Pony#MLD,334,57.5%,22,"4,409",16.3%,Sentinel,Asia Pacific
+478,Temple#bpq,334,46.7%,42,"5,224",23.5%,Duelist,Asia Pacific
+479,Chalap#pond,334,58.6%,40,"4,821",15.9%,Duelist,Asia Pacific
+480,FEL Misaya#8197,333,72.2%,13,"5,348",16.9%,Duelist,Asia Pacific
+481,INT sunkissed M2#pkn,333,53.3%,15,"4,932",18.7%,Duelist,Asia Pacific
+482,Duttiboi#OCE,333,52.6%,30,"5,670",26.8%,Duelist,Asia Pacific
+483,KS Poopy#KNH,333,62.5%,19,"4,471",24.0%,Sentinel,Asia Pacific
+484,ARIARIARI#t9m,333,51.6%,32,"3,925",19.6%,Sentinel,Asia Pacific
+485,FXG kongared#9999,333,64.5%,20,"4,785",27.0%,Controller,Asia Pacific
+486,Youtube razkiNgz#subme,333,53.4%,126,"5,764",30.6%,Duelist,Asia Pacific
+487,24K Hemsyxx#ICRS,333,67.7%,20,"4,707",28.2%,Duelist,Asia Pacific
+488,FA kilo#30678,332,54.5%,17,"4,999",28.4%,Duelist,Asia Pacific
+489,GE SkRossiエース#4646,332,50.9%,26,"5,664",23.1%,Duelist,Asia Pacific
+490,NR JaoTae#Tae,332,54.2%,64,"4,990",19.6%,Duelist,Asia Pacific
+491,RC DEPT3T#asdf,332,60.6%,19,"5,269",23.8%,Controller,Asia Pacific
+492,WLF HoKoX#1113,332,48.5%,33,"4,681",19.5%,Initiator,Asia Pacific
+493,追放荷物持奈落行生還最強求戻団遅#最強主人公,332,58.8%,29,"5,328",23.0%,Duelist,Asia Pacific
+494,99Scrim#5513,332,56.0%,27,"5,638",26.2%,Duelist,Asia Pacific
+495,SE Gemini#0115,332,58.3%,34,"5,140",22.3%,Duelist,Asia Pacific
+496,しゅんすけ#annkw,332,70.0%,27,"4,781",29.2%,Controller,Asia Pacific
+497,Hello Beautiful#Heyy,331,60.0%,15,"5,436",25.4%,Duelist,Asia Pacific
+498,真实的#stx,331,52.5%,21,"4,786",18.4%,Duelist,Asia Pacific
+499,NR LAVA#dsds,331,65.4%,17,"4,377",21.1%,Duelist,Asia Pacific
+500,typhoid#ryan,331,56.0%,50,"4,451",22.0%,Duelist,Asia Pacific
