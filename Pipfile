@@ -12,6 +12,8 @@ requests = "*"
 beautifulsoup4 = "*"
 ipykernel = "*"
 matplotlib = "*"
+seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 
