@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 file = '2021-03-21_2157_Val_Top500_Stats'
 
 
-def wrangle(data):
+def scrape(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling
@@ -35,7 +35,7 @@ def wrangle(data):
     return df
 
 
-def wrangle_kor(data):
+def scrape_kor(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Korea region
@@ -68,7 +68,7 @@ def wrangle_kor(data):
     return df
 
 
-def wrangle_na(data):
+def scrape_na(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for North America region 
@@ -101,7 +101,7 @@ def wrangle_na(data):
     return df
 
 
-def wrangle_eu(data):
+def scrape_eu(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Europe region 
@@ -134,7 +134,7 @@ def wrangle_eu(data):
     return df
 
 
-def wrangle_br(data):
+def scrape_br(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Brazil region 
@@ -167,7 +167,7 @@ def wrangle_br(data):
     return df
 
 
-def wrangle_la(data):
+def scrape_la(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Latin America region 
@@ -200,7 +200,7 @@ def wrangle_la(data):
     return df
 
 
-def wrangle_ap(data):
+def scrape_ap(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Asia Pacific region 
