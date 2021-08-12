@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 file = '2021-03-21_2157_Val_Top500_Stats'
 
 
-def scrape(data):
+def create_df(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling
@@ -35,7 +35,7 @@ def scrape(data):
     return df
 
 
-def scrape_kor(data):
+def create_df_kor(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Korea region
@@ -68,7 +68,7 @@ def scrape_kor(data):
     return df
 
 
-def scrape_na(data):
+def create_df_na(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for North America region 
@@ -101,7 +101,7 @@ def scrape_na(data):
     return df
 
 
-def scrape_eu(data):
+def create_df_eu(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Europe region 
@@ -134,7 +134,7 @@ def scrape_eu(data):
     return df
 
 
-def scrape_br(data):
+def create_df_br(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Brazil region 
@@ -167,7 +167,7 @@ def scrape_br(data):
     return df
 
 
-def scrape_la(data):
+def create_df_la(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Latin America region 
@@ -200,7 +200,7 @@ def scrape_la(data):
     return df
 
 
-def scrape_ap(data):
+def create_df_ap(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling. Filter for Asia Pacific region 
@@ -249,3 +249,17 @@ def train_test_split():
 
 
     return X_train, X_test, y_train, y_test
+
+
+def create_final_DF(df_NA, df_EU, df_KR, df_BR, df_LA, df_AP):
+    '''
+    Combine all the created DF's for each region into one combined df
+    '''
+    df_final = pd.concat([df_NA, 
+                df_EU,
+                df_KR, 
+                df_BR, 
+                df_LA, 
+                df_AP])
+
+    return df_final
