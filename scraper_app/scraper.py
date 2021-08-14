@@ -45,6 +45,7 @@ def scrape_kor(link1 = dak_links.kr_link1, link2 = dak_links.kr_link2,
     Create Top 500 Korean df's based off of dak_links py file
     '''
     df_kr1 = scrape(link1)
+    print('worked')
     df_kr2 = scrape(link2)
     df_kr3 = scrape(link3)
     df_kr4 = scrape(link4)
