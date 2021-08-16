@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 file = '2021-03-21_2157_Val_Top500_Stats'
 
 
-def create_df(data):
+def wrangle(data):
     '''
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling
@@ -11,224 +11,18 @@ def create_df(data):
     # import data into df
     df = pd.read_csv(data)
 
-
     # remove spaces and symbols
     df['Winrate'] = df['Winrate'].str.replace('%', '')
     df['HS%'] = df['HS%'].str.replace('%', '')
     df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
 
     # convert numeric strings to floats
     df['Winrate'] = df['Winrate'].astype('float')
     df['HS%'] = df['HS%'].astype('float')
     df['Avg.Score'] = df['Avg.Score'].astype('float')
 
-
     # drop high-cardinality feature
     df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # drop region for model clarity
-    df.drop(columns = ['Region'], inplace = True)
-
-
-    return df
-
-
-def create_df_kor(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for Korea region
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'Korea'
-    df = df.loc[mask]
-
-
-    return df
-
-
-def create_df_na(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for North America region 
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'North America'
-    df = df.loc[mask]
-
-
-    return df
-
-
-def create_df_eu(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for Europe region 
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'Europe'
-    df = df.loc[mask]
-
-
-    return df
-
-
-def create_df_br(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for Brazil region 
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'Brazil'
-    df = df.loc[mask]
-
-
-    return df
-
-
-def create_df_la(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for Latin America region 
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'Latin America'
-    df = df.loc[mask]
-
-
-    return df
-
-
-def create_df_ap(data):
-    '''
-    Import Val Top 500 csv and clean to create a dataframe
-    appropriate for modeling. Filter for Asia Pacific region 
-    '''
-    # import data into df
-    df = pd.read_csv(data)
-
-
-    # remove spaces and symbols
-    df['Winrate'] = df['Winrate'].str.replace('%', '')
-    df['HS%'] = df['HS%'].str.replace('%', '')
-    df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
-
-
-    # convert numeric strings to floats
-    df['Winrate'] = df['Winrate'].astype('float')
-    df['HS%'] = df['HS%'].astype('float')
-    df['Avg.Score'] = df['Avg.Score'].astype('float')
-
-
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
-
-
-    # create mask to only have korean
-    mask = df['Region'] == 'Asia Pacific'
-    df = df.loc[mask]
-
 
     return df
 
@@ -249,17 +43,3 @@ def train_test_split():
 
 
     return X_train, X_test, y_train, y_test
-
-
-def create_final_DF(df_NA, df_EU, df_KR, df_BR, df_LA, df_AP):
-    '''
-    Combine all the created DF's for each region into one combined df
-    '''
-    df_final = pd.concat([df_NA, 
-                df_EU,
-                df_KR, 
-                df_BR, 
-                df_LA, 
-                df_AP])
-
-    return df_final
