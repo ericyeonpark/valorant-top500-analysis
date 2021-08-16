@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 
+
+from sqlalchemy.exc import ProgrammingError
+from dotenv import load_dotenv
+import psycopg2
+
+
 # import functions and code from other py files
 import dak_links
 
@@ -11,6 +17,14 @@ def final_scrape():
     Use each individual scraping functions to scrape Valorant stats from the Top 500 players in the 6 major 
     regions of Valorant
     '''
+    
+    # connect to database
+    db = dataset.connect(os.getenv("DB_URI"))
+    table = db["final_test"]
+    conn = psycopg2.connect(os.getenv("DB_URI"))
+    curs = conn.cursor()
+    conn.commit()
+
     # Scrape using scraping functions in scraper.py
     df_NA = scrape_na()
     df_EU = scrape_eu()
