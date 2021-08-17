@@ -1,4 +1,6 @@
 import requests
+import os
+import dataset
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 
@@ -11,6 +13,12 @@ import psycopg2
 # import functions and code from other py files
 import dak_links
 
+
+# import BD url from .env file
+load_dotenv()
+
+# make database connection
+db = dataset.connect(os.getenv("DB_URL"))
 
 def final_scrape():
     '''
