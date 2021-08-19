@@ -4,10 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi_utils.tasks import repeat_every
 
 # scraping functions from scraper.py
-from scraper.py import scrape
-from scraper.py import scrape_kor, scrape_eu, scrape_na, scrape_ap, scrape_br, scrape_la
-
-
+from scraper.py import final_scrape
 
 
 description = """
@@ -34,12 +31,12 @@ async def frankenbert(user_input):
 
 
 @app.on_event('startup')
-@repeat_every(seconds=60*60*24)  # set to run function below every 24 hours 60*60*24
+@repeat_every(seconds=60*60*24*30)  # set to run function below every 30 days
 async def run_update() -> None:
     #Add to scraper.log when scraper is called
     logging.info('is when the scraper was called')
     #updates possible incidents from twitter
-    update_twitter_data()
+    final_scrape()
     # Add to scraper log when scraper has finished
     logging.info('is when the scraper finished')
 
