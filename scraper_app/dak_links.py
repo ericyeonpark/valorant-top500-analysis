@@ -1,7 +1,23 @@
 '''
 Python file storing scraped links for Season 2 Act 2
 '''
+def create_link_kr():
+    '''
+    create links to scrape for kr server
+    '''
+    kr_link1 = 'https://dak.gg/valorant/leaderboard'
+    kr_link2 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=2&season=2&act=2'
+    kr_link3 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=3&season=2&act=2'
+    kr_link4 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=4&season=2&act=2'
+    kr_link5 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=5&season=2&act=2'
+    kr_link6 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=6&season=2&act=2'
+    kr_link7 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=7&season=2&act=2'
+    kr_link8 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=8&season=2&act=2'
+    kr_link9 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=9&season=2&act=2'
+    kr_link10 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=10&season=2&act=2'
 
+    return kr_link1, kr_link2, kr_link3, kr_link4, kr_link5, \
+           kr_link6, kr_link7, kr_link8, kr_link9, kr_link10
 
 #Create Top 500 Korean stat links 
 kr_link1 = 'https://dak.gg/valorant/leaderboard'
