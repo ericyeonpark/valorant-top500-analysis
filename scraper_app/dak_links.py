@@ -5,16 +5,18 @@ def create_link_kr():
     '''
     create links to scrape for kr server
     '''
-    kr_link1 = 'https://dak.gg/valorant/leaderboard'
-    kr_link2 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=2&season=2&act=2'
-    kr_link3 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=3&season=2&act=2'
-    kr_link4 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=4&season=2&act=2'
-    kr_link5 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=5&season=2&act=2'
-    kr_link6 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=6&season=2&act=2'
-    kr_link7 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=7&season=2&act=2'
-    kr_link8 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=8&season=2&act=2'
-    kr_link9 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=9&season=2&act=2'
-    kr_link10 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=10&season=2&act=2'
+    for season in range(2, 10, 1):
+        for act in range(1, 4, 1):
+            if ValueError:
+                kr_link2 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=2&season={}&act={}'.format(season, act-1)
+                kr_link3 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=3&season={}&act={}'.format(season, act-1)
+                kr_link4 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=4&season={}&act={}'.format(season, act-1)
+                kr_link5 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=5&season={}&act={}'.format(season, act-1)
+                kr_link6 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=6&season={}&act={}'.format(season, act-1)
+                kr_link7 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=7&season={}&act={}'.format(season, act-1)
+                kr_link8 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=8&season={}&act={}'.format(season, act-1)
+                kr_link9 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=9&season={}&act={}'.format(season, act-1)
+                kr_link10 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=10&season={}&act={}'.format(season, act-1)
 
     return kr_link1, kr_link2, kr_link3, kr_link4, kr_link5, \
            kr_link6, kr_link7, kr_link8, kr_link9, kr_link10
@@ -23,16 +25,16 @@ def create_link_eu():
     '''
     create links to scrape for kr server
     '''
-    eu_link1 = 'https://dak.gg/valorant/leaderboard'
-    eu_link2 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=2&season=2&act=2'
-    eu_link3 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=3&season=2&act=2'
-    eu_link4 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=4&season=2&act=2'
-    eu_link5 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=5&season=2&act=2'
-    eu_link6 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=6&season=2&act=2'
-    eu_link7 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=7&season=2&act=2'
-    eu_link8 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=8&season=2&act=2'
-    eu_link9 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=9&season=2&act=2'
-    eu_link10 = 'https://dak.gg/valorant/leaderboard?shard=kr&page=10&season=2&act=2'
+    eu_link1 = 'https://dak.gg/valorant/leaderboard?shard=eu'
+    eu_link2 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=2&season=2&act=2'
+    eu_link3 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=3&season=2&act=2'
+    eu_link4 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=4&season=2&act=2'
+    eu_link5 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=5&season=2&act=2'
+    eu_link6 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=6&season=2&act=2'
+    eu_link7 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=7&season=2&act=2'
+    eu_link8 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=8&season=2&act=2'
+    eu_link9 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=9&season=2&act=2'
+    eu_link10 = 'https://dak.gg/valorant/leaderboard?shard=eu&page=10&season=2&act=2'
 
     return eu_link1, eu_link2, eu_link3, eu_link4, eu_link5, \
            eu_link6, eu_link7, eu_link8, eu_link9, eu_link10
