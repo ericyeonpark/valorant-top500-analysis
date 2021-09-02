@@ -55,7 +55,7 @@ def load_data() -> List[Tuple]:
 
 def initialize_ranks_table():
     """ This only needs to be run once when setting up the DB """
-    db_action(f"""CREATE TABLE IF NOT EXISTS {table_name} (
+    db_action(f"""CREATE TABLE IF NOT EXISTS first_test (
     id SERIAL PRIMARY KEY NOT NULL,
     Rank INT,
     Player TEXT,

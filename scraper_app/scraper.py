@@ -29,7 +29,7 @@ def final_scrape():
     
     # connect to database
     db = dataset.connect(os.getenv("DB_URI"))
-    table = db["final_test"]
+    table = db["first_test"]
     conn = psycopg2.connect(os.getenv("DB_URI"))
     curs = conn.cursor()
     conn.commit()
