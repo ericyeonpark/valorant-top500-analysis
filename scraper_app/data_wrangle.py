@@ -8,21 +8,27 @@ def wrangle(data):
     Import Val Top 500 csv and clean to create a dataframe
     appropriate for modeling
     '''
+
+    # Create column names
+    col_names = ['Rank', 'Player', 'Rating', 'Winrate', 'Games',
+                'Average_Score', 'Head_Shot_Pct', 'Class', 'Region']
+
     # import data into df
-    df = pd.read_csv(data)
+    df = pd.read_csv(data, columns=col_names)
 
     # remove spaces and symbols
     df['Winrate'] = df['Winrate'].str.replace('%', '')
     df['HS%'] = df['HS%'].str.replace('%', '')
     df['Avg.Score'] = df['Avg.Score'].str.replace(',', '')
 
-    # convert numeric strings to floats
+    # convert numeric strings to floats or ints
     df['Winrate'] = df['Winrate'].astype('float')
     df['HS%'] = df['HS%'].astype('float')
     df['Avg.Score'] = df['Avg.Score'].astype('float')
+    df['Rank'] = df['Rank'].astype('int32')
 
-    # drop high-cardinality feature
-    df.drop(columns = ['Rank','Player'], inplace = True)
+    # # drop irrelevant, bugged columns
+    df.drop(columns = ['Most Agents'], inplace = True)
 
     return df
 
