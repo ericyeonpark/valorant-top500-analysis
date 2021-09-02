@@ -30,11 +30,6 @@ initialize_ranks_table()
 print('CREATED NEW TABLE')
 
 
-@app.get("/frankenbert/{user_input}")
-async def frankenbert(user_input):
-    return get_rank_of_force(user_input)
-
-
 @app.on_event('startup')
 @repeat_every(seconds=60*60*24*90)  # set to run function below every 30 days
 async def run_update() -> None:
