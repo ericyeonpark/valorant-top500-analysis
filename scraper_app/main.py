@@ -5,6 +5,7 @@ from fastapi_utils.tasks import repeat_every
 
 # scraping functions from scraper.py
 from scraper.py import final_scrape
+from db.py import initialize_ranks_table
 
 
 description = """
@@ -24,6 +25,10 @@ app = FastAPI(
     docs_url='/',
 )
 
+# Uncomment if new tables need to be generated
+initialize_ranks_table()
+print('CREATED NEW TABLE')
+
 
 @app.get("/frankenbert/{user_input}")
 async def frankenbert(user_input):
@@ -31,7 +36,7 @@ async def frankenbert(user_input):
 
 
 @app.on_event('startup')
-@repeat_every(seconds=60*60*24*30)  # set to run function below every 30 days
+@repeat_every(seconds=60*60*24*90)  # set to run function below every 30 days
 async def run_update() -> None:
     #Add to scraper.log when scraper is called
     logging.info('is when the scraper was called')
