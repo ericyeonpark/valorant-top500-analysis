@@ -4,8 +4,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi_utils.tasks import repeat_every
 
 # scraping functions from scraper.py
-from scraper.py import final_scrape
-from db.py import initialize_ranks_table
+from scraper import final_scrape
+from db import initialize_ranks_table
 
 
 description = """
