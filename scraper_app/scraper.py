@@ -33,13 +33,61 @@ def final_scrape():
     curs = conn.cursor()
     conn.commit()
 
+    # Get links to scrape
+    krs_link1, krs_link2, krs_link3, krs_link4, krs_link5, \
+        krs_link6, krs_link7, krs_link8, krs_link9, krs_link10 = create_link_kr()
+
+    eu_link1, eu_link2, eu_link3, eu_link4, eu_link5, \
+        eu_link6, eu_link7, eu_link8, eu_link9, eu_link10 = create_link_eu()
+
+    na_link1, na_link2, na_link3, na_link4, na_link5, \
+        na_link6, na_link7, na_link8, na_link9, na_link10 = create_link_na()
+
+    ap_link1, ap_link2, ap_link3, ap_link4, ap_link5, \
+        ap_link6, ap_link7, ap_link8, ap_link9, ap_link10 = create_link_ap()
+
+    br_link1, br_link2, br_link3, br_link4, br_link5, \
+        br_link6, br_link7, br_link8, br_link9, br_link10 = create_link_br()
+
+    la_link1, la_link2, la_link3, la_link4, la_link5, \
+        la_link6, la_link7, la_link8, la_link9, la_link10 = create_link_la()
+
     # Scrape using scraping functions in scraper.py
-    df_NA = scrape_na()
-    df_EU = scrape_eu()
-    df_KR = scrape_kr()
-    df_BR = scrape_br()
-    df_LA = scrape_la()
-    df_AP = scrape_ap()
+    df_KR = scrape_kr(link1 = kr_link1, link2 = kr_link2, 
+                    link3 = kr_link3, link4 = kr_link4, 
+                    link5 = kr_link5, link6 = kr_link6,
+                    link7 = kr_link7, link8 = kr_link8,
+                    link9 = kr_link9, link10 = kr_link10)
+
+    df_NA = scrape_na(link1 = na_link1, link2 = na_link2, 
+                    link3 = na_link3, link4 = na_link4, 
+                    link5 = na_link5, link6 = na_link6,
+                    link7 = na_link7, link8 = na_link8,
+                    link9 = na_link9, link10 = na_link10)
+
+    df_EU = scrape_eu(link1 = eu_link1, link2 = eu_link2, 
+                    link3 = eu_link3, link4 = eu_link4, 
+                    link5 = eu_link5, link6 = eu_link6,
+                    link7 = eu_link7, link8 = eu_link8,
+                    link9 = eu_link9, link10 = eu_link10)
+
+    df_BR = scrape_br(link1 = br_link1, link2 = br_link2, 
+                    link3 = br_link3, link4 = br_link4, 
+                    link5 = br_link5, link6 = br_link6,
+                    link7 = br_link7, link8 = br_link8,
+                    link9 = br_link9, link10 = br_link10)
+
+    df_LA = scrape_la(link1 = la_link1, link2 = la_link2, 
+                    link3 = la_link3, link4 = la_link4, 
+                    link5 = la_link5, link6 = la_link6,
+                    link7 = la_link7, link8 = la_link8,
+                    link9 = la_link9, link10 = la_link10)
+
+    df_AP = scrape_ap(link1 = ap_link1, link2 = ap_link2, 
+                    link3 = ap_link3, link4 = ap_link4, 
+                    link5 = ap_link5, link6 = ap_link6,
+                    link7 = ap_link7, link8 = ap_link8,
+                    link9 = ap_link9, link10 = ap_link10)
 
     # concat df created from scraping functions
     df_final = pd.concat([df_NA, 
