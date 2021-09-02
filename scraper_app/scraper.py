@@ -12,6 +12,7 @@ import psycopg2
 
 # import functions and code from other py files
 import dak_links
+from data_wrangle import wrangle
 
 
 # import BD url from .env file
@@ -33,6 +34,7 @@ def final_scrape():
     curs = conn.cursor()
     conn.commit()
 
+
     # Get links to scrape
     kr_link1, kr_link2, kr_link3, kr_link4, kr_link5, \
         kr_link6, kr_link7, kr_link8, kr_link9, kr_link10 = create_link_kr()
@@ -51,6 +53,7 @@ def final_scrape():
 
     la_link1, la_link2, la_link3, la_link4, la_link5, \
         la_link6, la_link7, la_link8, la_link9, la_link10 = create_link_la()
+
 
     # Scrape using scraping functions in scraper.py
     df_KR = scrape_kr(link1 = kr_link1, link2 = kr_link2, 
@@ -89,15 +92,31 @@ def final_scrape():
                     link7 = ap_link7, link8 = ap_link8,
                     link9 = ap_link9, link10 = ap_link10)
 
+
     # concat df created from scraping functions
-    df_final = pd.concat([df_NA, 
+    df_combined = pd.concat([df_NA, 
                           df_EU,
                           df_KR, 
                           df_BR, 
                           df_LA, 
                           df_AP])
 
-    return df_final
+    df_final = wrangle(df_combined)
+
+    table.insert(dict(
+                        Rank=df_final['Rank'],
+                        Player=df_final['Player'],
+                        Rating=df_final['Rating'],
+                        Winrate=df_final['Winrate'],
+                        Games=df_final['Games'],
+                        Average_Score=df_final['Average_Score'],
+                        Head_Shot_Pct=df_final['Head_Shot_Pct'],
+                        Class=df_final['Class'],
+                        Region=df_final['Region'],
+                        ))
+
+    curs.close()
+    conn.close()
 
 
 def scrape(link):
