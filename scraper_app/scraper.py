@@ -34,8 +34,8 @@ def final_scrape():
     conn.commit()
 
     # Get links to scrape
-    krs_link1, krs_link2, krs_link3, krs_link4, krs_link5, \
-        krs_link6, krs_link7, krs_link8, krs_link9, krs_link10 = create_link_kr()
+    kr_link1, kr_link2, kr_link3, kr_link4, kr_link5, \
+        kr_link6, kr_link7, kr_link8, kr_link9, kr_link10 = create_link_kr()
 
     eu_link1, eu_link2, eu_link3, eu_link4, eu_link5, \
         eu_link6, eu_link7, eu_link8, eu_link9, eu_link10 = create_link_eu()
