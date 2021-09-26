@@ -15,7 +15,13 @@ matplotlib = "*"
 seaborn = "*"
 scipy = "*"
 
+[app]
+uvicorn = {extras = ["standard"], version = "*"}
+psycopg2-binary = "*"
+requests = "*"
+
 [dev-packages]
 
 [requires]
 python_version = "3.9"
+
